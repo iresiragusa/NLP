@@ -1,4 +1,5 @@
 # Final Project
+[registrazione gruppi](https://forms.gle/p5dBNoA1otbaTNtQ7)
 
 ## **ACTI task from EVALITA 2023**
 ## Subtask A - Conspiratorial Content Classification
