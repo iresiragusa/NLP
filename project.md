@@ -42,7 +42,7 @@
 
 ## Emoji
 
-  Su python è possibile interagire con le emoji attraverso alcune librerie come [emoji](https://github.com/kyokomi/emoji) e [emot](https://github.com/NeelShah18/emot). Inoltre alcuni tokenizer dei modelli BERT-like hanno un token associato alle diverse emoji o, quando questo non è presente, è possibile aggiungere nuovi token e permettere al modello di apprendere una nuova rappresentazione tramite fine-tuning del modello.
+  Su python è possibile interagire con le emoji attraverso alcune librerie come [emoji](https://github.com/kyokomi/emoji) e [emot](https://github.com/NeelShah18/emot). Inoltre alcuni tokenizer dei modelli BERT-like hanno un token associato alle diverse emoji o, quando questo non è presente, è possibile aggiungere nuovi token e permettere al modello di apprendere una nuova rappresentazione tramite fine-tuning del modello. Questo si fa tramite la funzione add_tokens del tokenizer ed è necessario il resize del modello [more info + esempio](https://huggingface.co/docs/transformers/main_classes/tokenizer#transformers.PreTrainedTokenizer.add_tokens)
 
 
 Potete contattarmi via mail irene.siragusa02@unipa.it
