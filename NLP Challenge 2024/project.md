@@ -22,11 +22,9 @@
 
 ## Quali modelli usare
 
-  Su huggingface sono presenti diversi modelli BERT-like che potete usare, ovviamente, dato il task, è necessario usare modelli che "conoscono" la lingua italiana pertanto il BERT originario, che è solo in inglese, non lo possiamo utilizzare.
-  
-  Ecco alcuni modelli che potete usare: dbmdz/bert-base-italian-cased, m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alb3rt0, bert-base-multilingual-uncased, distilbert-base-multilingual-cased, xlm-roberta-base.
+  Su huggingface sono presenti diversi modelli di tipo encoder-only (BERT-like), e non solo, che potete usare. Modelli diversi hanno tokenizer e pesi diversi e sono stati addestrati su diversi dati e con diverse strategie. Assicuratevi che i modelli che utilizzate non siano stati addestrati per il task di rilevazione di sentiment/irony su tweet, guardando il paper verificate che non ci siano "contaminazioni" nei dataset di addestramento.
 
-   ***! Attenzione !*** la lista non è esaustiva e alcuni modelli possono variare con versione cased/uncased, base/large, in particolare i modelli large non restituiscono un embedding di 768 elementi.
+   ***! Attenzione !*** Alcuni modelli possono variare con versione cased/uncased, base/large, in particolare i modelli large non restituiscono un embedding di 768 elementi, e verificate anche la grandezza dell'input che tali modelli richiedono in ingresso.
 
 ## Emoji
 
