@@ -1,5 +1,13 @@
 # **Hints**
 
+## Esame
+
+Ai fini dell'esame dovrete mandare via e-mail i notebook (uno per task) usati per il pre-processing dei dati, l'addestramento dei modelli e la generazione delle predizioni e i punteggi ottenuti sulla leaderboard.
+
+I notebook dovranno essere già eseguiti e commentati, illustrando i vostri ragionamenti e scelte architetturari. È necessario che il team leader invii la mail a nome del gruppo con oggetto _[NLP] consegna esame NOME_GRUPPO_ 
+
+L’accesso alla piattaforma per la sottomissione dei risultati e la consegna del progetto ha una deadline fissata entro la fine di marzo, così da poter consegnare il progetto entro le tre sessioni invernale e la straordinaria di aprile.
+
 ## Binary classification vs Multi-class classification
   
   Richiedono considerazioni diverse in termini di activation function + loss function ([more info](https://medium.com/analytics-vidhya/activation-functions-and-loss-functions-for-neural-networks-how-to-pick-the-right-one-542e1dd523e0)):
@@ -22,7 +30,7 @@
 
 ## Quali modelli usare
 
-  Su huggingface sono presenti diversi modelli di tipo encoder-only (BERT-like), e non solo, che potete usare. Modelli diversi hanno tokenizer e pesi diversi e sono stati addestrati su diversi dati e con diverse strategie. Assicuratevi che i modelli che utilizzate non siano stati addestrati per il task di rilevazione di sentiment/irony su tweet, guardando il paper verificate che non ci siano "contaminazioni" nei dataset di addestramento.
+  Su huggingface sono presenti diversi modelli di tipo encoder-only, encoder-decoder e decoder-only che potete usare. Modelli diversi hanno tokenizer e pesi diversi e sono stati addestrati su diversi dati e con diverse strategie. Assicuratevi che i modelli che utilizzate non siano stati addestrati per il task di rilevazione di sentiment/irony su tweet, guardando il paper verificate che non ci siano "contaminazioni" nei dataset di addestramento.
 
    ***! Attenzione !*** Alcuni modelli possono variare con versione cased/uncased, base/large, in particolare i modelli large non restituiscono un embedding di 768 elementi, e verificate anche la grandezza dell'input che tali modelli richiedono in ingresso.
 
