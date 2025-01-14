@@ -8,6 +8,15 @@ I notebook dovranno essere già eseguiti e commentati, illustrando i vostri ragi
 
 L’accesso alla piattaforma per la sottomissione dei risultati e la consegna del progetto ha una deadline fissata entro la fine di marzo, così da poter consegnare il progetto entro le tre sessioni invernale e la straordinaria di aprile.
 
+### Submission leaderboard
+
+Sulla piattaforma Palantir Foundry di OpenDataPlayground, i file devono essere sottomessi secondo questi formati:
+
+  - irony -> csv file w/ *only* predictions only
+  - emotion -> csv file w/ header (label) + predictions
+
+Se avete dubbi, controllate i file Example_Prediction_Submission.csv di entrambi i task. 
+
 ## Binary classification vs Multi-class classification
   
   Richiedono considerazioni diverse in termini di activation function + loss function ([more info](https://medium.com/analytics-vidhya/activation-functions-and-loss-functions-for-neural-networks-how-to-pick-the-right-one-542e1dd523e0)):
