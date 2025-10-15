@@ -1,0 +1,13084 @@
+Sentence ID: 1
+Sentence: Evacuata la Tate Gallery.
+POS:
+Evacuata	VERB
+la	DET
+Tate	PROPN
+Gallery	PROPN
+.	PUNCT
+
+Sentence ID: 2
+Sentence: GOTEBORG - È stata la giornata del doppio oro italiano ai Mondiali di atletica:
+POS:
+GOTEBORG	PROPN
+-	PUNCT
+È	AUX
+stata	AUX
+la	DET
+giornata	NOUN
+del	_
+di	ADP
+il	DET
+doppio	ADJ
+oro	NOUN
+italiano	ADJ
+ai	_
+a	ADP
+i	DET
+Mondiali	NOUN
+di	ADP
+atletica	NOUN
+:	PUNCT
+
+Sentence ID: 3
+Sentence: Negli ambienti giudiziari si tende ad accreditare la tesi di una leggerezza, escludendo che il militare volesse veramente mettere in pericolo l'incolumità del presidente Scalfaro.
+POS:
+Negli	_
+In	ADP
+gli	DET
+ambienti	NOUN
+giudiziari	ADJ
+si	PRON
+tende	VERB
+ad	ADP
+accreditare	VERB
+la	DET
+tesi	NOUN
+di	ADP
+una	DET
+leggerezza	NOUN
+,	PUNCT
+escludendo	VERB
+che	SCONJ
+il	DET
+militare	NOUN
+volesse	AUX
+veramente	ADV
+mettere	VERB
+in	ADP
+pericolo	NOUN
+l'	DET
+incolumità	NOUN
+del	_
+di	ADP
+il	DET
+presidente	NOUN
+Scalfaro	PROPN
+.	PUNCT
+
+Sentence ID: 4
+Sentence: Nuovo appello del Papa:
+POS:
+Nuovo	ADJ
+appello	NOUN
+del	_
+di	ADP
+il	DET
+Papa	PROPN
+:	PUNCT
+
+Sentence ID: 5
+Sentence: Un ottimo conservatorio un valido musicista.
+POS:
+Un	DET
+ottimo	NOUN
+conservatorio	ADJ
+un	DET
+valido	ADJ
+musicista	NOUN
+.	PUNCT
+
+Sentence ID: 6
+Sentence: Fanno fatica ad ammettere che una mescolanza misteriosa di fattori genetici, di educazione e di stimoli ambientali, possa produrre individui che sanno fare cose che essi non potranno mai nemmeno immaginare.
+POS:
+Fanno	VERB
+fatica	NOUN
+ad	ADP
+ammettere	VERB
+che	SCONJ
+una	DET
+mescolanza	NOUN
+misteriosa	ADJ
+di	ADP
+fattori	NOUN
+genetici	ADJ
+,	PUNCT
+di	ADP
+educazione	NOUN
+e	CCONJ
+di	ADP
+stimoli	_
+stimo	NOUN
+li	PRON
+ambientali	ADJ
+,	PUNCT
+possa	AUX
+produrre	VERB
+individui	NOUN
+che	PRON
+sanno	VERB
+fare	VERB
+cose	NOUN
+che	SCONJ
+essi	PRON
+non	ADV
+potranno	AUX
+mai	ADV
+nemmeno	ADV
+immaginare	VERB
+.	PUNCT
+
+Sentence ID: 7
+Sentence: Loro non ci sarebbero mai potuti arrivare, perché la loro mente seguiva le strade consuete, e l'altra no, l'altra lottava contro l'impossibile.
+POS:
+Loro	PRON
+non	ADV
+ci	PRON
+sarebbero	AUX
+mai	ADV
+potuti	VERB
+arrivare	VERB
+,	PUNCT
+perché	SCONJ
+la	DET
+loro	DET
+mente	NOUN
+seguiva	VERB
+le	DET
+strade	NOUN
+consuete	ADJ
+,	PUNCT
+e	CCONJ
+l'	DET
+altra	PRON
+no	ADV
+,	PUNCT
+l'	DET
+altra	ADJ
+lottava	NOUN
+contro	ADP
+l'	DET
+impossibile	NOUN
+.	PUNCT
+
+Sentence ID: 8
+Sentence: lo storico, paternalistico disinteresse della chiesa cattolica verso il loro "genio" è alla fine.
+POS:
+lo	DET
+storico	NOUN
+,	PUNCT
+paternalistico	ADJ
+disinteresse	VERB
+della	_
+di	ADP
+la	DET
+chiesa	NOUN
+cattolica	ADJ
+verso	ADP
+il	DET
+loro	DET
+"	PUNCT
+genio	NOUN
+"	PUNCT
+è	AUX
+alla	_
+a	ADP
+la	DET
+fine	NOUN
+.	PUNCT
+
+Sentence ID: 9
+Sentence: Anche Maria, ricorda Wojtyla, "portò il peso" di una storica emarginazione ...
+POS:
+Anche	ADV
+Maria	PROPN
+,	PUNCT
+ricorda	VERB
+Wojtyla	PROPN
+,	PUNCT
+"	PUNCT
+portò	VERB
+il	DET
+peso	NOUN
+"	PUNCT
+di	ADP
+una	DET
+storica	ADJ
+emarginazione	NOUN
+...	PUNCT
+
+Sentence ID: 10
+Sentence: eppure "il figlio di Dio non esitò a mettersi alla sua scuola".
+POS:
+eppure	NOUN
+"	PUNCT
+il	DET
+figlio	NOUN
+di	ADP
+Dio	NOUN
+non	ADV
+esitò	VERB
+a	ADP
+mettersi	_
+metter	VERB
+si	PRON
+alla	_
+a	ADP
+la	DET
+sua	DET
+scuola	NOUN
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 11
+Sentence: Un corazziere contro Scalfaro.
+POS:
+Un	DET
+corazziere	NOUN
+contro	ADP
+Scalfaro	PROPN
+.	PUNCT
+
+Sentence ID: 12
+Sentence: Il nome del carabiniere (i corazzieri sono infatti un reparto speciale dell'Arma) è "top secret", ma la vicenda è stata denunciata alla magistratura e il procuratore militare Antonino Intelisano ha aperto un'inchiesta per il reato di offesa all'onore del presidente della Repubblica.
+POS:
+Il	DET
+nome	NOUN
+del	_
+di	ADP
+il	DET
+carabiniere	NOUN
+(	PUNCT
+i	DET
+corazzieri	NOUN
+sono	AUX
+infatti	ADV
+un	DET
+reparto	NOUN
+speciale	ADJ
+dell'	_
+di	ADP
+l'	DET
+Arma	PROPN
+)	PUNCT
+è	AUX
+"	PUNCT
+top	ADJ
+secret	NOUN
+"	PUNCT
+,	PUNCT
+ma	CCONJ
+la	DET
+vicenda	NOUN
+è	AUX
+stata	AUX
+denunciata	VERB
+alla	_
+a	ADP
+la	DET
+magistratura	NOUN
+e	CCONJ
+il	DET
+procuratore	NOUN
+militare	ADJ
+Antonino	PROPN
+Intelisano	PROPN
+ha	AUX
+aperto	VERB
+un'	DET
+inchiesta	NOUN
+per	ADP
+il	DET
+reato	NOUN
+di	ADP
+offesa	NOUN
+all'	_
+a	ADP
+l'	DET
+onore	NOUN
+del	_
+di	ADP
+il	DET
+presidente	NOUN
+della	_
+di	ADP
+la	DET
+Repubblica	PROPN
+.	PUNCT
+
+Sentence ID: 13
+Sentence: L'altro giorno mio figlio, che ha una casetta in affitto a Palù del Fersina, in Trentino, voleva portarlo su al fresco, perché si riposasse qualche giorno, ma lui non se l'è sentita di partire.
+POS:
+L'	DET
+altro	ADJ
+giorno	NOUN
+mio	DET
+figlio	NOUN
+,	PUNCT
+che	PRON
+ha	VERB
+una	DET
+casetta	NOUN
+in	ADP
+affitto	NOUN
+a	ADP
+Palù	PROPN
+del	_
+di	ADP
+il	DET
+Fersina	PROPN
+,	PUNCT
+in	ADP
+Trentino	PROPN
+,	PUNCT
+voleva	AUX
+portarlo	_
+portar	VERB
+lo	PRON
+su	ADP
+al	_
+a	ADP
+il	DET
+fresco	ADJ
+,	PUNCT
+perché	SCONJ
+si	PRON
+riposasse	VERB
+qualche	DET
+giorno	NOUN
+,	PUNCT
+ma	CCONJ
+lui	PRON
+non	ADV
+se	PRON
+l'	PRON
+è	AUX
+sentita	VERB
+di	ADP
+partire	VERB
+.	PUNCT
+
+Sentence ID: 14
+Sentence: Sergio Minetto, ex volontario nella Repubblica di Salò, riparatore di frigoriferi, tre figli (due dei quali impegnati nella sinistra), era stato arrestato nella sua abitazione il 17 maggio, su ordine del giudice milanese Guido Salvini.
+POS:
+Sergio	PROPN
+Minetto	PROPN
+,	PUNCT
+ex	ADJ
+volontario	NOUN
+nella	_
+in	ADP
+la	DET
+Repubblica	PROPN
+di	ADP
+Salò	PROPN
+,	PUNCT
+riparatore	VERB
+di	ADP
+frigoriferi	NOUN
+,	PUNCT
+tre	NUM
+figli	NOUN
+(	PUNCT
+due	NUM
+dei	_
+di	ADP
+i	DET
+quali	PRON
+impegnati	VERB
+nella	_
+in	ADP
+la	DET
+sinistra	NOUN
+)	PUNCT
+,	PUNCT
+era	AUX
+stato	AUX
+arrestato	VERB
+nella	_
+in	ADP
+la	DET
+sua	DET
+abitazione	NOUN
+il	DET
+17	NUM
+maggio	NOUN
+,	PUNCT
+su	ADP
+ordine	NOUN
+del	_
+di	ADP
+il	DET
+giudice	NOUN
+milanese	ADJ
+Guido	PROPN
+Salvini	PROPN
+.	PUNCT
+
+Sentence ID: 15
+Sentence: La sperimentazione dell'atomica ha cambiato il mondo per sempre, si disse subito dopo Hiroshima.
+POS:
+La	DET
+sperimentazione	NOUN
+dell'	_
+di	ADP
+l'	DET
+atomica	NOUN
+ha	AUX
+cambiato	VERB
+il	DET
+mondo	NOUN
+per	ADP
+sempre	ADV
+,	PUNCT
+si	PRON
+disse	VERB
+subito	ADV
+dopo	ADP
+Hiroshima	PROPN
+.	PUNCT
+
+Sentence ID: 16
+Sentence: Il tutto avviene con la connivenza delle autorità costituite e così uno dei Paesi più ricchi del mondo è stato gettato in uno stato di povertà assoluta.
+POS:
+Il	DET
+tutto	PRON
+avviene	VERB
+con	ADP
+la	DET
+connivenza	NOUN
+delle	_
+di	ADP
+le	DET
+autorità	NOUN
+costituite	VERB
+e	CCONJ
+così	ADV
+uno	PRON
+dei	_
+di	ADP
+i	DET
+Paesi	NOUN
+più	ADV
+ricchi	ADJ
+del	_
+di	ADP
+il	DET
+mondo	NOUN
+è	AUX
+stato	AUX
+gettato	VERB
+in	ADP
+uno	DET
+stato	NOUN
+di	ADP
+povertà	NOUN
+assoluta	ADJ
+.	PUNCT
+
+Sentence ID: 17
+Sentence: I Castiglioni li chiamavano per scherzo "gli africani" e, dal paesino comasco, in tanti erano andati a trovarli in questi anni, laggiù.
+POS:
+I	DET
+Castiglioni	PROPN
+li	PRON
+chiamavano	VERB
+per	ADP
+scherzo	NOUN
+"	PUNCT
+gli	DET
+africani	NOUN
+"	PUNCT
+e	CCONJ
+,	PUNCT
+dal	_
+da	ADP
+il	DET
+paesino	NOUN
+comasco	ADJ
+,	PUNCT
+in	ADP
+tanti	PRON
+erano	AUX
+andati	VERB
+a	ADP
+trovarli	_
+trovar	VERB
+li	PRON
+in	ADP
+questi	DET
+anni	NOUN
+,	PUNCT
+laggiù	ADV
+.	PUNCT
+
+Sentence ID: 18
+Sentence: Un mese in Africa, lasciando a casa i genitori (Lamberti) e moglie e due figli (Cattaneo).
+POS:
+Un	DET
+mese	NOUN
+in	ADP
+Africa	PROPN
+,	PUNCT
+lasciando	VERB
+a	ADP
+casa	NOUN
+i	DET
+genitori	NOUN
+(	PUNCT
+Lamberti	PROPN
+)	PUNCT
+e	CCONJ
+moglie	NOUN
+e	CCONJ
+due	NUM
+figli	NOUN
+(	PUNCT
+Cattaneo	PROPN
+)	PUNCT
+.	PUNCT
+
+Sentence ID: 19
+Sentence: era partito solo qualche mese fa.
+POS:
+era	AUX
+partito	VERB
+solo	ADV
+qualche	DET
+mese	NOUN
+fa	ADV
+.	PUNCT
+
+Sentence ID: 20
+Sentence: MILANO - "Carissimi, ho ricevuto con grande piacere la vostra lettera e con altrettanto sento che state bene.
+POS:
+MILANO	PROPN
+-	PUNCT
+"	PUNCT
+Carissimi	PROPN
+,	PUNCT
+ho	AUX
+ricevuto	VERB
+con	ADP
+grande	ADJ
+piacere	NOUN
+la	DET
+vostra	DET
+lettera	NOUN
+e	CCONJ
+con	ADP
+altrettanto	NOUN
+sento	ADJ
+che	PRON
+state	VERB
+bene	ADV
+.	PUNCT
+
+Sentence ID: 21
+Sentence: assassini e omicidi sono all'ordine del giorno tra i locali;
+POS:
+assassini	NOUN
+e	CCONJ
+omicidi	NOUN
+sono	AUX
+all'	_
+a	ADP
+l'	DET
+ordine	NOUN
+del	_
+di	ADP
+il	DET
+giorno	NOUN
+tra	ADP
+i	DET
+locali	NOUN
+;	PUNCT
+
+Sentence ID: 22
+Sentence: Irene venga a lezione di tolleranza.
+POS:
+Irene	PROPN
+venga	VERB
+a	ADP
+lezione	NOUN
+di	ADP
+tolleranza	NOUN
+.	PUNCT
+
+Sentence ID: 23
+Sentence: E la fiducia è ritornata.
+POS:
+E	CCONJ
+la	DET
+fiducia	NOUN
+è	AUX
+ritornata	VERB
+.	PUNCT
+
+Sentence ID: 24
+Sentence: A quel punto può coltivare la sua passione per la storia militante e di lì a poco sposa la linea dei nazionalisti.
+POS:
+A	ADP
+quel	DET
+punto	NOUN
+può	AUX
+coltivare	VERB
+la	DET
+sua	DET
+passione	NOUN
+per	ADP
+la	DET
+storia	NOUN
+militante	ADJ
+e	CCONJ
+di	ADP
+lì	ADV
+a	ADP
+poco	ADV
+sposa	VERB
+la	DET
+linea	NOUN
+dei	_
+di	ADP
+i	DET
+nazionalisti	NOUN
+.	PUNCT
+
+Sentence ID: 25
+Sentence: Poi ha dovuto seguire la Slovenia.
+POS:
+Poi	ADV
+ha	AUX
+dovuto	AUX
+seguire	VERB
+la	DET
+Slovenia	PROPN
+.	PUNCT
+
+Sentence ID: 26
+Sentence: È guerra con i nemici".
+POS:
+È	AUX
+guerra	NOUN
+con	ADP
+i	DET
+nemici	NOUN
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 27
+Sentence: una volta per sempre Bossi va colpito secondo la legge".
+POS:
+una	DET
+volta	NOUN
+per	ADP
+sempre	ADV
+Bossi	PROPN
+va	AUX
+colpito	VERB
+secondo	ADP
+la	DET
+legge	NOUN
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 28
+Sentence: È nel suo diritto.
+POS:
+È	AUX
+nel	_
+in	ADP
+il	DET
+suo	DET
+diritto	NOUN
+.	PUNCT
+
+Sentence ID: 29
+Sentence: La sinistra l'ha attaccata perché Pivetti non si è adeguata.
+POS:
+La	DET
+sinistra	NOUN
+l'	PRON
+ha	AUX
+attaccata	VERB
+perché	SCONJ
+Pivetti	PROPN
+non	ADV
+si	PRON
+è	AUX
+adeguata	VERB
+.	PUNCT
+
+Sentence ID: 30
+Sentence: Prima ho dovuto lottare con una del mio stesso partito, Tina Lagostena Bassi.
+POS:
+Prima	ADV
+ho	AUX
+dovuto	AUX
+lottare	VERB
+con	ADP
+una	PRON
+del	_
+di	ADP
+il	DET
+mio	DET
+stesso	ADJ
+partito	NOUN
+,	PUNCT
+Tina	PROPN
+Lagostena	PROPN
+Bassi	PROPN
+.	PUNCT
+
+Sentence ID: 31
+Sentence: Ma se gliene avete fatte di tutti i colori, voi di Forza Italia ....
+POS:
+Ma	CCONJ
+se	SCONJ
+gliene	VERB
+avete	AUX
+fatte	VERB
+di	ADP
+tutti	DET
+i	DET
+colori	NOUN
+,	PUNCT
+voi	PRON
+di	ADP
+Forza	PROPN
+Italia	PROPN
+...	PUNCT
+.	PUNCT
+
+Sentence ID: 32
+Sentence: Il blitz è riuscito, "dal punto di vista tattico" l'operazione è considerata già conclusa.
+POS:
+Il	DET
+blitz	NOUN
+è	AUX
+riuscito	VERB
+,	PUNCT
+"	PUNCT
+dal	_
+da	ADP
+il	DET
+punto	NOUN
+di	ADP
+vista	NOUN
+tattico	ADJ
+"	PUNCT
+l'	DET
+operazione	NOUN
+è	AUX
+considerata	VERB
+già	ADV
+conclusa	VERB
+.	PUNCT
+
+Sentence ID: 33
+Sentence: i serbi abbandonano in massa la Krajina espugnata dall'esercito di Zagabria, gli ultimi croati vengono espulsi dalla Bosnia serba per vendetta e per far posto ai nuovi arrivi;
+POS:
+i	DET
+serbi	NOUN
+abbandonano	VERB
+in	ADP
+massa	NOUN
+la	DET
+Krajina	PROPN
+espugnata	VERB
+dall'	_
+da	ADP
+l'	DET
+esercito	NOUN
+di	ADP
+Zagabria	PROPN
+,	PUNCT
+gli	DET
+ultimi	ADJ
+croati	NOUN
+vengono	AUX
+espulsi	VERB
+dalla	_
+da	ADP
+la	DET
+Bosnia	PROPN
+serba	ADJ
+per	ADP
+vendetta	NOUN
+e	CCONJ
+per	ADP
+far	VERB
+posto	NOUN
+ai	_
+a	ADP
+i	DET
+nuovi	ADJ
+arrivi	NOUN
+;	PUNCT
+
+Sentence ID: 34
+Sentence: Ma già si parla di epurazioni e di processi contro i vinti.
+POS:
+Ma	CCONJ
+già	ADV
+si	PRON
+parla	VERB
+di	ADP
+epurazioni	NOUN
+e	CCONJ
+di	ADP
+processi	NOUN
+contro	ADP
+i	DET
+vinti	NOUN
+.	PUNCT
+
+Sentence ID: 35
+Sentence: Ci stavano sterminando".
+POS:
+Ci	PRON
+stavano	AUX
+sterminando	VERB
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 36
+Sentence: Sabato Mladic aveva spedito un fax dal suo quartier generale per definire "illegale" la decisione del presidente e invocare il sostegno dei suoi soldati.
+POS:
+Sabato	NOUN
+Mladic	PROPN
+aveva	AUX
+spedito	VERB
+un	DET
+fax	NOUN
+dal	_
+da	ADP
+il	DET
+suo	DET
+quartier	NOUN
+generale	ADJ
+per	ADP
+definire	VERB
+"	PUNCT
+illegale	ADJ
+"	PUNCT
+la	DET
+decisione	NOUN
+del	_
+di	ADP
+il	DET
+presidente	NOUN
+e	CCONJ
+invocare	VERB
+il	DET
+sostegno	NOUN
+dei	_
+di	ADP
+i	DET
+suoi	DET
+soldati	NOUN
+.	PUNCT
+
+Sentence ID: 37
+Sentence: I generali si sono anche appellati al "parlamento" di Pale.
+POS:
+I	DET
+generali	NOUN
+si	PRON
+sono	AUX
+anche	ADV
+appellati	VERB
+al	_
+a	ADP
+il	DET
+"	PUNCT
+parlamento	NOUN
+"	PUNCT
+di	ADP
+Pale	PROPN
+.	PUNCT
+
+Sentence ID: 38
+Sentence: "Lui le regalò un porcellino salvadanaio".
+POS:
+"	PUNCT
+Lui	PRON
+le	PRON
+regalò	VERB
+un	DET
+porcellino	NOUN
+salvadanaio	NOUN
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 39
+Sentence: il fusto in questione non è una sconosciuta guardia del corpo o un cavaliere dell'empireo aristocratico, ma un eroe dell'immaginario popolare.
+POS:
+il	DET
+fusto	NOUN
+in	ADP
+questione	NOUN
+non	ADV
+è	AUX
+una	DET
+sconosciuta	ADJ
+guardia	NOUN
+del	_
+di	ADP
+il	DET
+corpo	NOUN
+o	CCONJ
+un	DET
+cavaliere	NOUN
+dell'	_
+di	ADP
+l'	DET
+empireo	NOUN
+aristocratico	ADJ
+,	PUNCT
+ma	CCONJ
+un	DET
+eroe	NOUN
+dell'	_
+di	ADP
+l'	DET
+immaginario	NOUN
+popolare	ADJ
+.	PUNCT
+
+Sentence ID: 40
+Sentence: Qui solo due anni fa dominava il coprifuoco imposto dai soldati israeliani.
+POS:
+Qui	ADV
+solo	ADV
+due	NUM
+anni	NOUN
+fa	ADV
+dominava	VERB
+il	DET
+coprifuoco	NOUN
+imposto	VERB
+dai	_
+da	ADP
+i	DET
+soldati	NOUN
+israeliani	ADJ
+.	PUNCT
+
+Sentence ID: 41
+Sentence: "Venite al primo circo nella storia di Gaza", avvisano le locandine.
+POS:
+"	PUNCT
+Venite	VERB
+al	_
+a	ADP
+il	DET
+primo	ADJ
+circo	NOUN
+nella	_
+in	ADP
+la	DET
+storia	NOUN
+di	ADP
+Gaza	PROPN
+"	PUNCT
+,	PUNCT
+avvisano	VERB
+le	DET
+locandine	NOUN
+.	PUNCT
+
+Sentence ID: 42
+Sentence: "Chirac, ricordati Hiroshima".
+POS:
+"	PUNCT
+Chirac	PROPN
+,	PUNCT
+ricordati	_
+ricorda	VERB
+ti	PRON
+Hiroshima	PROPN
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 43
+Sentence: Per quanto se ne sa, il presidente non ha inviato un messaggio al primo ministro giapponese Tomiichi Murayama per l'anniversario di Hiroshima.
+POS:
+Per	ADP
+quanto	PRON
+se	PRON
+ne	PRON
+sa	VERB
+,	PUNCT
+il	DET
+presidente	NOUN
+non	ADV
+ha	AUX
+inviato	VERB
+un	DET
+messaggio	NOUN
+al	_
+a	ADP
+il	DET
+primo	ADJ
+ministro	NOUN
+giapponese	ADJ
+Tomiichi	PROPN
+Murayama	PROPN
+per	ADP
+l'	DET
+anniversario	NOUN
+di	ADP
+Hiroshima	PROPN
+.	PUNCT
+
+Sentence ID: 44
+Sentence: Tra loro, in silenzio, c'erano cinquemila "hibakusha", i superstiti dell'esplosione di "Little Boy" e di "Fat Man", tali erano i nomi dei due ordigni, il primo destinato a Hiroshima; il secondo, tre giorni dopo, a Nagasaki.
+POS:
+Tra	ADP
+loro	PRON
+,	PUNCT
+in	ADP
+silenzio	NOUN
+,	PUNCT
+c'	PRON
+erano	VERB
+cinquemila	NUM
+"	PUNCT
+hibakusha	NOUN
+"	PUNCT
+,	PUNCT
+i	DET
+superstiti	NOUN
+dell'	_
+di	ADP
+l'	DET
+esplosione	NOUN
+di	ADP
+"	PUNCT
+Little	PROPN
+Boy	PROPN
+"	PUNCT
+e	CCONJ
+di	ADP
+"	PUNCT
+Fat	PROPN
+Man	PROPN
+"	PUNCT
+,	PUNCT
+tali	PRON
+erano	VERB
+i	DET
+nomi	NOUN
+dei	_
+di	ADP
+i	DET
+due	NUM
+ordigni	NOUN
+,	PUNCT
+il	DET
+primo	ADJ
+destinato	NOUN
+a	ADP
+Hiroshima	PROPN
+;	PUNCT
+il	DET
+secondo	ADJ
+,	PUNCT
+tre	NUM
+giorni	NOUN
+dopo	ADV
+,	PUNCT
+a	ADP
+Nagasaki	PROPN
+.	PUNCT
+
+Sentence ID: 45
+Sentence: Sono state liberate, come auspicio di pace, come per scacciare demoni di guerra ancora incombenti, venticinquemila colombe che hanno innalzato verso il cielo, nelle scene televisive, una specie di sinfonia alata.
+POS:
+Sono	AUX
+state	AUX
+liberate	VERB
+,	PUNCT
+come	ADP
+auspicio	NOUN
+di	ADP
+pace	NOUN
+,	PUNCT
+come	ADP
+per	ADP
+scacciare	VERB
+demoni	NOUN
+di	ADP
+guerra	NOUN
+ancora	ADV
+incombenti	ADJ
+,	PUNCT
+venticinquemila	NUM
+colombe	NOUN
+che	PRON
+hanno	AUX
+innalzato	VERB
+verso	ADP
+il	DET
+cielo	NOUN
+,	PUNCT
+nelle	_
+in	ADP
+le	DET
+scene	NOUN
+televisive	ADJ
+,	PUNCT
+una	DET
+specie	NOUN
+di	ADP
+sinfonia	NOUN
+alata	ADJ
+.	PUNCT
+
+Sentence ID: 46
+Sentence: Ma gli accenti più forti sono stati quelli di Takako Doi, presidente della Camera dei rappresentanti della Dieta:
+POS:
+Ma	CCONJ
+gli	DET
+accenti	NOUN
+più	ADV
+forti	ADJ
+sono	AUX
+stati	AUX
+quelli	PRON
+di	ADP
+Takako	PROPN
+Doi	ADV
+,	PUNCT
+presidente	NOUN
+della	_
+di	ADP
+la	DET
+Camera	PROPN
+dei	_
+di	ADP
+i	DET
+rappresentanti	NOUN
+della	_
+di	ADP
+la	DET
+Dieta	PROPN
+:	PUNCT
+
+Sentence ID: 47
+Sentence: I coloni torneranno a compiere occupazioni simboliche delle alture prospicienti i loro insediamenti.
+POS:
+I	DET
+coloni	NOUN
+torneranno	VERB
+a	ADP
+compiere	VERB
+occupazioni	NOUN
+simboliche	ADJ
+delle	_
+di	ADP
+le	DET
+alture	NOUN
+prospicienti	ADJ
+i	DET
+loro	DET
+insediamenti	NOUN
+.	PUNCT
+
+Sentence ID: 48
+Sentence: O se in gruppo, cantare cose tipo "Bella, bella, bella".
+POS:
+O	CCONJ
+se	SCONJ
+in	ADP
+gruppo	NOUN
+,	PUNCT
+cantare	VERB
+cose	NOUN
+tipo	NOUN
+"	PUNCT
+Bella	PROPN
+,	PUNCT
+bella	ADJ
+,	PUNCT
+bella	ADJ
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 49
+Sentence: Un'operazione tutt'altro che facile dato che i tre non avevano documenti e date le condizioni dei cadaveri.
+POS:
+Un'	DET
+operazione	NOUN
+tutt'	ADJ
+altro	PRON
+che	SCONJ
+facile	ADJ
+dato	VERB
+che	SCONJ
+i	DET
+tre	NUM
+non	ADV
+avevano	VERB
+documenti	NOUN
+e	CCONJ
+date	VERB
+le	DET
+condizioni	NOUN
+dei	_
+di	ADP
+i	DET
+cadaveri	NOUN
+.	PUNCT
+
+Sentence ID: 50
+Sentence: Il padre di lei, spalleggiato forse dalla moglie, gli ha sparato contro numerosi colpi d'arma da fuoco.
+POS:
+Il	DET
+padre	NOUN
+di	ADP
+lei	PRON
+,	PUNCT
+spalleggiato	VERB
+forse	ADV
+dalla	_
+da	ADP
+la	DET
+moglie	NOUN
+,	PUNCT
+gli	PRON
+ha	AUX
+sparato	VERB
+contro	ADP
+numerosi	DET
+colpi	NOUN
+d'	ADP
+arma	NOUN
+da	ADP
+fuoco	NOUN
+.	PUNCT
+
+Sentence ID: 51
+Sentence: La sua identità e la sua nazionalità non sono state ancora accertate.
+POS:
+La	DET
+sua	DET
+identità	NOUN
+e	CCONJ
+la	DET
+sua	DET
+nazionalità	NOUN
+non	ADV
+sono	AUX
+state	AUX
+ancora	ADV
+accertate	VERB
+.	PUNCT
+
+Sentence ID: 52
+Sentence: "È successo un quarto d'ora fa.
+POS:
+"	PUNCT
+È	AUX
+successo	VERB
+un	DET
+quarto	NOUN
+d'	ADP
+ora	NOUN
+fa	ADV
+.	PUNCT
+
+Sentence ID: 53
+Sentence: Parma conquista il premio da 200 milioni.
+POS:
+Parma	PROPN
+conquista	NOUN
+il	DET
+premio	NOUN
+da	ADP
+200	NUM
+milioni	NOUN
+.	PUNCT
+
+Sentence ID: 54
+Sentence: Non sarà anche colpa dei giudici che danno retta a troppi pentiti?
+POS:
+Non	ADV
+sarà	AUX
+anche	ADV
+colpa	NOUN
+dei	_
+di	ADP
+i	DET
+giudici	NOUN
+che	PRON
+danno	AUX
+retta	VERB
+a	ADP
+troppi	NOUN
+pentiti	ADJ
+?	PUNCT
+
+Sentence ID: 55
+Sentence: Ma il "caro nemico" non è lui, quell'aggettivo non può funzionare che per Nanni Moretti, contro cui, aggiunge, "in fondo ho da dire anche molte cose che avrei da dire contro me stesso:
+POS:
+Ma	CCONJ
+il	DET
+"	PUNCT
+caro	ADJ
+nemico	NOUN
+"	PUNCT
+non	ADV
+è	AUX
+lui	PRON
+,	PUNCT
+quell'	DET
+aggettivo	NOUN
+non	ADV
+può	AUX
+funzionare	VERB
+che	SCONJ
+per	ADP
+Nanni	PROPN
+Moretti	PROPN
+,	PUNCT
+contro	ADP
+cui	PRON
+,	PUNCT
+aggiunge	VERB
+,	PUNCT
+"	PUNCT
+in	ADP
+fondo	NOUN
+ho	VERB
+da	ADP
+dire	VERB
+anche	ADV
+molte	DET
+cose	NOUN
+che	PRON
+avrei	VERB
+da	ADP
+dire	VERB
+contro	ADP
+me	PRON
+stesso	ADJ
+:	PUNCT
+
+Sentence ID: 56
+Sentence: Ad esempio, ammira ma trova terribile l'esattezza sociologica di Ecce Bombo, che per molti fans di Moretti si accompagna a una nostalgia generazionale:
+POS:
+Ad	ADP
+esempio	NOUN
+,	PUNCT
+ammira	VERB
+ma	CCONJ
+trova	VERB
+terribile	ADJ
+l'	DET
+esattezza	NOUN
+sociologica	ADJ
+di	ADP
+Ecce	X
+Bombo	X
+,	PUNCT
+che	PRON
+per	ADP
+molti	DET
+fans	NOUN
+di	ADP
+Moretti	PROPN
+si	PRON
+accompagna	VERB
+a	ADP
+una	DET
+nostalgia	NOUN
+generazionale	ADJ
+:	PUNCT
+
+Sentence ID: 57
+Sentence: Ed eccoci ricascati nel "politicamente corretto".
+POS:
+Ed	CCONJ
+eccoci	_
+ecco	ADV
+ci	PRON
+ricascati	VERB
+nel	_
+in	ADP
+il	DET
+"	PUNCT
+politicamente	ADV
+corretto	ADJ
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 58
+Sentence: Ma, come ammoniva il Vangelo, chi vuol salvare la propria vita, la perderà".
+POS:
+Ma	CCONJ
+,	PUNCT
+come	SCONJ
+ammoniva	VERB
+il	DET
+Vangelo	PROPN
+,	PUNCT
+chi	PRON
+vuol	AUX
+salvare	VERB
+la	DET
+propria	DET
+vita	NOUN
+,	PUNCT
+la	PRON
+perderà	VERB
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 59
+Sentence: una serata all'Elba per Mariateresa Di Lascia.
+POS:
+una	DET
+serata	NOUN
+all'	_
+a	ADP
+l'	DET
+Elba	PROPN
+per	ADP
+Mariateresa	PROPN
+Di	PROPN
+Lascia	PROPN
+.	PUNCT
+
+Sentence ID: 60
+Sentence: Diefenbach, il pittore nudo.
+POS:
+Diefenbach	INTJ
+,	PUNCT
+il	DET
+pittore	NOUN
+nudo	ADJ
+.	PUNCT
+
+Sentence ID: 61
+Sentence: mare, spruzzi d'acqua, fluire d'onde tra gli scogli intarsiati dal soffio furente del vento e della pioggia.
+POS:
+mare	NOUN
+,	PUNCT
+spruzzi	NOUN
+d'	ADP
+acqua	NOUN
+,	PUNCT
+fluire	VERB
+d'	ADP
+onde	NOUN
+tra	ADP
+gli	DET
+scogli	NOUN
+intarsiati	VERB
+dal	_
+da	ADP
+il	DET
+soffio	NOUN
+furente	ADJ
+del	_
+di	ADP
+il	DET
+vento	NOUN
+e	CCONJ
+della	_
+di	ADP
+la	DET
+pioggia	NOUN
+.	PUNCT
+
+Sentence ID: 62
+Sentence: Come non bastasse, l'ex commissario viene a conoscenza di altri particolari inquietanti.
+POS:
+Come	SCONJ
+non	ADV
+bastasse	VERB
+,	PUNCT
+l'	DET
+ex	ADJ
+commissario	NOUN
+viene	VERB
+a	ADP
+conoscenza	NOUN
+di	ADP
+altri	ADJ
+particolari	NOUN
+inquietanti	ADJ
+.	PUNCT
+
+Sentence ID: 63
+Sentence: Si finirà per scoprire che, prima di dedicarsi alla terza età e di sfruttare le perversioni dei suoi anziani ospiti, Irma ha lavorato come prostituta in un bordello.
+POS:
+Si	PRON
+finirà	VERB
+per	ADP
+scoprire	VERB
+che	SCONJ
+,	PUNCT
+prima	ADV
+di	ADP
+dedicarsi	_
+dedicar	VERB
+si	PRON
+alla	_
+a	ADP
+la	DET
+terza	ADJ
+età	NOUN
+e	CCONJ
+di	ADP
+sfruttare	VERB
+le	DET
+perversioni	NOUN
+dei	_
+di	ADP
+i	DET
+suoi	DET
+anziani	ADJ
+ospiti	NOUN
+,	PUNCT
+Irma	PROPN
+ha	AUX
+lavorato	VERB
+come	SCONJ
+prostituta	VERB
+in	ADP
+un	DET
+bordello	NOUN
+.	PUNCT
+
+Sentence ID: 64
+Sentence: Basti sapere che costui uccide memore delle vespe d'autunno (ecco il titolo) che, quando il loro nido va in briciole e la bella stagione muore, "diventano erratiche e aggressive".
+POS:
+Basti	VERB
+sapere	VERB
+che	SCONJ
+costui	PRON
+uccide	VERB
+memore	NOUN
+delle	_
+di	ADP
+le	DET
+vespe	NOUN
+d'	ADP
+autunno	NOUN
+(	PUNCT
+ecco	ADV
+il	DET
+titolo	NOUN
+)	PUNCT
+che	SCONJ
+,	PUNCT
+quando	SCONJ
+il	DET
+loro	DET
+nido	NOUN
+va	VERB
+in	ADP
+briciole	NOUN
+e	CCONJ
+la	DET
+bella	ADJ
+stagione	NOUN
+muore	VERB
+,	PUNCT
+"	PUNCT
+diventano	VERB
+erratiche	ADJ
+e	CCONJ
+aggressive	ADJ
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 65
+Sentence: Mi provo a ripetere con la variante le frasi di poco fa:
+POS:
+Mi	PRON
+provo	VERB
+a	ADP
+ripetere	VERB
+con	ADP
+la	DET
+variante	VERB
+le	DET
+frasi	NOUN
+di	ADP
+poco	ADV
+fa	ADV
+:	PUNCT
+
+Sentence ID: 66
+Sentence: "A me questa "Traviata" è piaciuta molto.
+POS:
+"	PUNCT
+A	ADP
+me	PRON
+questa	DET
+"	PUNCT
+Traviata	PROPN
+"	PUNCT
+è	AUX
+piaciuta	VERB
+molto	ADV
+.	PUNCT
+
+Sentence ID: 67
+Sentence: Franca Rame è al lavoro, al computer, da quando l'ha scoperto non ne fa più a meno.
+POS:
+Franca	PROPN
+Rame	PROPN
+è	AUX
+al	_
+a	ADP
+il	DET
+lavoro	NOUN
+,	PUNCT
+al	_
+a	ADP
+il	DET
+computer	NOUN
+,	PUNCT
+da	ADP
+quando	SCONJ
+l'	PRON
+ha	AUX
+scoperto	VERB
+non	ADV
+ne	PRON
+fa	VERB
+più	ADV
+a	ADP
+meno	ADV
+.	PUNCT
+
+Sentence ID: 68
+Sentence: E sul suo film presentato prima a Cannes e poi qui al Festival di Locarno:
+POS:
+E	CCONJ
+sul	_
+su	ADP
+il	DET
+suo	DET
+film	NOUN
+presentato	VERB
+prima	ADV
+a	ADP
+Cannes	PROPN
+e	CCONJ
+poi	ADV
+qui	ADV
+al	_
+a	ADP
+il	DET
+Festival	PROPN
+di	ADP
+Locarno	PROPN
+:	PUNCT
+
+Sentence ID: 69
+Sentence: Le è simpatica Nicole Kidman?
+POS:
+Le	PRON
+è	AUX
+simpatica	ADJ
+Nicole	PROPN
+Kidman	PROPN
+?	PUNCT
+
+Sentence ID: 70
+Sentence: Ma va da sè che io faccio parte di quella maggioranza di condomini che non saprebbe da che parte cominciare.
+POS:
+Ma	CCONJ
+va	VERB
+da	ADP
+sè	PRON
+che	PRON
+io	PRON
+faccio	VERB
+parte	NOUN
+di	ADP
+quella	DET
+maggioranza	NOUN
+di	ADP
+condomini	NOUN
+che	PRON
+non	ADV
+saprebbe	VERB
+da	ADP
+che	DET
+parte	NOUN
+cominciare	VERB
+.	PUNCT
+
+Sentence ID: 71
+Sentence: I tecnici del mestiere comunque avranno capito quello che fate la domenica mattina, quando il palazzo ancora dorme, con spazzole, cemento e gel e, se vorranno, potranno imitarvi.
+POS:
+I	DET
+tecnici	NOUN
+del	_
+di	ADP
+il	DET
+mestiere	NOUN
+comunque	ADV
+avranno	AUX
+capito	VERB
+quello	PRON
+che	PRON
+fate	VERB
+la	DET
+domenica	NOUN
+mattina	NOUN
+,	PUNCT
+quando	SCONJ
+il	DET
+palazzo	NOUN
+ancora	ADV
+dorme	VERB
+,	PUNCT
+con	ADP
+spazzole	NOUN
+,	PUNCT
+cemento	NOUN
+e	CCONJ
+gel	NOUN
+e	CCONJ
+,	PUNCT
+se	SCONJ
+vorranno	VERB
+,	PUNCT
+potranno	AUX
+imitarvi	_
+imitar	VERB
+vi	PRON
+.	PUNCT
+
+Sentence ID: 72
+Sentence: La Stefi di Grazia Nidasio.
+POS:
+La	DET
+Stefi	PROPN
+di	ADP
+Grazia	PROPN
+Nidasio	PROPN
+.	PUNCT
+
+Sentence ID: 73
+Sentence: Studiando con sapienza la sua strategia, Pasqualin mette in circolo la suggestione Juve.
+POS:
+Studiando	VERB
+con	ADP
+sapienza	NOUN
+la	DET
+sua	DET
+strategia	NOUN
+,	PUNCT
+Pasqualin	PROPN
+mette	VERB
+in	ADP
+circolo	NOUN
+la	DET
+suggestione	NOUN
+Juve	PROPN
+.	PUNCT
+
+Sentence ID: 74
+Sentence: Attendiamo il ritorno di Galliani per le opportune valutazioni".
+POS:
+Attendiamo	VERB
+il	DET
+ritorno	NOUN
+di	ADP
+Galliani	PROPN
+per	ADP
+le	DET
+opportune	ADJ
+valutazioni	NOUN
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 75
+Sentence: "Ma quella medaglia è anche inglese?".
+POS:
+"	PUNCT
+Ma	CCONJ
+quella	DET
+medaglia	NOUN
+è	AUX
+anche	ADV
+inglese	ADJ
+?	PUNCT
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 76
+Sentence: È nella natura delle cose e degli uomini.
+POS:
+È	AUX
+nella	_
+in	ADP
+la	DET
+natura	NOUN
+delle	_
+di	ADP
+le	DET
+cose	NOUN
+e	CCONJ
+degli	_
+di	ADP
+gli	DET
+uomini	NOUN
+.	PUNCT
+
+Sentence ID: 77
+Sentence: Ed è quello che hanno fatto May e Bailey.
+POS:
+Ed	CCONJ
+è	AUX
+quello	PRON
+che	PRON
+hanno	AUX
+fatto	VERB
+May	PROPN
+e	CCONJ
+Bailey	PROPN
+.	PUNCT
+
+Sentence ID: 78
+Sentence: E il sogno continua con la Sidoti.
+POS:
+E	CCONJ
+il	DET
+sogno	NOUN
+continua	VERB
+con	ADP
+la	DET
+Sidoti	PROPN
+.	PUNCT
+
+Sentence ID: 79
+Sentence: Oggi tocca alle donne sui 10 chilometri, che ai Mondiali di Stoccarda, 14 agosto '93, videro Ileana Salvador conquistare l'argento alle spalle della finlandese Essayah.
+POS:
+Oggi	ADV
+tocca	VERB
+alle	_
+a	ADP
+le	DET
+donne	NOUN
+sui	_
+su	ADP
+i	DET
+10	NUM
+chilometri	NOUN
+,	PUNCT
+che	PRON
+ai	_
+a	ADP
+i	DET
+Mondiali	NOUN
+di	ADP
+Stoccarda	PROPN
+,	PUNCT
+14	NUM
+agosto	NOUN
+'93	NUM
+,	PUNCT
+videro	ADJ
+Ileana	PROPN
+Salvador	PROPN
+conquistare	VERB
+l'	DET
+argento	NOUN
+alle	_
+a	ADP
+le	DET
+spalle	NOUN
+della	_
+di	ADP
+la	DET
+finlandese	ADJ
+Essayah	PROPN
+.	PUNCT
+
+Sentence ID: 80
+Sentence: atleta che non nasconde lo sforzo ma lo rende tanto naturale che la sua rimonta, dopo una crisi al quindicesimo chilometro, sembra scritta negli occhi, sotto le due tettoie di sopracciglia scure che lo fanno più uomo di quanto Michele non sia, più avvezzo alle emozioni di quanto non sembri.
+POS:
+atleta	NOUN
+che	PRON
+non	ADV
+nasconde	VERB
+lo	DET
+sforzo	NOUN
+ma	CCONJ
+lo	PRON
+rende	VERB
+tanto	ADV
+naturale	ADJ
+che	SCONJ
+la	DET
+sua	DET
+rimonta	NOUN
+,	PUNCT
+dopo	ADP
+una	DET
+crisi	NOUN
+al	_
+a	ADP
+il	DET
+quindicesimo	ADJ
+chilometro	NOUN
+,	PUNCT
+sembra	VERB
+scritta	VERB
+negli	_
+in	ADP
+gli	DET
+occhi	NOUN
+,	PUNCT
+sotto	ADP
+le	DET
+due	NUM
+tettoie	NOUN
+di	ADP
+sopracciglia	NOUN
+scure	ADJ
+che	PRON
+lo	PRON
+fanno	VERB
+più	ADV
+uomo	NOUN
+di	ADP
+quanto	PRON
+Michele	PROPN
+non	ADV
+sia	VERB
+,	PUNCT
+più	ADV
+avvezzo	ADV
+alle	_
+a	ADP
+le	DET
+emozioni	NOUN
+di	ADP
+quanto	PRON
+non	ADV
+sembri	VERB
+.	PUNCT
+
+Sentence ID: 81
+Sentence: non ho finito il liceo artistico, mi sono ritirato alla maturità.
+POS:
+non	ADV
+ho	AUX
+finito	VERB
+il	DET
+liceo	NOUN
+artistico	ADJ
+,	PUNCT
+mi	PRON
+sono	AUX
+ritirato	VERB
+alla	_
+a	ADP
+la	DET
+maturità	NOUN
+.	PUNCT
+
+Sentence ID: 82
+Sentence: Mai nessuna azzurra aveva conquistato un titolo iridato.
+POS:
+Mai	ADV
+nessuna	DET
+azzurra	NOUN
+aveva	AUX
+conquistato	VERB
+un	DET
+titolo	NOUN
+iridato	ADJ
+.	PUNCT
+
+Sentence ID: 83
+Sentence: La gara di Goteborg è stata un passaggio di consegne:
+POS:
+La	DET
+gara	NOUN
+di	ADP
+Goteborg	PROPN
+è	AUX
+stata	AUX
+un	DET
+passaggio	NOUN
+di	ADP
+consegne	NOUN
+:	PUNCT
+
+Sentence ID: 84
+Sentence: È una scena genuina perché Fiona sulle prime non capisce che si tratta del marito.
+POS:
+È	AUX
+una	DET
+scena	NOUN
+genuina	ADJ
+perché	SCONJ
+Fiona	PROPN
+sulle	_
+su	ADP
+le	DET
+prime	ADJ
+non	ADV
+capisce	VERB
+che	SCONJ
+si	PRON
+tratta	VERB
+del	_
+di	ADP
+il	DET
+marito	NOUN
+.	PUNCT
+
+Sentence ID: 85
+Sentence: L'oro di Fiona, in pratica, è stato conquistato già al primo salto, con 6,93;
+POS:
+L'	DET
+oro	NOUN
+di	ADP
+Fiona	PROPN
+,	PUNCT
+in	ADP
+pratica	NOUN
+,	PUNCT
+è	AUX
+stato	AUX
+conquistato	VERB
+già	ADV
+al	_
+a	ADP
+il	DET
+primo	ADJ
+salto	NOUN
+,	PUNCT
+con	ADP
+6,93	NUM
+;	PUNCT
+
+Sentence ID: 86
+Sentence: Al 35'il pareggio di Agostini.
+POS:
+Al	_
+A	ADP
+il	DET
+35'	NUM
+il	DET
+pareggio	NOUN
+di	ADP
+Agostini	PROPN
+.	PUNCT
+
+Sentence ID: 87
+Sentence: Gli arbitri non hanno gradito la linea di condotta tenuta dalla Federcalcio e dall'Aia nelle ultime vicende legate alle nomine delle commissioni (con il siluramento di Baldas e Capelluti) e vogliono chiarimenti sul trattamento economico riservato a chi dirige in serie A e B. Gianluca Vialli ama parlare della gestione del calcio e non soltanto dei suoi aspetti tecnici.
+POS:
+Gli	DET
+arbitri	NOUN
+non	ADV
+hanno	AUX
+gradito	VERB
+la	DET
+linea	NOUN
+di	ADP
+condotta	NOUN
+tenuta	VERB
+dalla	_
+da	ADP
+la	DET
+Federcalcio	PROPN
+e	CCONJ
+dall'	_
+da	ADP
+l'	DET
+Aia	PROPN
+nelle	_
+in	ADP
+le	DET
+ultime	ADJ
+vicende	NOUN
+legate	VERB
+alle	_
+a	ADP
+le	DET
+nomine	NOUN
+delle	_
+di	ADP
+le	DET
+commissioni	NOUN
+(	PUNCT
+con	ADP
+il	DET
+siluramento	NOUN
+di	ADP
+Baldas	PROPN
+e	CCONJ
+Capelluti	PROPN
+)	PUNCT
+e	CCONJ
+vogliono	VERB
+chiarimenti	NOUN
+sul	_
+su	ADP
+il	DET
+trattamento	NOUN
+economico	ADJ
+riservato	VERB
+a	ADP
+chi	PRON
+dirige	VERB
+in	ADP
+serie	NOUN
+A	PROPN
+e	CCONJ
+B.	PROPN
+Gianluca	PROPN
+Vialli	PROPN
+ama	VERB
+parlare	VERB
+della	_
+di	ADP
+la	DET
+gestione	NOUN
+del	_
+di	ADP
+il	DET
+calcio	NOUN
+e	CCONJ
+non	ADV
+soltanto	ADV
+dei	_
+di	ADP
+i	DET
+suoi	DET
+aspetti	NOUN
+tecnici	ADJ
+.	PUNCT
+
+Sentence ID: 88
+Sentence: O accontentarsi così, perché per vincere non occorre essere per forza Lewis:
+POS:
+O	CCONJ
+accontentarsi	_
+accontentar	VERB
+si	PRON
+così	ADV
+,	PUNCT
+perché	SCONJ
+per	ADP
+vincere	VERB
+non	ADV
+occorre	VERB
+essere	AUX
+per	ADP
+forza	NOUN
+Lewis	PROPN
+:	PUNCT
+
+Sentence ID: 89
+Sentence: Esiste poi un progetto di legge, al quale sta lavorando l'assessore Donato Giordano, per giungere a una diversa organizzazione della struttura, a partire dalla dirigenza e dalle competenze degli assessori; Mentre Luca osservava dall'alto, suo padre, in quel fosso profondo quasi quattro metri, largo due e lungo più di dieci, ha cominciato a lavorare per mettere in posa i tubi fognari.
+POS:
+Esiste	VERB
+poi	ADV
+un	DET
+progetto	NOUN
+di	ADP
+legge	NOUN
+,	PUNCT
+al	_
+a	ADP
+il	DET
+quale	PRON
+sta	AUX
+lavorando	VERB
+l'	DET
+assessore	NOUN
+Donato	PROPN
+Giordano	PROPN
+,	PUNCT
+per	ADP
+giungere	VERB
+a	ADP
+una	DET
+diversa	ADJ
+organizzazione	NOUN
+della	_
+di	ADP
+la	DET
+struttura	NOUN
+,	PUNCT
+a	ADP
+partire	VERB
+dalla	_
+da	ADP
+la	DET
+dirigenza	NOUN
+e	CCONJ
+dalle	_
+da	ADP
+le	DET
+competenze	NOUN
+degli	_
+di	ADP
+gli	DET
+assessori	NOUN
+;	PUNCT
+Mentre	SCONJ
+Luca	PROPN
+osservava	VERB
+dall'	_
+da	ADP
+l'	DET
+alto	NOUN
+,	PUNCT
+suo	DET
+padre	NOUN
+,	PUNCT
+in	ADP
+quel	DET
+fosso	NOUN
+profondo	ADJ
+quasi	ADV
+quattro	NUM
+metri	NOUN
+,	PUNCT
+largo	NOUN
+due	NUM
+e	CCONJ
+lungo	ADP
+più	PRON
+di	ADP
+dieci	NUM
+,	PUNCT
+ha	AUX
+cominciato	VERB
+a	ADP
+lavorare	VERB
+per	ADP
+mettere	VERB
+in	ADP
+posa	NOUN
+i	DET
+tubi	NOUN
+fognari	ADJ
+.	PUNCT
+
+Sentence ID: 90
+Sentence: Il motoscafo, un "Draco AS", è partito da Fiumicino e sta dirigendosi verso Anzio.
+POS:
+Il	DET
+motoscafo	NOUN
+,	PUNCT
+un	DET
+"	PUNCT
+Draco	PROPN
+AS	PROPN
+"	PUNCT
+,	PUNCT
+è	AUX
+partito	VERB
+da	ADP
+Fiumicino	PROPN
+e	CCONJ
+sta	AUX
+dirigendosi	_
+dirigendo	VERB
+si	PRON
+verso	ADP
+Anzio	PROPN
+.	PUNCT
+
+Sentence ID: 91
+Sentence: Cimini era uscito in mare, solo, a bordo di una piccola imbarcazione, la sera prima.
+POS:
+Cimini	PROPN
+era	AUX
+uscito	VERB
+in	ADP
+mare	NOUN
+,	PUNCT
+solo	ADV
+,	PUNCT
+a	ADP
+bordo	NOUN
+di	ADP
+una	DET
+piccola	ADJ
+imbarcazione	NOUN
+,	PUNCT
+la	DET
+sera	NOUN
+prima	ADV
+.	PUNCT
+
+Sentence ID: 92
+Sentence: Monsignor Grillo è stato molto sensibile a nominare due esorcisti.
+POS:
+Monsignor	PROPN
+Grillo	PROPN
+è	AUX
+stato	AUX
+molto	ADV
+sensibile	ADJ
+a	ADP
+nominare	VERB
+due	NUM
+esorcisti	NOUN
+.	PUNCT
+
+Sentence ID: 93
+Sentence: Quadri, oggetti ricordo dell'Africa, qualche monile regalato alla cognata, ma soprattutto un grosso pacco di lettere: i ricordi di Luigi passano di mano in mano, dal fratello alla cognata, dal cugino ai nipoti.
+POS:
+Quadri	NOUN
+,	PUNCT
+oggetti	NOUN
+ricordo	NOUN
+dell'	_
+di	ADP
+l'	DET
+Africa	PROPN
+,	PUNCT
+qualche	DET
+monile	NOUN
+regalato	VERB
+alla	_
+a	ADP
+la	DET
+cognata	NOUN
+,	PUNCT
+ma	CCONJ
+soprattutto	ADV
+un	DET
+grosso	ADJ
+pacco	NOUN
+di	ADP
+lettere	NOUN
+:	PUNCT
+i	DET
+ricordi	NOUN
+di	ADP
+Luigi	PROPN
+passano	VERB
+di	ADP
+mano	NOUN
+in	ADP
+mano	NOUN
+,	PUNCT
+dal	_
+da	ADP
+il	DET
+fratello	NOUN
+alla	_
+a	ADP
+la	DET
+cognata	NOUN
+,	PUNCT
+dal	_
+da	ADP
+il	DET
+cugino	NOUN
+ai	_
+a	ADP
+i	DET
+nipoti	NOUN
+.	PUNCT
+
+Sentence ID: 94
+Sentence: Affidava le lettere a persone di passaggio, in viaggio verso località dove fosse possibile imbucare".
+POS:
+Affidava	VERB
+le	DET
+lettere	NOUN
+a	ADP
+persone	NOUN
+di	ADP
+passaggio	NOUN
+,	PUNCT
+in	ADP
+viaggio	NOUN
+verso	ADP
+località	NOUN
+dove	ADV
+fosse	AUX
+possibile	ADJ
+imbucare	VERB
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 95
+Sentence: Al momento di scendere, spesso si rischia di cadere perché gli autisti non fanno alcuna attenzione e ripartono senza guardare".
+POS:
+Al	_
+A	ADP
+il	DET
+momento	NOUN
+di	ADP
+scendere	VERB
+,	PUNCT
+spesso	ADV
+si	PRON
+rischia	VERB
+di	ADP
+cadere	VERB
+perché	SCONJ
+gli	DET
+autisti	NOUN
+non	ADV
+fanno	VERB
+alcuna	DET
+attenzione	NOUN
+e	CCONJ
+ripartono	VERB
+senza	ADP
+guardare	VERB
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 96
+Sentence: Per lui, che da quasi un lustro aspetta la nuova divisa (in pieno agosto lavora con i pantaloni invernali e una maglietta grigia portata da casa), si tratta di accuse ingiustificate:
+POS:
+Per	ADP
+lui	PRON
+,	PUNCT
+che	PRON
+da	ADP
+quasi	ADV
+un	DET
+lustro	NOUN
+aspetta	VERB
+la	DET
+nuova	ADJ
+divisa	NOUN
+(	PUNCT
+in	ADP
+pieno	ADJ
+agosto	NOUN
+lavora	VERB
+con	ADP
+i	DET
+pantaloni	NOUN
+invernali	ADJ
+e	CCONJ
+una	DET
+maglietta	NOUN
+grigia	ADJ
+portata	VERB
+da	ADP
+casa	NOUN
+)	PUNCT
+,	PUNCT
+si	PRON
+tratta	VERB
+di	ADP
+accuse	NOUN
+ingiustificate	ADJ
+:	PUNCT
+
+Sentence ID: 97
+Sentence: Una Milano al 35 per cento quella della prima, calda domenica d'agosto:
+POS:
+Una	DET
+Milano	PROPN
+al	_
+a	ADP
+il	DET
+35	NUM
+per	ADP
+cento	NUM
+quella	PRON
+della	_
+di	ADP
+la	DET
+prima	ADJ
+,	PUNCT
+calda	ADJ
+domenica	NOUN
+d'	ADP
+agosto	NOUN
+:	PUNCT
+
+Sentence ID: 98
+Sentence: La Roma si ritroverà domani pomeriggio a Trigoria per la ripresa degli allenamenti, mentre è previsto per domenica prossima il test di Pescara prima della pausa di Ferragosto.
+POS:
+La	DET
+Roma	PROPN
+si	PRON
+ritroverà	VERB
+domani	ADV
+pomeriggio	NOUN
+a	ADP
+Trigoria	PROPN
+per	ADP
+la	DET
+ripresa	NOUN
+degli	_
+di	ADP
+gli	DET
+allenamenti	NOUN
+,	PUNCT
+mentre	SCONJ
+è	AUX
+previsto	VERB
+per	ADP
+domenica	NOUN
+prossima	ADJ
+il	DET
+test	NOUN
+di	ADP
+Pescara	PROPN
+prima	ADV
+della	_
+di	ADP
+la	DET
+pausa	NOUN
+di	ADP
+Ferragosto	PROPN
+.	PUNCT
+
+Sentence ID: 99
+Sentence: Si chiama Tiziano, è svizzero e fa lo "svizzero" al soldo del papa.
+POS:
+Si	PRON
+chiama	VERB
+Tiziano	PROPN
+,	PUNCT
+è	AUX
+svizzero	ADJ
+e	CCONJ
+fa	VERB
+lo	PRON
+"	PUNCT
+svizzero	ADJ
+"	PUNCT
+al	_
+a	ADP
+il	DET
+soldo	NOUN
+del	_
+di	ADP
+il	DET
+papa	NOUN
+.	PUNCT
+
+Sentence ID: 100
+Sentence: Ci facciamo delle gran sudate.
+POS:
+Ci	PRON
+facciamo	VERB
+delle	_
+di	ADP
+le	DET
+gran	ADJ
+sudate	NOUN
+.	PUNCT
+
+Sentence ID: 101
+Sentence: Dal 1970 è l'unico corpo militare del Vaticano.
+POS:
+Dal	_
+Da	ADP
+il	DET
+1970	NUM
+è	AUX
+l'	DET
+unico	ADJ
+corpo	NOUN
+militare	ADJ
+del	_
+di	ADP
+il	DET
+Vaticano	PROPN
+.	PUNCT
+
+Sentence ID: 102
+Sentence: Il più vistoso è quello situato davanti all'ingresso della Casa dell'Artista, il palazzo che fino al 12 giugno ospiterà la Mostra:
+POS:
+Il	DET
+più	ADV
+vistoso	ADJ
+è	AUX
+quello	PRON
+situato	VERB
+davanti	ADV
+all'	_
+a	ADP
+l'	DET
+ingresso	NOUN
+della	_
+di	ADP
+la	DET
+Casa	PROPN
+dell'	_
+di	ADP
+l'	DET
+Artista	NOUN
+,	PUNCT
+il	DET
+palazzo	NOUN
+che	PRON
+fino	ADV
+al	_
+a	ADP
+il	DET
+12	NUM
+giugno	NOUN
+ospiterà	VERB
+la	DET
+Mostra	PROPN
+:	PUNCT
+
+Sentence ID: 103
+Sentence: Esce da un grande cilindro (a sua volta emblematico, perché ha la forma del copricapo dell'uomo comune dell'Ottocento) e con le sue volute colpisce una torre fatta di soldati (lo Stato poliziesco) sulla balaustra che sovrasta l'edificio, e li inghiotte.
+POS:
+Esce	VERB
+da	ADP
+un	DET
+grande	ADJ
+cilindro	NOUN
+(	PUNCT
+a	ADP
+sua	DET
+volta	NOUN
+emblematico	ADJ
+,	PUNCT
+perché	SCONJ
+ha	VERB
+la	DET
+forma	NOUN
+del	_
+di	ADP
+il	DET
+copricapo	NOUN
+dell'	_
+di	ADP
+l'	DET
+uomo	NOUN
+comune	ADJ
+dell'	_
+di	ADP
+l'	DET
+Ottocento	NOUN
+)	PUNCT
+e	CCONJ
+con	ADP
+le	DET
+sue	DET
+volute	NOUN
+colpisce	VERB
+una	DET
+torre	NOUN
+fatta	VERB
+di	ADP
+soldati	NOUN
+(	PUNCT
+lo	DET
+Stato	NOUN
+poliziesco	ADJ
+)	PUNCT
+sulla	_
+su	ADP
+la	DET
+balaustra	NOUN
+che	PRON
+sovrasta	VERB
+l'	DET
+edificio	NOUN
+,	PUNCT
+e	CCONJ
+li	PRON
+inghiotte	VERB
+.	PUNCT
+
+Sentence ID: 104
+Sentence: Ama la casa, il lavoro, la musica, la letteratura edificante e idilliaca, la buona conversazione con gli amici, che incontra con una certa regolarità anche al caffè.
+POS:
+Ama	VERB
+la	DET
+casa	NOUN
+,	PUNCT
+il	DET
+lavoro	NOUN
+,	PUNCT
+la	DET
+musica	NOUN
+,	PUNCT
+la	DET
+letteratura	NOUN
+edificante	ADJ
+e	CCONJ
+idilliaca	ADJ
+,	PUNCT
+la	DET
+buona	ADJ
+conversazione	NOUN
+con	ADP
+gli	DET
+amici	NOUN
+,	PUNCT
+che	PRON
+incontra	VERB
+con	ADP
+una	DET
+certa	ADJ
+regolarità	NOUN
+anche	ADV
+al	_
+a	ADP
+il	DET
+caffè	NOUN
+.	PUNCT
+
+Sentence ID: 105
+Sentence: Si formano così gruppi di costruzioni in stretta connessione fra loro.
+POS:
+Si	PRON
+formano	VERB
+così	ADV
+gruppi	NOUN
+di	ADP
+costruzioni	NOUN
+in	ADP
+stretta	ADJ
+connessione	NOUN
+fra	ADP
+loro	PRON
+.	PUNCT
+
+Sentence ID: 106
+Sentence: l'albero di Natale, la prima Comunione, scene di riunioni borghesi in casa e all'aria aperta, la signora davanti alla toeletta, bambini teneri e rosei, blandi accenni alla povertà e al dolore.
+POS:
+l'	DET
+albero	NOUN
+di	ADP
+Natale	PROPN
+,	PUNCT
+la	DET
+prima	ADJ
+Comunione	NOUN
+,	PUNCT
+scene	NOUN
+di	ADP
+riunioni	NOUN
+borghesi	ADJ
+in	ADP
+casa	NOUN
+e	CCONJ
+all'	_
+a	ADP
+l'	DET
+aria	NOUN
+aperta	ADJ
+,	PUNCT
+la	DET
+signora	NOUN
+davanti	ADV
+alla	_
+a	ADP
+la	DET
+toeletta	NOUN
+,	PUNCT
+bambini	NOUN
+teneri	ADJ
+e	CCONJ
+rosei	ADJ
+,	PUNCT
+blandi	NOUN
+accenni	ADJ
+alla	_
+a	ADP
+la	DET
+povertà	NOUN
+e	CCONJ
+al	_
+a	ADP
+il	DET
+dolore	NOUN
+.	PUNCT
+
+Sentence ID: 107
+Sentence: Boris Podrecca, però, si è rifiutato di porre l'accento per l'ennesima volta su questi aspetti ben noti.
+POS:
+Boris	PROPN
+Podrecca	PROPN
+,	PUNCT
+però	ADV
+,	PUNCT
+si	PRON
+è	AUX
+rifiutato	VERB
+di	ADP
+porre	VERB
+l'	DET
+accento	NOUN
+per	ADP
+l'	DET
+ennesima	ADJ
+volta	NOUN
+su	ADP
+questi	DET
+aspetti	NOUN
+ben	ADV
+noti	ADJ
+.	PUNCT
+
+Sentence ID: 108
+Sentence: "fili" di ottone luccicante, "cocci" di vetro di diversi colori, decisi o lievi, scaglie di madreperla iridescente.
+POS:
+"	PUNCT
+fili	ADJ
+"	PUNCT
+di	ADP
+ottone	NOUN
+luccicante	ADJ
+,	PUNCT
+"	PUNCT
+cocci	ADJ
+"	PUNCT
+di	ADP
+vetro	NOUN
+di	ADP
+diversi	DET
+colori	NOUN
+,	PUNCT
+decisi	NOUN
+o	CCONJ
+lievi	NOUN
+,	PUNCT
+scaglie	NOUN
+di	ADP
+madreperla	NOUN
+iridescente	ADJ
+.	PUNCT
+
+Sentence ID: 109
+Sentence: Recentissima anche la creazione di "Splatter", un composto di marmo e quarzo con una superficie che luccica secondo il variare della luce.
+POS:
+Recentissima	ADJ
+anche	ADV
+la	DET
+creazione	NOUN
+di	ADP
+"	PUNCT
+Splatter	PROPN
+"	PUNCT
+,	PUNCT
+un	DET
+composto	NOUN
+di	ADP
+marmo	NOUN
+e	CCONJ
+quarzo	NOUN
+con	ADP
+una	DET
+superficie	NOUN
+che	PRON
+luccica	VERB
+secondo	ADP
+il	DET
+variare	VERB
+della	_
+di	ADP
+la	DET
+luce	NOUN
+.	PUNCT
+
+Sentence ID: 110
+Sentence: Quando si parla di piastrelle a mano non si può non citare la produzione di Vietri.
+POS:
+Quando	SCONJ
+si	PRON
+parla	VERB
+di	ADP
+piastrelle	NOUN
+a	ADP
+mano	NOUN
+non	ADV
+si	PRON
+può	AUX
+non	ADV
+citare	VERB
+la	DET
+produzione	NOUN
+di	ADP
+Vietri	PROPN
+.	PUNCT
+
+Sentence ID: 111
+Sentence: la prima per la terracotta, la seconda per il colore.
+POS:
+la	DET
+prima	ADJ
+per	ADP
+la	DET
+terracotta	NOUN
+,	PUNCT
+la	DET
+seconda	ADJ
+per	ADP
+il	DET
+colore	NOUN
+.	PUNCT
+
+Sentence ID: 112
+Sentence: Oltre alle tinte unite, esistono bordure di diversi tipi, anche con suggestivi motivi a rilievo.
+POS:
+Oltre	ADV
+alle	_
+a	ADP
+le	DET
+tinte	NOUN
+unite	ADJ
+,	PUNCT
+esistono	VERB
+bordure	NOUN
+di	ADP
+diversi	DET
+tipi	NOUN
+,	PUNCT
+anche	ADV
+con	ADP
+suggestivi	ADJ
+motivi	NOUN
+a	ADP
+rilievo	NOUN
+.	PUNCT
+
+Sentence ID: 113
+Sentence: Ha la stessa durezza del granito, è antigelivo e inassorbente (va bene anche all'esterno ma dove non esistano pericoli di formazione di ghiaccio che renderebbe la superficie sdrucciolevole).
+POS:
+Ha	VERB
+la	DET
+stessa	ADJ
+durezza	NOUN
+del	_
+di	ADP
+il	DET
+granito	NOUN
+,	PUNCT
+è	AUX
+antigelivo	ADJ
+e	CCONJ
+inassorbente	ADJ
+(	PUNCT
+va	VERB
+bene	ADV
+anche	ADV
+all'	_
+a	ADP
+l'	DET
+esterno	NOUN
+ma	CCONJ
+dove	ADV
+non	ADV
+esistano	VERB
+pericoli	NOUN
+di	ADP
+formazione	NOUN
+di	ADP
+ghiaccio	NOUN
+che	PRON
+renderebbe	VERB
+la	DET
+superficie	NOUN
+sdrucciolevole	ADJ
+)	PUNCT
+.	PUNCT
+
+Sentence ID: 114
+Sentence: Se sei un tipo preciso completa il trattamento con la spazzola speciale "Brosse pour le sein" di Jeanne Piaubert, che stimola la circolazione e l'assorbimento del prodotto.
+POS:
+Se	SCONJ
+sei	NUM
+un	DET
+tipo	NOUN
+preciso	ADJ
+completa	VERB
+il	DET
+trattamento	NOUN
+con	ADP
+la	DET
+spazzola	NOUN
+speciale	ADJ
+"	PUNCT
+Brosse	VERB
+pour	ADP
+le	DET
+sein	NOUN
+"	PUNCT
+di	ADP
+Jeanne	PROPN
+Piaubert	PROPN
+,	PUNCT
+che	PRON
+stimola	VERB
+la	DET
+circolazione	NOUN
+e	CCONJ
+l'	DET
+assorbimento	NOUN
+del	_
+di	ADP
+il	DET
+prodotto	NOUN
+.	PUNCT
+
+Sentence ID: 115
+Sentence: La cellulite, infatti, ha ben poco a che vedere col grasso anche se chi ha chili di troppo è più predisposta ad "accoglierla".
+POS:
+La	DET
+cellulite	NOUN
+,	PUNCT
+infatti	ADV
+,	PUNCT
+ha	VERB
+ben	ADV
+poco	ADV
+a	ADP
+che	SCONJ
+vedere	VERB
+col	_
+con	ADP
+il	DET
+grasso	NOUN
+anche	ADV
+se	SCONJ
+chi	PRON
+ha	VERB
+chili	NOUN
+di	ADP
+troppo	ADV
+è	AUX
+più	ADV
+predisposta	VERB
+ad	ADP
+"	PUNCT
+accoglierla	_
+accoglier	VERB
+la	PRON
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 116
+Sentence: Chi ha la cellulite ha una muscolatura debole e il massaggio violento provocherebbe ematomi e rilasciamenti dei tessuti.
+POS:
+Chi	PRON
+ha	VERB
+la	DET
+cellulite	NOUN
+ha	VERB
+una	DET
+muscolatura	NOUN
+debole	ADJ
+e	CCONJ
+il	DET
+massaggio	NOUN
+violento	ADJ
+provocherebbe	VERB
+ematomi	NOUN
+e	CCONJ
+rilasciamenti	NOUN
+dei	_
+di	ADP
+i	DET
+tessuti	NOUN
+.	PUNCT
+
+Sentence ID: 117
+Sentence: Chiedi al computer il tuo menù.
+POS:
+Chiedi	VERB
+al	_
+a	ADP
+il	DET
+computer	VERB
+il	DET
+tuo	DET
+menù	NOUN
+.	PUNCT
+
+Sentence ID: 118
+Sentence: È una signora ancor bella di quasi sessant'anni e che da più di dieci vive in esilio a Parigi.
+POS:
+È	AUX
+una	DET
+signora	NOUN
+ancor	ADV
+bella	ADJ
+di	ADP
+quasi	ADV
+sessant'	NUM
+anni	NOUN
+e	CCONJ
+che	PRON
+da	ADP
+più	PRON
+di	ADP
+dieci	NUM
+vive	VERB
+in	ADP
+esilio	NOUN
+a	ADP
+Parigi	PROPN
+.	PUNCT
+
+Sentence ID: 119
+Sentence: Adesso, comunque, che finalmente sembra essersi decisa a parlare, è scoppiato il finimondo.
+POS:
+Adesso	ADV
+,	PUNCT
+comunque	ADV
+,	PUNCT
+che	PRON
+finalmente	ADV
+sembra	VERB
+essersi	_
+esser	AUX
+si	PRON
+decisa	VERB
+a	ADP
+parlare	VERB
+,	PUNCT
+è	AUX
+scoppiato	VERB
+il	DET
+finimondo	NOUN
+.	PUNCT
+
+Sentence ID: 120
+Sentence: Ma conoscono bene Carmen Castillo, la signora cilena nella cui casa, a Parigi, è avvenuto l'incontro tra Gaston Salvatore e la Payita, e che conferma punto per punto l'intervista.
+POS:
+Ma	CCONJ
+conoscono	VERB
+bene	ADV
+Carmen	PROPN
+Castillo	PROPN
+,	PUNCT
+la	DET
+signora	NOUN
+cilena	ADJ
+nella	_
+in	ADP
+la	DET
+cui	DET
+casa	NOUN
+,	PUNCT
+a	ADP
+Parigi	PROPN
+,	PUNCT
+è	AUX
+avvenuto	VERB
+l'	DET
+incontro	NOUN
+tra	ADP
+Gaston	PROPN
+Salvatore	PROPN
+e	CCONJ
+la	DET
+Payita	PROPN
+,	PUNCT
+e	CCONJ
+che	PRON
+conferma	VERB
+punto	NOUN
+per	ADP
+punto	NOUN
+l'	DET
+intervista	NOUN
+.	PUNCT
+
+Sentence ID: 121
+Sentence: Il mercato dell'editoria elettronica personale o editoria da tavolo (in inglese desktop publishing) è molto giovane con i suoi soli tre anni di vita, ma è considerato nel settore dell'informatica fra i più promettenti in assoluto:
+POS:
+Il	DET
+mercato	NOUN
+dell'	_
+di	ADP
+l'	DET
+editoria	NOUN
+elettronica	ADJ
+personale	ADJ
+o	CCONJ
+editoria	NOUN
+da	ADP
+tavolo	NOUN
+(	PUNCT
+in	ADP
+inglese	NOUN
+desktop	NOUN
+publishing	NOUN
+)	PUNCT
+è	AUX
+molto	ADV
+giovane	ADJ
+con	ADP
+i	DET
+suoi	DET
+soli	ADJ
+tre	NUM
+anni	NOUN
+di	ADP
+vita	NOUN
+,	PUNCT
+ma	CCONJ
+è	AUX
+considerato	VERB
+nel	_
+in	ADP
+il	DET
+settore	NOUN
+dell'	_
+di	ADP
+l'	DET
+informatica	NOUN
+fra	ADP
+i	DET
+più	ADV
+promettenti	ADJ
+in	ADP
+assoluto	NOUN
+:	PUNCT
+
+Sentence ID: 122
+Sentence: A parte personal computer e programmi di composizione, la diminuzione in particolare ha riguardato le stampanti (grazie ai minori costi delle memorie e dei microprocessori), soprattutto fra quelle che consentono di gestire testo e grafica ad alta risoluzione.
+POS:
+A	ADP
+parte	NOUN
+personal	ADJ
+computer	NOUN
+e	CCONJ
+programmi	NOUN
+di	ADP
+composizione	NOUN
+,	PUNCT
+la	DET
+diminuzione	NOUN
+in	ADP
+particolare	NOUN
+ha	AUX
+riguardato	VERB
+le	DET
+stampanti	NOUN
+(	PUNCT
+grazie	NOUN
+ai	_
+a	ADP
+i	DET
+minori	ADJ
+costi	NOUN
+delle	_
+di	ADP
+le	DET
+memorie	NOUN
+e	CCONJ
+dei	_
+di	ADP
+i	DET
+microprocessori	NOUN
+)	PUNCT
+,	PUNCT
+soprattutto	ADV
+fra	ADP
+quelle	PRON
+che	PRON
+consentono	VERB
+di	ADP
+gestire	VERB
+testo	NOUN
+e	CCONJ
+grafica	NOUN
+ad	ADP
+alta	ADJ
+risoluzione	NOUN
+.	PUNCT
+
+Sentence ID: 123
+Sentence: Care signore così onorevoli.
+POS:
+Care	VERB
+signore	NOUN
+così	ADV
+onorevoli	ADJ
+.	PUNCT
+
+Sentence ID: 124
+Sentence: tra gli incarcerati per reati contro l'ordine pubblico la percentuale di donne cresce notevolmente e per i reati connessi con la tossicodipendenza il numero delle donne detenute è maggiore della media generale.
+POS:
+tra	ADP
+gli	DET
+incarcerati	NOUN
+per	ADP
+reati	NOUN
+contro	ADP
+l'	DET
+ordine	NOUN
+pubblico	ADJ
+la	DET
+percentuale	NOUN
+di	ADP
+donne	NOUN
+cresce	VERB
+notevolmente	ADV
+e	CCONJ
+per	ADP
+i	DET
+reati	NOUN
+connessi	VERB
+con	ADP
+la	DET
+tossicodipendenza	NOUN
+il	DET
+numero	NOUN
+delle	_
+di	ADP
+le	DET
+donne	NOUN
+detenute	NOUN
+è	AUX
+maggiore	ADJ
+della	_
+di	ADP
+la	DET
+media	NOUN
+generale	ADJ
+.	PUNCT
+
+Sentence ID: 125
+Sentence: Le ore libere - i viaggi.
+POS:
+Le	DET
+ore	NOUN
+libere	ADJ
+-	PUNCT
+i	DET
+viaggi	NOUN
+.	PUNCT
+
+Sentence ID: 126
+Sentence: Ho cominciato con 3-4 chilometri al giorno e sono arrivato alla fine a correrne anche 20.
+POS:
+Ho	AUX
+cominciato	VERB
+con	ADP
+3-4	NUM
+chilometri	NOUN
+al	_
+a	ADP
+il	DET
+giorno	NOUN
+e	CCONJ
+sono	AUX
+arrivato	VERB
+alla	_
+a	ADP
+la	DET
+fine	NOUN
+a	ADP
+correrne	NOUN
+anche	ADV
+20	NUM
+.	PUNCT
+
+Sentence ID: 127
+Sentence: "Con l'esempio di Saverio abbiamo voluto dare un'iniezione di fiducia a tutti i cardiopatici, dimostrare che la vita, grazie a una buona riabilitazione, può essere estremamente attiva, quasi del tutto normale anche dopo un incidente cardiaco.
+POS:
+"	PUNCT
+Con	ADP
+l'	DET
+esempio	NOUN
+di	ADP
+Saverio	PROPN
+abbiamo	AUX
+voluto	AUX
+dare	VERB
+un'	DET
+iniezione	NOUN
+di	ADP
+fiducia	NOUN
+a	ADP
+tutti	DET
+i	DET
+cardiopatici	NOUN
+,	PUNCT
+dimostrare	VERB
+che	SCONJ
+la	DET
+vita	NOUN
+,	PUNCT
+grazie	NOUN
+a	ADP
+una	DET
+buona	ADJ
+riabilitazione	NOUN
+,	PUNCT
+può	AUX
+essere	AUX
+estremamente	ADV
+attiva	ADJ
+,	PUNCT
+quasi	ADV
+del	_
+di	ADP
+il	DET
+tutto	NOUN
+normale	ADJ
+anche	ADV
+dopo	ADP
+un	DET
+incidente	NOUN
+cardiaco	ADJ
+.	PUNCT
+
+Sentence ID: 128
+Sentence: Significa che sono state tagliate le vie nervose attraverso le quali è normalmente regolata l'attività cardiaca.
+POS:
+Significa	VERB
+che	SCONJ
+sono	AUX
+state	AUX
+tagliate	VERB
+le	DET
+vie	NOUN
+nervose	ADJ
+attraverso	ADP
+le	DET
+quali	PRON
+è	AUX
+normalmente	ADV
+regolata	VERB
+l'	DET
+attività	NOUN
+cardiaca	ADJ
+.	PUNCT
+
+Sentence ID: 129
+Sentence: Per questo un "trapiantato" non riesce ad avvertire la sensazione di cardiopalmo, non ha controllo cosciente della frequenza cardiaca.
+POS:
+Per	ADP
+questo	PRON
+un	DET
+"	PUNCT
+trapiantato	VERB
+"	PUNCT
+non	ADV
+riesce	VERB
+ad	ADP
+avvertire	VERB
+la	DET
+sensazione	NOUN
+di	ADP
+cardiopalmo	NOUN
+,	PUNCT
+non	ADV
+ha	VERB
+controllo	NOUN
+cosciente	ADJ
+della	_
+di	ADP
+la	DET
+frequenza	NOUN
+cardiaca	ADJ
+.	PUNCT
+
+Sentence ID: 130
+Sentence: Tutti gli edifici sono collegati tra loro da gallerie, percorse in continuazione da medici, personale di servizio e pazienti.
+POS:
+Tutti	DET
+gli	DET
+edifici	NOUN
+sono	AUX
+collegati	VERB
+tra	ADP
+loro	PRON
+da	ADP
+gallerie	NOUN
+,	PUNCT
+percorse	VERB
+in	ADP
+continuazione	NOUN
+da	ADP
+medici	NOUN
+,	PUNCT
+personale	NOUN
+di	ADP
+servizio	NOUN
+e	CCONJ
+pazienti	NOUN
+.	PUNCT
+
+Sentence ID: 131
+Sentence: Inutile guardarli.
+POS:
+Inutile	ADJ
+guardarli	_
+guardar	VERB
+li	PRON
+.	PUNCT
+
+Sentence ID: 132
+Sentence: Prende l'appuntamento più di un mese prima e ci arriva generalmente alla vigilia degli esami.
+POS:
+Prende	VERB
+l'	DET
+appuntamento	NOUN
+più	ADV
+di	ADP
+un	DET
+mese	NOUN
+prima	ADV
+e	CCONJ
+ci	PRON
+arriva	VERB
+generalmente	ADV
+alla	_
+a	ADP
+la	DET
+vigilia	NOUN
+degli	_
+di	ADP
+gli	DET
+esami	NOUN
+.	PUNCT
+
+Sentence ID: 133
+Sentence: La "Guida del paziente" consiglia una visita al museo dei Mayo, situato nell'antica clinica, proprio di fronte all'enorme edificio bianco in cui vengono effettuati gli esami.
+POS:
+La	DET
+"	PUNCT
+Guida	PROPN
+del	_
+di	ADP
+il	DET
+paziente	NOUN
+"	PUNCT
+consiglia	VERB
+una	DET
+visita	NOUN
+al	_
+a	ADP
+il	DET
+museo	NOUN
+dei	_
+di	ADP
+i	DET
+Mayo	PROPN
+,	PUNCT
+situato	VERB
+nell'	_
+in	ADP
+l'	DET
+antica	ADJ
+clinica	NOUN
+,	PUNCT
+proprio	ADV
+di	ADP
+fronte	NOUN
+all'	_
+a	ADP
+l'	DET
+enorme	ADJ
+edificio	NOUN
+bianco	ADJ
+in	ADP
+cui	PRON
+vengono	AUX
+effettuati	VERB
+gli	DET
+esami	NOUN
+.	PUNCT
+
+Sentence ID: 134
+Sentence: D'altronde è proprio questo che sorprende il visitatore che, alla sette di mattina, è qui per il suo check-up:
+POS:
+D'	ADP
+altronde	ADV
+è	AUX
+proprio	ADV
+questo	PRON
+che	PRON
+sorprende	VERB
+il	DET
+visitatore	NOUN
+che	PRON
+,	PUNCT
+alla	_
+a	ADP
+la	DET
+sette	NUM
+di	ADP
+mattina	NOUN
+,	PUNCT
+è	AUX
+qui	ADV
+per	ADP
+il	DET
+suo	DET
+check-up	NOUN
+:	PUNCT
+
+Sentence ID: 135
+Sentence: A Rochester, infatti, si può benissimo affittare un appartamento o una camera in case private.
+POS:
+A	ADP
+Rochester	PROPN
+,	PUNCT
+infatti	ADV
+,	PUNCT
+si	PRON
+può	AUX
+benissimo	ADV
+affittare	VERB
+un	DET
+appartamento	NOUN
+o	CCONJ
+una	DET
+camera	NOUN
+in	ADP
+case	NOUN
+private	ADJ
+.	PUNCT
+
+Sentence ID: 136
+Sentence: Nella camera d'albergo il cameriere vi porterà, su semplice richiesta, un clistere.
+POS:
+Nella	_
+In	ADP
+la	DET
+camera	NOUN
+d'	ADP
+albergo	NOUN
+il	DET
+cameriere	NOUN
+vi	PRON
+porterà	VERB
+,	PUNCT
+su	ADP
+semplice	ADJ
+richiesta	NOUN
+,	PUNCT
+un	DET
+clistere	NOUN
+.	PUNCT
+
+Sentence ID: 137
+Sentence: l'essenzialità, in quanto delineano e definiscono il contenuto del diritto stesso; stillicidio [v. 908]).
+POS:
+l'	DET
+essenzialità	NOUN
+,	PUNCT
+in	ADP
+quanto	ADV
+delineano	VERB
+e	CCONJ
+definiscono	VERB
+il	DET
+contenuto	NOUN
+del	_
+di	ADP
+il	DET
+diritto	NOUN
+stesso	ADJ
+;	PUNCT
+stillicidio	NOUN
+[	PUNCT
+v.	VERB
+908	NUM
+]	PUNCT
+)	PUNCT
+.	PUNCT
+
+Sentence ID: 138
+Sentence: L'espropriazione è realizzata attraverso un atto amministrativo;
+POS:
+L'	DET
+espropriazione	NOUN
+è	AUX
+realizzata	VERB
+attraverso	ADP
+un	DET
+atto	NOUN
+amministrativo	ADJ
+;	PUNCT
+
+Sentence ID: 139
+Sentence: La norma prevede una sottospecie di espropriazione, fondata non sulla pubblica utilità del bene, ma sul cattivo uso di alcuni beni da parte del proprietario, e sul danno che il cattivo uso può arrecare alla produzione nazionale, al decoro e all'igiene nelle città.
+POS:
+La	DET
+norma	NOUN
+prevede	VERB
+una	DET
+sottospecie	NOUN
+di	ADP
+espropriazione	NOUN
+,	PUNCT
+fondata	ADJ
+non	ADV
+sulla	_
+su	ADP
+la	DET
+pubblica	ADJ
+utilità	NOUN
+del	_
+di	ADP
+il	DET
+bene	NOUN
+,	PUNCT
+ma	CCONJ
+sul	_
+su	ADP
+il	DET
+cattivo	ADJ
+uso	NOUN
+di	ADP
+alcuni	DET
+beni	NOUN
+da	ADP
+parte	NOUN
+del	_
+di	ADP
+il	DET
+proprietario	NOUN
+,	PUNCT
+e	CCONJ
+sul	_
+su	ADP
+il	DET
+danno	NOUN
+che	SCONJ
+il	DET
+cattivo	ADJ
+uso	NOUN
+può	AUX
+arrecare	VERB
+alla	_
+a	ADP
+la	DET
+produzione	NOUN
+nazionale	ADJ
+,	PUNCT
+al	_
+a	ADP
+il	DET
+decoro	NOUN
+e	CCONJ
+all'	_
+a	ADP
+l'	DET
+igiene	NOUN
+nelle	_
+in	ADP
+le	DET
+città	NOUN
+.	PUNCT
+
+Sentence ID: 140
+Sentence: 867.
+POS:
+867	NUM
+.	PUNCT
+
+Sentence ID: 141
+Sentence: Sistemazione e rimboschimento dei terreni vincolati.
+POS:
+Sistemazione	NOUN
+e	CCONJ
+rimboschimento	NOUN
+dei	_
+di	ADP
+i	DET
+terreni	NOUN
+vincolati	VERB
+.	PUNCT
+
+Sentence ID: 142
+Sentence: Le conseguenze di carattere amministrativo della violazione delle norme indicate dall'articolo precedente sono stabilite da leggi speciali.
+POS:
+Le	DET
+conseguenze	NOUN
+di	ADP
+carattere	NOUN
+amministrativo	ADJ
+della	_
+di	ADP
+la	DET
+violazione	NOUN
+delle	_
+di	ADP
+le	DET
+norme	NOUN
+indicate	VERB
+dall'	_
+da	ADP
+l'	DET
+articolo	NOUN
+precedente	ADJ
+sono	AUX
+stabilite	VERB
+da	ADP
+leggi	NOUN
+speciali	ADJ
+.	PUNCT
+
+Sentence ID: 143
+Sentence: Se il vicino vuole servirsi (1) del muro esistente sul confine solo per innestarvi un capo del proprio muro, non ha l'obbligo di renderlo comune a norma dell'articolo 874, ma deve pagare una indennità (2) per l'innesto.
+POS:
+Se	SCONJ
+il	DET
+vicino	NOUN
+vuole	AUX
+servirsi	_
+servir	VERB
+si	PRON
+(	PUNCT
+1	NUM
+)	PUNCT
+del	_
+di	ADP
+il	DET
+muro	NOUN
+esistente	VERB
+sul	_
+su	ADP
+il	DET
+confine	NOUN
+solo	ADV
+per	ADP
+innestarvi	_
+innestar	VERB
+vi	PRON
+un	DET
+capo	NOUN
+del	_
+di	ADP
+il	DET
+proprio	DET
+muro	NOUN
+,	PUNCT
+non	ADV
+ha	VERB
+l'	DET
+obbligo	NOUN
+di	ADP
+renderlo	_
+render	VERB
+lo	PRON
+comune	ADJ
+a	ADP
+norma	NOUN
+dell'	_
+di	ADP
+l'	DET
+articolo	NOUN
+874	NUM
+,	PUNCT
+ma	CCONJ
+deve	AUX
+pagare	VERB
+una	DET
+indennità	NOUN
+(	PUNCT
+2	NUM
+)	PUNCT
+per	ADP
+l'	DET
+innesto	NOUN
+.	PUNCT
+
+Sentence ID: 144
+Sentence: lo Stato può anche costruire edifici demaniali in aderenza con quelli dei privati.
+POS:
+lo	DET
+Stato	NOUN
+può	AUX
+anche	ADV
+costruire	VERB
+edifici	NOUN
+demaniali	ADJ
+in	ADP
+aderenza	NOUN
+con	ADP
+quelli	PRON
+dei	_
+di	ADP
+i	DET
+privati	NOUN
+.	PUNCT
+
+Sentence ID: 145
+Sentence: La rinunzia (3) non libera il rinunziante dall'obbligo delle riparazioni e ricostruzioni a cui abbia dato causa col fatto proprio.
+POS:
+La	DET
+rinunzia	NOUN
+(	PUNCT
+3	NUM
+)	PUNCT
+non	ADV
+libera	VERB
+il	DET
+rinunziante	NOUN
+dall'	_
+da	ADP
+l'	DET
+obbligo	NOUN
+delle	_
+di	ADP
+le	DET
+riparazioni	NOUN
+e	CCONJ
+ricostruzioni	NOUN
+a	ADP
+cui	PRON
+abbia	AUX
+dato	VERB
+causa	NOUN
+col	_
+con	ADP
+il	DET
+fatto	NOUN
+proprio	ADV
+.	PUNCT
+
+Sentence ID: 146
+Sentence: Ogni comproprietario può (1) alzare il muro comune, ma sono a suo carico tutte le spese di costruzione e conservazione (2) della parte sopraedificata [903].
+POS:
+Ogni	DET
+comproprietario	NOUN
+può	AUX
+(	PUNCT
+1	NUM
+)	PUNCT
+alzare	VERB
+il	DET
+muro	NOUN
+comune	ADJ
+,	PUNCT
+ma	CCONJ
+sono	AUX
+a	ADP
+suo	DET
+carico	NOUN
+tutte	DET
+le	DET
+spese	NOUN
+di	ADP
+costruzione	NOUN
+e	CCONJ
+conservazione	NOUN
+(	PUNCT
+2	NUM
+)	PUNCT
+della	_
+di	ADP
+la	DET
+parte	NOUN
+sopraedificata	VERB
+[	PUNCT
+903	NUM
+]	PUNCT
+.	PUNCT
+
+Sentence ID: 147
+Sentence: 889. Distanze per pozzi, cisterne, fosse e tubi.
+POS:
+889	NUM
+.	PUNCT
+Distanze	NOUN
+per	ADP
+pozzi	NOUN
+,	PUNCT
+cisterne	NOUN
+,	PUNCT
+fosse	NOUN
+e	CCONJ
+tubi	NOUN
+.	PUNCT
+
+Sentence ID: 148
+Sentence: 892.
+POS:
+892	NUM
+.	PUNCT
+
+Sentence ID: 149
+Sentence: Distanze per gli alberi.
+POS:
+Distanze	NOUN
+per	ADP
+gli	DET
+alberi	NOUN
+.	PUNCT
+
+Sentence ID: 150
+Sentence: Ogni fosso interposto tra due fondi si presume comune.
+POS:
+Ogni	DET
+fosso	NOUN
+interposto	VERB
+tra	ADP
+due	NUM
+fondi	NOUN
+si	PRON
+presume	VERB
+comune	ADJ
+.	PUNCT
+
+Sentence ID: 151
+Sentence: Qualora per esigenze della produzione si debba provvedere ad opere di sistemazione degli scoli, di soppressione di ristagni o di raccolta di acque, l'autorità amministrativa, su richiesta della maggioranza degli interessati o anche d'ufficio, può costituire un consorzio tra i proprietari dei fondi che traggono beneficio dalle opere stesse [863, 865].
+POS:
+Qualora	SCONJ
+per	ADP
+esigenze	NOUN
+della	_
+di	ADP
+la	DET
+produzione	NOUN
+si	PRON
+debba	AUX
+provvedere	VERB
+ad	ADP
+opere	NOUN
+di	ADP
+sistemazione	NOUN
+degli	_
+di	ADP
+gli	DET
+scoli	NOUN
+,	PUNCT
+di	ADP
+soppressione	NOUN
+di	ADP
+ristagni	NOUN
+o	CCONJ
+di	ADP
+raccolta	NOUN
+di	ADP
+acque	NOUN
+,	PUNCT
+l'	DET
+autorità	NOUN
+amministrativa	ADJ
+,	PUNCT
+su	ADP
+richiesta	NOUN
+della	_
+di	ADP
+la	DET
+maggioranza	NOUN
+degli	_
+di	ADP
+gli	DET
+interessati	ADJ
+o	CCONJ
+anche	ADV
+d'	ADP
+ufficio	NOUN
+,	PUNCT
+può	AUX
+costituire	VERB
+un	DET
+consorzio	NOUN
+tra	ADP
+i	DET
+proprietari	NOUN
+dei	_
+di	ADP
+i	DET
+fondi	NOUN
+che	PRON
+traggono	VERB
+beneficio	NOUN
+dalle	_
+da	ADP
+le	DET
+opere	NOUN
+stesse	ADJ
+[	PUNCT
+863	NUM
+,	PUNCT
+865	NUM
+]	PUNCT
+.	PUNCT
+
+Sentence ID: 152
+Sentence: Il costruttore che senza malizia costruisce sul fondo altrui vede in definitiva premiato il suo lavoro, così come il codice tutela il lavoro dello specificatore [v. 940].
+POS:
+Il	DET
+costruttore	NOUN
+che	PRON
+senza	ADP
+malizia	NOUN
+costruisce	VERB
+sul	_
+su	ADP
+il	DET
+fondo	NOUN
+altrui	DET
+vede	VERB
+in	ADP
+definitiva	ADJ
+premiato	VERB
+il	DET
+suo	DET
+lavoro	NOUN
+,	PUNCT
+così	ADV
+come	ADP
+il	DET
+codice	NOUN
+tutela	VERB
+il	DET
+lavoro	NOUN
+dello	_
+di	ADP
+lo	DET
+specificatore	NOUN
+[	PUNCT
+v.	VERB
+940	NUM
+]	PUNCT
+.	PUNCT
+
+Sentence ID: 153
+Sentence: Il proprietario può costituire il diritto di fare e mantenere al di sopra del suolo una costruzione a favore di altri, che ne acquista la proprietà [934, 1350 n.
+POS:
+Il	DET
+proprietario	NOUN
+può	AUX
+costituire	VERB
+il	DET
+diritto	NOUN
+di	ADP
+fare	VERB
+e	CCONJ
+mantenere	VERB
+al	_
+a	ADP
+il	DET
+di	ADP
+sopra	ADV
+del	_
+di	ADP
+il	DET
+suolo	NOUN
+una	DET
+costruzione	NOUN
+a	ADP
+favore	NOUN
+di	ADP
+altri	PRON
+,	PUNCT
+che	PRON
+ne	PRON
+acquista	VERB
+la	DET
+proprietà	NOUN
+[	PUNCT
+934	NUM
+,	PUNCT
+1350	NUM
+n.	NOUN
+
+Sentence ID: 154
+Sentence: 2, 2643 n. 2, 2810 n. 3].
+POS:
+2	NUM
+,	PUNCT
+2643	NUM
+n.	NOUN
+2	NUM
+,	PUNCT
+2810	NUM
+n.	NOUN
+3	NUM
+]	PUNCT
+.	PUNCT
+
+Sentence ID: 155
+Sentence: Pertanto, è configurabile un contratto ad effetti obbligatori, qualificabile come locazione [v. 1571], in cui al conduttore si concede il godimento di un terreno con facoltà di farvi delle costruzioni di cui godrà fino alla fine del rapporto.
+POS:
+Pertanto	ADV
+,	PUNCT
+è	AUX
+configurabile	ADJ
+un	DET
+contratto	NOUN
+ad	ADP
+effetti	NOUN
+obbligatori	ADJ
+,	PUNCT
+qualificabile	ADJ
+come	ADP
+locazione	NOUN
+[	PUNCT
+v.	VERB
+1571	NUM
+]	PUNCT
+,	PUNCT
+in	ADP
+cui	PRON
+al	_
+a	ADP
+il	DET
+conduttore	NOUN
+si	PRON
+concede	VERB
+il	DET
+godimento	NOUN
+di	ADP
+un	DET
+terreno	NOUN
+con	ADP
+facoltà	NOUN
+di	ADP
+farvi	_
+far	VERB
+vi	PRON
+delle	_
+di	ADP
+le	DET
+costruzioni	NOUN
+di	ADP
+cui	PRON
+godrà	VERB
+fino	ADV
+alla	_
+a	ADP
+la	DET
+fine	NOUN
+del	_
+di	ADP
+il	DET
+rapporto	NOUN
+.	PUNCT
+
+Sentence ID: 156
+Sentence: 954. Estinzione del diritto di superficie.
+POS:
+954	NUM
+.	PUNCT
+Estinzione	NOUN
+del	_
+di	ADP
+il	DET
+diritto	NOUN
+di	ADP
+superficie	NOUN
+.	PUNCT
+
+Sentence ID: 157
+Sentence: Il diritto dell'enfiteuta si prescrive per effetto del non uso protratto per venti anni (2934 e seguenti).
+POS:
+Il	DET
+diritto	NOUN
+dell'	_
+di	ADP
+l'	DET
+enfiteuta	NOUN
+si	PRON
+prescrive	VERB
+per	ADP
+effetto	NOUN
+del	_
+di	ADP
+il	DET
+non	ADV
+uso	NOUN
+protratto	VERB
+per	ADP
+venti	NUM
+anni	NOUN
+(	PUNCT
+2934	NUM
+e	CCONJ
+seguenti	ADJ
+)	PUNCT
+.	PUNCT
+
+Sentence ID: 158
+Sentence: L'usufruttuario ha il diritto di conseguire il possesso della cosa di cui ha l'usufrutto, salvo quanto è disposto dall'art. 1002.
+POS:
+L'	DET
+usufruttuario	NOUN
+ha	VERB
+il	DET
+diritto	NOUN
+di	ADP
+conseguire	VERB
+il	DET
+possesso	NOUN
+della	_
+di	ADP
+la	DET
+cosa	NOUN
+di	ADP
+cui	PRON
+ha	VERB
+l'	DET
+usufrutto	NOUN
+,	PUNCT
+salvo	ADP
+quanto	PRON
+è	AUX
+disposto	VERB
+dall'	_
+da	ADP
+l'	DET
+art.	NOUN
+1002	NUM
+.	PUNCT
+
+Sentence ID: 159
+Sentence: L'usufruttuario ha diritto a un'indennità per i miglioramenti che sussistono al momento della restituzione della cosa (att. 157).
+POS:
+L'	DET
+usufruttuario	NOUN
+ha	VERB
+diritto	NOUN
+a	ADP
+un'	DET
+indennità	NOUN
+per	ADP
+i	DET
+miglioramenti	NOUN
+che	PRON
+sussistono	VERB
+al	_
+a	ADP
+il	DET
+momento	NOUN
+della	_
+di	ADP
+la	DET
+restituzione	NOUN
+della	_
+di	ADP
+la	DET
+cosa	NOUN
+(	PUNCT
+att.	NOUN
+157	NUM
+)	PUNCT
+.	PUNCT
+
+Sentence ID: 160
+Sentence: Se le addizioni non possono separarsi senza nocumento della cosa e costituiscono miglioramento di essa si applicano le disposizioni relative ai miglioramenti (att. 157).
+POS:
+Se	SCONJ
+le	DET
+addizioni	NOUN
+non	ADV
+possono	AUX
+separarsi	_
+separar	VERB
+si	PRON
+senza	ADP
+nocumento	NOUN
+della	_
+di	ADP
+la	DET
+cosa	NOUN
+e	CCONJ
+costituiscono	VERB
+miglioramento	NOUN
+di	ADP
+essa	PRON
+si	PRON
+applicano	VERB
+le	DET
+disposizioni	NOUN
+relative	ADJ
+ai	_
+a	ADP
+i	DET
+miglioramenti	NOUN
+(	PUNCT
+att.	NOUN
+157	NUM
+)	PUNCT
+.	PUNCT
+
+Sentence ID: 161
+Sentence: L'usufruttuario può servirsi di essi soltanto per le riparazioni che sono a suo carico.
+POS:
+L'	DET
+usufruttuario	NOUN
+può	AUX
+servirsi	_
+servir	VERB
+si	PRON
+di	ADP
+essi	PRON
+soltanto	ADV
+per	ADP
+le	DET
+riparazioni	NOUN
+che	PRON
+sono	AUX
+a	ADP
+suo	DET
+carico	NOUN
+.	PUNCT
+
+Sentence ID: 162
+Sentence: L'usufruttuario deve restituire le cose che formano oggetto del suo diritto, al termine dell'usufrutto, salvo quanto è disposto dall'art. 995 (2930).
+POS:
+L'	DET
+usufruttuario	NOUN
+deve	AUX
+restituire	VERB
+le	DET
+cose	NOUN
+che	PRON
+formano	VERB
+oggetto	NOUN
+del	_
+di	ADP
+il	DET
+suo	DET
+diritto	NOUN
+,	PUNCT
+al	_
+a	ADP
+il	DET
+termine	NOUN
+dell'	_
+di	ADP
+l'	DET
+usufrutto	NOUN
+,	PUNCT
+salvo	ADP
+quanto	PRON
+è	AUX
+disposto	VERB
+dall'	_
+da	ADP
+l'	DET
+art.	NOUN
+995	NUM
+(	PUNCT
+2930	NUM
+)	PUNCT
+.	PUNCT
+
+Sentence ID: 163
+Sentence: L'usufruttuario di un'eredità o di una quota di eredità (588) è obbligato a pagare per intero, o in proporzione della quota, le annualità e gli interessi dei debiti o dei legati da cui l'eredità stessa sia gravata.
+POS:
+L'	DET
+usufruttuario	NOUN
+di	ADP
+un'	DET
+eredità	NOUN
+o	CCONJ
+di	ADP
+una	DET
+quota	NOUN
+di	ADP
+eredità	NOUN
+(	PUNCT
+588	NUM
+)	PUNCT
+è	AUX
+obbligato	VERB
+a	ADP
+pagare	VERB
+per	ADP
+intero	NOUN
+,	PUNCT
+o	CCONJ
+in	ADP
+proporzione	NOUN
+della	_
+di	ADP
+la	DET
+quota	NOUN
+,	PUNCT
+le	DET
+annualità	NOUN
+e	CCONJ
+gli	DET
+interessi	NOUN
+dei	_
+di	ADP
+i	DET
+debiti	NOUN
+o	CCONJ
+dei	_
+di	ADP
+i	DET
+legati	NOUN
+da	ADP
+cui	PRON
+l'	DET
+eredità	NOUN
+stessa	ADJ
+sia	AUX
+gravata	VERB
+.	PUNCT
+
+Sentence ID: 164
+Sentence: 1015. Abusi dell'usufruttuario.
+POS:
+1015	NUM
+.	PUNCT
+Abusi	NOUN
+dell'	_
+di	ADP
+l'	DET
+usufruttuario	NOUN
+.	PUNCT
+
+Sentence ID: 165
+Sentence: Se è perito un edificio e il proprietario intende di ricostruirlo con la somma conseguita come indennità, l'usufruttuario non può opporsi.
+POS:
+Se	SCONJ
+è	AUX
+perito	VERB
+un	DET
+edificio	NOUN
+e	CCONJ
+il	DET
+proprietario	NOUN
+intende	VERB
+di	ADP
+ricostruirlo	_
+ricostruir	VERB
+lo	PRON
+con	ADP
+la	DET
+somma	NOUN
+conseguita	VERB
+come	ADP
+indennità	NOUN
+,	PUNCT
+l'	DET
+usufruttuario	NOUN
+non	ADV
+può	AUX
+opporsi	_
+oppor	VERB
+si	PRON
+.	PUNCT
+
+Sentence ID: 166
+Sentence: Se la cosa è requisita o espropriata per pubblico interesse, l'usufrutto si trasferisce sull'indennità relativa (1000).
+POS:
+Se	SCONJ
+la	DET
+cosa	NOUN
+è	AUX
+requisita	VERB
+o	CCONJ
+espropriata	VERB
+per	ADP
+pubblico	ADJ
+interesse	NOUN
+,	PUNCT
+l'	DET
+usufrutto	NOUN
+si	PRON
+trasferisce	VERB
+sull'	_
+su	ADP
+l'	DET
+indennità	NOUN
+relativa	ADJ
+(	PUNCT
+1000	NUM
+)	PUNCT
+.	PUNCT
+
+Sentence ID: 167
+Sentence: Delle servitu'prediali.
+POS:
+Delle	_
+Di	ADP
+le	DET
+servitu'	NUM
+prediali	ADJ
+.	PUNCT
+
+Sentence ID: 168
+Sentence: La servitù prediale consiste nel peso imposto sopra un fondo per l'utilità di un altro fondo appartenente a diverso proprietario (1072, 1100).
+POS:
+La	DET
+servitù	NOUN
+prediale	ADJ
+consiste	VERB
+nel	_
+in	ADP
+il	DET
+peso	NOUN
+imposto	VERB
+sopra	ADP
+un	DET
+fondo	NOUN
+per	ADP
+l'	DET
+utilità	NOUN
+di	ADP
+un	DET
+altro	ADJ
+fondo	NOUN
+appartenente	VERB
+a	ADP
+diverso	ADJ
+proprietario	NOUN
+(	PUNCT
+1072	NUM
+,	PUNCT
+1100	NUM
+)	PUNCT
+.	PUNCT
+
+Sentence ID: 169
+Sentence: 1038. Indennità per l'imposizione della servitù.
+POS:
+1038	NUM
+.	PUNCT
+Indennità	NOUN
+per	ADP
+l'	DET
+imposizione	NOUN
+della	_
+di	ADP
+la	DET
+servitù	NOUN
+.	PUNCT
+
+Sentence ID: 170
+Sentence: 1039.
+POS:
+1039	NUM
+.	PUNCT
+
+Sentence ID: 171
+Sentence: Indennità per il passaggio temporaneo.
+POS:
+Indennità	NOUN
+per	ADP
+il	DET
+passaggio	NOUN
+temporaneo	ADJ
+.	PUNCT
+
+Sentence ID: 172
+Sentence: Se l'indennità fu convenuta in annualità, la prestazione cessa dall'anno successivo.
+POS:
+Se	SCONJ
+l'	DET
+indennità	NOUN
+fu	AUX
+convenuta	VERB
+in	ADP
+annualità	NOUN
+,	PUNCT
+la	DET
+prestazione	NOUN
+cessa	VERB
+dall'	_
+da	ADP
+l'	DET
+anno	NOUN
+successivo	ADJ
+.	PUNCT
+
+Sentence ID: 173
+Sentence: 1063. Norme regolatrici.
+POS:
+1063	NUM
+.	PUNCT
+Norme	NOUN
+regolatrici	ADJ
+.	PUNCT
+
+Sentence ID: 174
+Sentence: Il termine decorre dal giorno in cui si è cessato di esercitarla;
+POS:
+Il	DET
+termine	NOUN
+decorre	VERB
+dal	_
+da	ADP
+il	DET
+giorno	NOUN
+in	ADP
+cui	PRON
+si	PRON
+è	AUX
+cessato	VERB
+di	ADP
+esercitarla	_
+esercitar	VERB
+la	PRON
+;	PUNCT
+
+Sentence ID: 175
+Sentence: Le servitù costituite dall'enfiteuta sul fondo enfiteutico cessano quando l'enfiteusi si estingue per decorso del termine, per prescrizione o per devoluzione (958, 970, 972).
+POS:
+Le	DET
+servitù	NOUN
+costituite	VERB
+dall'	_
+da	ADP
+l'	DET
+enfiteuta	NOUN
+sul	_
+su	ADP
+il	DET
+fondo	NOUN
+enfiteutico	ADJ
+cessano	VERB
+quando	SCONJ
+l'	DET
+enfiteusi	NOUN
+si	PRON
+estingue	VERB
+per	ADP
+decorso	NOUN
+del	_
+di	ADP
+il	DET
+termine	NOUN
+,	PUNCT
+per	ADP
+prescrizione	NOUN
+o	CCONJ
+per	ADP
+devoluzione	NOUN
+(	PUNCT
+958	NUM
+,	PUNCT
+970	NUM
+,	PUNCT
+972	NUM
+)	PUNCT
+.	PUNCT
+
+Sentence ID: 176
+Sentence: Della servitù di presa o di derivazione di acqua.
+POS:
+Della	_
+Di	ADP
+la	DET
+servitù	NOUN
+di	ADP
+presa	NOUN
+o	CCONJ
+di	ADP
+derivazione	NOUN
+di	ADP
+acqua	NOUN
+.	PUNCT
+
+Sentence ID: 177
+Sentence: Se si tratta di cose destinate a servire i condomini in misura diversa, le spese sono ripartite in proporzione dell'uso che ciascuno può farne.
+POS:
+Se	SCONJ
+si	PRON
+tratta	VERB
+di	ADP
+cose	NOUN
+destinate	VERB
+a	ADP
+servire	VERB
+i	DET
+condomini	NOUN
+in	ADP
+misura	NOUN
+diversa	ADJ
+,	PUNCT
+le	DET
+spese	NOUN
+sono	AUX
+ripartite	VERB
+in	ADP
+proporzione	NOUN
+dell'	_
+di	ADP
+l'	DET
+uso	NOUN
+che	PRON
+ciascuno	PRON
+può	AUX
+farne	_
+far	VERB
+ne	PRON
+.	PUNCT
+
+Sentence ID: 178
+Sentence: La prestazione che forma oggetto dell'obbligazione deve essere suscettibile di valutazione economica e deve corrispondere a un interesse, anche non patrimoniale del creditore.
+POS:
+La	DET
+prestazione	NOUN
+che	PRON
+forma	VERB
+oggetto	NOUN
+dell'	_
+di	ADP
+l'	DET
+obbligazione	NOUN
+deve	AUX
+essere	AUX
+suscettibile	ADJ
+di	ADP
+valutazione	NOUN
+economica	ADJ
+e	CCONJ
+deve	AUX
+corrispondere	VERB
+a	ADP
+un	DET
+interesse	NOUN
+,	PUNCT
+anche	ADV
+non	ADV
+patrimoniale	ADJ
+del	_
+di	ADP
+il	DET
+creditore	NOUN
+.	PUNCT
+
+Sentence ID: 179
+Sentence: Nell'adempiere l'obbligazione il debitore deve usare la diligenza del buon padre di famiglia.
+POS:
+Nell'	_
+In	ADP
+l'	DET
+adempiere	NOUN
+l'	DET
+obbligazione	NOUN
+il	DET
+debitore	NOUN
+deve	AUX
+usare	VERB
+la	DET
+diligenza	NOUN
+del	_
+di	ADP
+il	DET
+buon	ADJ
+padre	NOUN
+di	ADP
+famiglia	NOUN
+.	PUNCT
+
+Sentence ID: 180
+Sentence: In questo caso l'obbligazione si estingue quando la diversa prestazione è eseguita.
+POS:
+In	ADP
+questo	DET
+caso	NOUN
+l'	DET
+obbligazione	NOUN
+si	PRON
+estingue	VERB
+quando	SCONJ
+la	DET
+diversa	ADJ
+prestazione	NOUN
+è	AUX
+eseguita	VERB
+.	PUNCT
+
+Sentence ID: 181
+Sentence: Il creditore è in mora quando, senza il motivo legittimo, non riceve il pagamento offertogli nei modi indicati dagli articoli seguenti o non compie quanto è necessario affinché il debitore possa adempiere l'obbligazione.
+POS:
+Il	DET
+creditore	NOUN
+è	AUX
+in	ADP
+mora	NOUN
+quando	SCONJ
+,	PUNCT
+senza	ADP
+il	DET
+motivo	NOUN
+legittimo	ADJ
+,	PUNCT
+non	ADV
+riceve	VERB
+il	DET
+pagamento	NOUN
+offertogli	_
+offerto	VERB
+gli	PRON
+nei	_
+in	ADP
+i	DET
+modi	NOUN
+indicati	VERB
+dagli	_
+da	ADP
+gli	DET
+articoli	NOUN
+seguenti	ADJ
+o	CCONJ
+non	ADV
+compie	VERB
+quanto	PRON
+è	AUX
+necessario	ADJ
+affinché	SCONJ
+il	DET
+debitore	NOUN
+possa	AUX
+adempiere	VERB
+l'	DET
+obbligazione	NOUN
+.	PUNCT
+
+Sentence ID: 182
+Sentence: Nelle obbligazioni che hanno per oggetto una somma di danaro, sono dovuti dal giorno della mora gli interessi legali, anche se non erano dovuti precedentemente e anche se il creditore non prova di aver sofferto alcun danno.
+POS:
+Nelle	_
+In	ADP
+le	DET
+obbligazioni	NOUN
+che	PRON
+hanno	VERB
+per	ADP
+oggetto	NOUN
+una	DET
+somma	NOUN
+di	ADP
+danaro	NOUN
+,	PUNCT
+sono	AUX
+dovuti	VERB
+dal	_
+da	ADP
+il	DET
+giorno	NOUN
+della	_
+di	ADP
+la	DET
+mora	NOUN
+gli	DET
+interessi	NOUN
+legali	ADJ
+,	PUNCT
+anche	ADV
+se	SCONJ
+non	ADV
+erano	AUX
+dovuti	VERB
+precedentemente	ADV
+e	CCONJ
+anche	ADV
+se	SCONJ
+il	DET
+creditore	NOUN
+non	ADV
+prova	VERB
+di	ADP
+aver	AUX
+sofferto	VERB
+alcun	DET
+danno	NOUN
+.	PUNCT
+
+Sentence ID: 183
+Sentence: La restituzione volontaria del titolo originale del credito, fatta dal creditore al debitore, costituisce prova della liberazione anche rispetto ai condebitori in solido.
+POS:
+La	DET
+restituzione	NOUN
+volontaria	ADJ
+del	_
+di	ADP
+il	DET
+titolo	NOUN
+originale	ADJ
+del	_
+di	ADP
+il	DET
+credito	NOUN
+,	PUNCT
+fatta	VERB
+dal	_
+da	ADP
+il	DET
+creditore	NOUN
+al	_
+a	ADP
+il	DET
+debitore	NOUN
+,	PUNCT
+costituisce	VERB
+prova	NOUN
+della	_
+di	ADP
+la	DET
+liberazione	NOUN
+anche	ADV
+rispetto	ADV
+ai	_
+a	ADP
+i	DET
+condebitori	NOUN
+in	ADP
+solido	NOUN
+.	PUNCT
+
+Sentence ID: 184
+Sentence: Tuttavia se gli altri fideiussori hanno consentito la liberazione, essi rimangono obbligati per l'intero.
+POS:
+Tuttavia	ADV
+se	SCONJ
+gli	DET
+altri	ADJ
+fideiussori	NOUN
+hanno	AUX
+consentito	VERB
+la	DET
+liberazione	NOUN
+,	PUNCT
+essi	PRON
+rimangono	VERB
+obbligati	VERB
+per	ADP
+l'	DET
+intero	NOUN
+.	PUNCT
+
+Sentence ID: 185
+Sentence: La compensazione non si verifica in pregiudizio dei terzi che hanno acquistato diritti di usufrutto o di pegno su uno dei crediti.
+POS:
+La	DET
+compensazione	NOUN
+non	ADV
+si	PRON
+verifica	VERB
+in	ADP
+pregiudizio	NOUN
+dei	_
+di	ADP
+i	DET
+terzi	ADJ
+che	PRON
+hanno	AUX
+acquistato	VERB
+diritti	NOUN
+di	ADP
+usufrutto	NOUN
+o	CCONJ
+di	ADP
+pegno	NOUN
+su	ADP
+uno	PRON
+dei	_
+di	ADP
+i	DET
+crediti	NOUN
+.	PUNCT
+
+Sentence ID: 186
+Sentence: La difesa è diritto inviolabile in ogni stato e grado del procedimento.
+POS:
+La	DET
+difesa	NOUN
+è	AUX
+diritto	NOUN
+inviolabile	ADJ
+in	ADP
+ogni	DET
+stato	NOUN
+e	CCONJ
+grado	NOUN
+del	_
+di	ADP
+il	DET
+procedimento	NOUN
+.	PUNCT
+
+Sentence ID: 187
+Sentence: L'imputato non è considerato colpevole sino alla condanna definitiva.
+POS:
+L'	DET
+imputato	NOUN
+non	ADV
+è	AUX
+considerato	VERB
+colpevole	ADJ
+sino	ADV
+alla	_
+a	ADP
+la	DET
+condanna	NOUN
+definitiva	ADJ
+.	PUNCT
+
+Sentence ID: 188
+Sentence: La Repubblica agevola con misure economiche e altre provvidenze la formazione della famiglia e l'adempimento dei compiti relativi, con particolare riguardo alle famiglie numerose.
+POS:
+La	DET
+Repubblica	PROPN
+agevola	VERB
+con	ADP
+misure	NOUN
+economiche	ADJ
+e	CCONJ
+altre	ADJ
+provvidenze	NOUN
+la	DET
+formazione	NOUN
+della	_
+di	ADP
+la	DET
+famiglia	NOUN
+e	CCONJ
+l'	DET
+adempimento	NOUN
+dei	_
+di	ADP
+i	DET
+compiti	NOUN
+relativi	ADJ
+,	PUNCT
+con	ADP
+particolare	ADJ
+riguardo	NOUN
+alle	_
+a	ADP
+le	DET
+famiglie	NOUN
+numerose	ADJ
+.	PUNCT
+
+Sentence ID: 189
+Sentence: Gli inabili ed i minorati hanno diritto all'educazione e all'avviamento professionale.
+POS:
+Gli	DET
+inabili	ADJ
+ed	CCONJ
+i	DET
+minorati	NOUN
+hanno	VERB
+diritto	NOUN
+all'	_
+a	ADP
+l'	DET
+educazione	NOUN
+e	CCONJ
+all'	_
+a	ADP
+l'	DET
+avviamento	NOUN
+professionale	ADJ
+.	PUNCT
+
+Sentence ID: 190
+Sentence: Il diritto di voto non può essere limitato se non per incapacità civile o per effetto di sentenza penale irrevocabile o nei casi di indegnità morale indicati dalla legge.
+POS:
+Il	DET
+diritto	NOUN
+di	ADP
+voto	NOUN
+non	ADV
+può	AUX
+essere	AUX
+limitato	VERB
+se	SCONJ
+non	ADV
+per	ADP
+incapacità	NOUN
+civile	ADJ
+o	CCONJ
+per	ADP
+effetto	NOUN
+di	ADP
+sentenza	NOUN
+penale	ADJ
+irrevocabile	ADJ
+o	CCONJ
+nei	_
+in	ADP
+i	DET
+casi	NOUN
+di	ADP
+indegnità	NOUN
+morale	ADJ
+indicati	VERB
+dalla	_
+da	ADP
+la	DET
+legge	NOUN
+.	PUNCT
+
+Sentence ID: 191
+Sentence: Con la legge di approvazione del bilancio non si possono stabilire nuovi tributi e nuove spese.
+POS:
+Con	ADP
+la	DET
+legge	NOUN
+di	ADP
+approvazione	NOUN
+del	_
+di	ADP
+il	DET
+bilancio	NOUN
+non	ADV
+si	PRON
+possono	AUX
+stabilire	VERB
+nuovi	ADJ
+tributi	NOUN
+e	CCONJ
+nuove	ADJ
+spese	NOUN
+.	PUNCT
+
+Sentence ID: 192
+Sentence: Gli atti che hanno valore legislativo e gli altri indicati dalla legge sono controfirmati anche dal Presidente del Consiglio dei Ministri.
+POS:
+Gli	DET
+atti	NOUN
+che	PRON
+hanno	VERB
+valore	NOUN
+legislativo	ADJ
+e	CCONJ
+gli	DET
+altri	PRON
+indicati	VERB
+dalla	_
+da	ADP
+la	DET
+legge	NOUN
+sono	AUX
+controfirmati	VERB
+anche	ADV
+dal	_
+da	ADP
+il	DET
+Presidente	NOUN
+del	_
+di	ADP
+il	DET
+Consiglio	NOUN
+dei	_
+di	ADP
+i	DET
+Ministri	NOUN
+.	PUNCT
+
+Sentence ID: 193
+Sentence: Il Presidente della Repubblica, prima di assumere le sue funzioni, presta giuramento di fedeltà alla Repubblica e di osservanza della Costituzione dinanzi al Parlamento in seduta comune.
+POS:
+Il	DET
+Presidente	NOUN
+della	_
+di	ADP
+la	DET
+Repubblica	PROPN
+,	PUNCT
+prima	ADV
+di	ADP
+assumere	VERB
+le	DET
+sue	DET
+funzioni	NOUN
+,	PUNCT
+presta	VERB
+giuramento	NOUN
+di	ADP
+fedeltà	NOUN
+alla	_
+a	ADP
+la	DET
+Repubblica	PROPN
+e	CCONJ
+di	ADP
+osservanza	NOUN
+della	_
+di	ADP
+la	DET
+Costituzione	NOUN
+dinanzi	ADV
+al	_
+a	ADP
+il	DET
+Parlamento	PROPN
+in	ADP
+seduta	NOUN
+comune	ADJ
+.	PUNCT
+
+Sentence ID: 194
+Sentence: Il Presidente del Consiglio dei ministri e i ministri, prima di assumere le funzioni, prestano giuramento nelle mani del Presidente della Repubblica.
+POS:
+Il	DET
+Presidente	NOUN
+del	_
+di	ADP
+il	DET
+Consiglio	NOUN
+dei	_
+di	ADP
+i	DET
+ministri	NOUN
+e	CCONJ
+i	DET
+ministri	NOUN
+,	PUNCT
+prima	ADV
+di	ADP
+assumere	VERB
+le	DET
+funzioni	NOUN
+,	PUNCT
+prestano	VERB
+giuramento	NOUN
+nelle	_
+in	ADP
+le	DET
+mani	NOUN
+del	_
+di	ADP
+il	DET
+Presidente	NOUN
+della	_
+di	ADP
+la	DET
+Repubblica	PROPN
+.	PUNCT
+
+Sentence ID: 195
+Sentence: Nell'ordinamento degli uffici sono determinate le sfere di competenza, le attribuzioni e le responsabilità proprie dei funzionari.
+POS:
+Nell'	_
+In	ADP
+l'	DET
+ordinamento	NOUN
+degli	_
+di	ADP
+gli	DET
+uffici	NOUN
+sono	AUX
+determinate	VERB
+le	DET
+sfere	NOUN
+di	ADP
+competenza	NOUN
+,	PUNCT
+le	DET
+attribuzioni	NOUN
+e	CCONJ
+le	DET
+responsabilità	NOUN
+proprie	DET
+dei	_
+di	ADP
+i	DET
+funzionari	NOUN
+.	PUNCT
+
+Sentence ID: 196
+Sentence: Il Consiglio di Stato e gli altri organi di giustizia amministrativa hanno giurisdizione per la tutela nei confronti della pubblica amministrazione degli interessi legittimi e, in particolari materie indicate dalla legge, anche dei diritti soggettivi.
+POS:
+Il	DET
+Consiglio	PROPN
+di	ADP
+Stato	PROPN
+e	CCONJ
+gli	DET
+altri	ADJ
+organi	NOUN
+di	ADP
+giustizia	NOUN
+amministrativa	ADJ
+hanno	VERB
+giurisdizione	NOUN
+per	ADP
+la	DET
+tutela	NOUN
+nei	_
+in	ADP
+i	DET
+confronti	NOUN
+della	_
+di	ADP
+la	DET
+pubblica	ADJ
+amministrazione	NOUN
+degli	_
+di	ADP
+gli	DET
+interessi	NOUN
+legittimi	ADJ
+e	CCONJ
+,	PUNCT
+in	ADP
+particolari	ADJ
+materie	NOUN
+indicate	VERB
+dalla	_
+da	ADP
+la	DET
+legge	NOUN
+,	PUNCT
+anche	ADV
+dei	_
+di	ADP
+i	DET
+diritti	NOUN
+soggettivi	ADJ
+.	PUNCT
+
+Sentence ID: 197
+Sentence: La colpevolezza dell'imputato non può essere provata sulla base di dichiarazioni rese da chi, per libera scelta, si è sempre volontariamente sottratto all'interrogatorio da parte dell'imputato o del suo difensore.
+POS:
+La	DET
+colpevolezza	NOUN
+dell'	_
+di	ADP
+l'	DET
+imputato	NOUN
+non	ADV
+può	AUX
+essere	AUX
+provata	VERB
+sulla	_
+su	ADP
+la	DET
+base	NOUN
+di	ADP
+dichiarazioni	NOUN
+rese	VERB
+da	ADP
+chi	PRON
+,	PUNCT
+per	ADP
+libera	ADJ
+scelta	NOUN
+,	PUNCT
+si	PRON
+è	AUX
+sempre	ADV
+volontariamente	ADV
+sottratto	VERB
+all'	_
+a	ADP
+l'	DET
+interrogatorio	NOUN
+da	ADP
+parte	NOUN
+dell'	_
+di	ADP
+l'	DET
+imputato	NOUN
+o	CCONJ
+del	_
+di	ADP
+il	DET
+suo	DET
+difensore	NOUN
+.	PUNCT
+
+Sentence ID: 198
+Sentence: Il Presidente eletto nomina e revoca i componenti della Giunta.
+POS:
+Il	DET
+Presidente	NOUN
+eletto	VERB
+nomina	NOUN
+e	CCONJ
+revoca	VERB
+i	DET
+componenti	NOUN
+della	_
+di	ADP
+la	DET
+Giunta	NOUN
+.	PUNCT
+
+Sentence ID: 199
+Sentence: Il Governo della Repubblica può promuovere la questione di legittimità costituzionale sugli statuti regionali dinanzi alla Corte costituzionale entro trenta giorni dalla loro pubblicazione.
+POS:
+Il	DET
+Governo	NOUN
+della	_
+di	ADP
+la	DET
+Repubblica	NOUN
+può	AUX
+promuovere	VERB
+la	DET
+questione	NOUN
+di	ADP
+legittimità	NOUN
+costituzionale	ADJ
+sugli	_
+su	ADP
+gli	DET
+statuti	NOUN
+regionali	ADJ
+dinanzi	ADV
+alla	_
+a	ADP
+la	DET
+Corte	NOUN
+costituzionale	ADJ
+entro	ADP
+trenta	NUM
+giorni	NOUN
+dalla	_
+da	ADP
+la	DET
+loro	DET
+pubblicazione	NOUN
+.	PUNCT
+
+Sentence ID: 200
+Sentence: Una legge costituzionale stabilisce le condizioni, le forme, i termini di proponibilità dei giudizi di legittimità costituzionale, e le garanzie d'indipendenza dei giudici della Corte.
+POS:
+Una	DET
+legge	NOUN
+costituzionale	ADJ
+stabilisce	VERB
+le	DET
+condizioni	NOUN
+,	PUNCT
+le	DET
+forme	NOUN
+,	PUNCT
+i	DET
+termini	NOUN
+di	ADP
+proponibilità	NOUN
+dei	_
+di	ADP
+i	DET
+giudizi	NOUN
+di	ADP
+legittimità	NOUN
+costituzionale	ADJ
+,	PUNCT
+e	CCONJ
+le	DET
+garanzie	NOUN
+d'	ADP
+indipendenza	NOUN
+dei	_
+di	ADP
+i	DET
+giudici	NOUN
+della	_
+di	ADP
+la	DET
+Corte	PROPN
+.	PUNCT
+
+Sentence ID: 201
+Sentence: Con legge ordinaria sono stabilite le altre norme necessarie per la costituzione e il funzionamento della Corte.
+POS:
+Con	ADP
+legge	NOUN
+ordinaria	ADJ
+sono	AUX
+stabilite	VERB
+le	DET
+altre	ADJ
+norme	NOUN
+necessarie	ADJ
+per	ADP
+la	DET
+costituzione	NOUN
+e	CCONJ
+il	DET
+funzionamento	NOUN
+della	_
+di	ADP
+la	DET
+Corte	PROPN
+.	PUNCT
+
+Sentence ID: 202
+Sentence: Alla Regione del Friuli-Venezia Giulia, di cui all'art. 116, si applicano provvisoriamente le norme generali del Titolo V della parte seconda, ferma restando la tutela delle minoranze linguistiche in conformità con l'art. 6.
+POS:
+Alla	_
+A	ADP
+la	DET
+Regione	PROPN
+del	_
+di	ADP
+il	DET
+Friuli	PROPN
+-	PUNCT
+Venezia	PROPN
+Giulia	PROPN
+,	PUNCT
+di	ADP
+cui	PRON
+all'	_
+a	ADP
+l'	DET
+art.	NOUN
+116	NUM
+,	PUNCT
+si	PRON
+applicano	VERB
+provvisoriamente	ADV
+le	DET
+norme	NOUN
+generali	ADJ
+del	_
+di	ADP
+il	DET
+Titolo	PROPN
+V	ADJ
+della	_
+di	ADP
+la	DET
+parte	NOUN
+seconda	ADJ
+,	PUNCT
+ferma	VERB
+restando	VERB
+la	DET
+tutela	NOUN
+delle	_
+di	ADP
+le	DET
+minoranze	NOUN
+linguistiche	ADJ
+in	ADP
+conformità	NOUN
+con	ADP
+l'	DET
+art.	NOUN
+6	NUM
+.	PUNCT
+
+Sentence ID: 203
+Sentence: Con l'entrata in vigore della Costituzione si ha per convertito in legge il decreto legislativo luogotenenziale 25 giugno 1944, n. 151, sull'ordinamento provvisorio dello Stato.
+POS:
+Con	ADP
+l'	DET
+entrata	NOUN
+in	ADP
+vigore	NOUN
+della	_
+di	ADP
+la	DET
+Costituzione	NOUN
+si	PRON
+ha	VERB
+per	ADP
+convertito	NOUN
+in	ADP
+legge	NOUN
+il	DET
+decreto	NOUN
+legislativo	ADJ
+luogotenenziale	ADJ
+25	NUM
+giugno	NOUN
+1944	NUM
+,	PUNCT
+n.	NOUN
+151	NUM
+,	PUNCT
+sull'	_
+su	ADP
+l'	DET
+ordinamento	NOUN
+provvisorio	ADJ
+dello	_
+di	ADP
+lo	DET
+Stato	NOUN
+.	PUNCT
+
+Sentence ID: 204
+Sentence: Fino al giorno delle elezioni delle nuove Camere, l'Assemblea Costituente può essere convocata, quando vi sia necessità di deliberare nelle materie attribuite alla sua competenza dagli articoli 2, primo e secondo comma, e 3, comma primo e secondo, del decreto legislativo 16 marzo 1946, n.
+POS:
+Fino	ADV
+al	_
+a	ADP
+il	DET
+giorno	NOUN
+delle	_
+di	ADP
+le	DET
+elezioni	NOUN
+delle	_
+di	ADP
+le	DET
+nuove	ADJ
+Camere	NOUN
+,	PUNCT
+l'	DET
+Assemblea	NOUN
+Costituente	ADJ
+può	AUX
+essere	AUX
+convocata	VERB
+,	PUNCT
+quando	SCONJ
+vi	PRON
+sia	VERB
+necessità	NOUN
+di	ADP
+deliberare	VERB
+nelle	_
+in	ADP
+le	DET
+materie	NOUN
+attribuite	VERB
+alla	_
+a	ADP
+la	DET
+sua	DET
+competenza	NOUN
+dagli	_
+da	ADP
+gli	DET
+articoli	NOUN
+2	NUM
+,	PUNCT
+primo	ADJ
+e	CCONJ
+secondo	ADJ
+comma	NOUN
+,	PUNCT
+e	CCONJ
+3	NUM
+,	PUNCT
+comma	NOUN
+primo	ADJ
+e	CCONJ
+secondo	ADJ
+,	PUNCT
+del	_
+di	ADP
+il	DET
+decreto	NOUN
+legislativo	ADJ
+16	NUM
+marzo	NOUN
+1946	NUM
+,	PUNCT
+n.	NOUN
+
+Sentence ID: 205
+Sentence: 98. La Costituzione dovrà essere fedelmente osservata come Legge fondamentale della Repubblica da tutti i cittadini e dagli organi dello Stato.
+POS:
+98	NUM
+.	PUNCT
+La	DET
+Costituzione	PROPN
+dovrà	AUX
+essere	AUX
+fedelmente	ADV
+osservata	VERB
+come	ADP
+Legge	PROPN
+fondamentale	ADJ
+della	_
+di	ADP
+la	DET
+Repubblica	PROPN
+da	ADP
+tutti	DET
+i	DET
+cittadini	NOUN
+e	CCONJ
+dagli	_
+da	ADP
+gli	DET
+organi	NOUN
+dello	_
+di	ADP
+lo	DET
+Stato	NOUN
+.	PUNCT
+
+Sentence ID: 206
+Sentence: (14) Come principio generale, il consumo energetico dei prodotti che consumano energia in stand-by o quando sono disattivati dovrebbe essere ridotto al minimo necessario per il loro adeguato funzionamento.
+POS:
+(	PUNCT
+14	NUM
+)	PUNCT
+Come	ADP
+principio	NOUN
+generale	ADJ
+,	PUNCT
+il	DET
+consumo	NOUN
+energetico	ADJ
+dei	_
+di	ADP
+i	DET
+prodotti	NOUN
+che	PRON
+consumano	VERB
+energia	NOUN
+in	ADP
+stand	NOUN
+-	PUNCT
+by	NOUN
+o	CCONJ
+quando	SCONJ
+sono	AUX
+disattivati	VERB
+dovrebbe	AUX
+essere	AUX
+ridotto	VERB
+al	_
+a	ADP
+il	DET
+minimo	NOUN
+necessario	ADJ
+per	ADP
+il	DET
+loro	DET
+adeguato	ADJ
+funzionamento	NOUN
+.	PUNCT
+
+Sentence ID: 207
+Sentence: - Il programma deve essere prorogato di almeno 4 anni con lo stesso importo di riferimento finanziario (1 milione di EUR all'anno) e gli stessi interventi e destinatari.
+POS:
+-	PUNCT
+Il	DET
+programma	NOUN
+deve	AUX
+essere	AUX
+prorogato	VERB
+di	ADP
+almeno	ADV
+4	NUM
+anni	NOUN
+con	ADP
+lo	DET
+stesso	ADJ
+importo	NOUN
+di	ADP
+riferimento	NOUN
+finanziario	ADJ
+(	PUNCT
+1	NUM
+milione	NOUN
+di	ADP
+EUR	PROPN
+all'	_
+a	ADP
+l'	DET
+anno	NOUN
+)	PUNCT
+e	CCONJ
+gli	DET
+stessi	ADJ
+interventi	NOUN
+e	CCONJ
+destinatari	NOUN
+.	PUNCT
+
+Sentence ID: 208
+Sentence: Il perimetro della concessione è costituito dagli archi di meridiano e di parallelo che collegano successivamente i vertici qui di seguito definiti dalle rispettive coordinate geografiche.
+POS:
+Il	DET
+perimetro	NOUN
+della	_
+di	ADP
+la	DET
+concessione	NOUN
+è	AUX
+costituito	VERB
+dagli	_
+da	ADP
+gli	DET
+archi	NOUN
+di	ADP
+meridiano	NOUN
+e	CCONJ
+di	ADP
+parallelo	NOUN
+che	PRON
+collegano	VERB
+successivamente	ADV
+i	DET
+vertici	NOUN
+qui	ADV
+di	ADP
+seguito	NOUN
+definiti	VERB
+dalle	_
+da	ADP
+le	DET
+rispettive	ADJ
+coordinate	NOUN
+geografiche	ADJ
+.	PUNCT
+
+Sentence ID: 209
+Sentence: c) I rifiuti solidi radioattivi derivanti dalle operazioni di smantellamento saranno collocati in un deposito esterno al sito.
+POS:
+c	NOUN
+)	PUNCT
+I	DET
+rifiuti	NOUN
+solidi	ADJ
+radioattivi	ADJ
+derivanti	VERB
+dalle	_
+da	ADP
+le	DET
+operazioni	NOUN
+di	ADP
+smantellamento	NOUN
+saranno	AUX
+collocati	VERB
+in	ADP
+un	DET
+deposito	NOUN
+esterno	ADJ
+al	_
+a	ADP
+il	DET
+sito	NOUN
+.	PUNCT
+
+Sentence ID: 210
+Sentence: Anche gli italiani hanno assaggiato la reazione velenosa di Valona che nel 1915 gli accordi segreti di Londra ci assegnarono insieme alla base militare sull'Isola di Saseno.
+POS:
+Anche	ADV
+gli	DET
+italiani	NOUN
+hanno	AUX
+assaggiato	VERB
+la	DET
+reazione	NOUN
+velenosa	ADJ
+di	ADP
+Valona	PROPN
+che	PRON
+nel	_
+in	ADP
+il	DET
+1915	NUM
+gli	DET
+accordi	NOUN
+segreti	ADJ
+di	ADP
+Londra	PROPN
+ci	PRON
+assegnarono	VERB
+insieme	ADV
+alla	_
+a	ADP
+la	DET
+base	NOUN
+militare	ADJ
+sull'	_
+su	ADP
+l'	DET
+Isola	PROPN
+di	ADP
+Saseno	PROPN
+.	PUNCT
+
+Sentence ID: 211
+Sentence: Si allunga l'ombra della mafia sullo scandalo delle finanziarie albanesi.
+POS:
+Si	PRON
+allunga	VERB
+l'	DET
+ombra	NOUN
+della	_
+di	ADP
+la	DET
+mafia	NOUN
+sullo	_
+su	ADP
+lo	DET
+scandalo	NOUN
+delle	_
+di	ADP
+le	DET
+finanziarie	NOUN
+albanesi	ADJ
+.	PUNCT
+
+Sentence ID: 212
+Sentence: Se venivi colto sul fatto, ti aspettavano otto anni di carcere.
+POS:
+Se	SCONJ
+venivi	VERB
+colto	VERB
+sul	_
+su	ADP
+il	DET
+fatto	NOUN
+,	PUNCT
+ti	PRON
+aspettavano	VERB
+otto	NUM
+anni	NOUN
+di	ADP
+carcere	NOUN
+.	PUNCT
+
+Sentence ID: 213
+Sentence: Lei sostiene che c'è un aspetto inquietante nella rivolta di Valona e nel crack delle finanziarie.
+POS:
+Lei	PRON
+sostiene	VERB
+che	SCONJ
+c'	PRON
+è	VERB
+un	DET
+aspetto	NOUN
+inquietante	VERB
+nella	_
+in	ADP
+la	DET
+rivolta	NOUN
+di	ADP
+Valona	PROPN
+e	CCONJ
+nel	_
+in	ADP
+il	DET
+crack	NOUN
+delle	_
+di	ADP
+le	DET
+finanziarie	NOUN
+.	PUNCT
+
+Sentence ID: 214
+Sentence: E i soldi delle piramidi dove sono finiti?
+POS:
+E	CCONJ
+i	DET
+soldi	NOUN
+delle	_
+di	ADP
+le	DET
+piramidi	NOUN
+dove	ADV
+sono	AUX
+finiti	VERB
+?	PUNCT
+
+Sentence ID: 215
+Sentence: Giancarlo Pagliarini ha difeso le ragioni economiche della secessione.
+POS:
+Giancarlo	PROPN
+Pagliarini	PROPN
+ha	AUX
+difeso	VERB
+le	DET
+ragioni	NOUN
+economiche	ADJ
+della	_
+di	ADP
+la	DET
+secessione	NOUN
+.	PUNCT
+
+Sentence ID: 216
+Sentence: rispetto a gennaio è attesa una flessione dello 0,4 per cento.
+POS:
+rispetto	ADV
+a	ADP
+gennaio	NOUN
+è	AUX
+attesa	VERB
+una	DET
+flessione	NOUN
+dello	_
+di	ADP
+lo	DET
+0,4	NUM
+per	ADP
+cento	NUM
+.	PUNCT
+
+Sentence ID: 217
+Sentence: L'idea è emersa nella riunione alla Farnesina dei sottosegretari degli Esteri della Trilaterale.
+POS:
+L'	DET
+idea	NOUN
+è	AUX
+emersa	VERB
+nella	_
+in	ADP
+la	DET
+riunione	NOUN
+alla	_
+a	ADP
+la	DET
+Farnesina	PROPN
+dei	_
+di	ADP
+i	DET
+sottosegretari	NOUN
+degli	_
+di	ADP
+gli	DET
+Esteri	NOUN
+della	_
+di	ADP
+la	DET
+Trilaterale	PROPN
+.	PUNCT
+
+Sentence ID: 218
+Sentence: Successivamente verrà il turno di chi ha un capitale investito di un massimo di 10 mila dollari e, infine, tra i 10 e i 20 mila dollari.
+POS:
+Successivamente	ADV
+verrà	VERB
+il	DET
+turno	NOUN
+di	ADP
+chi	PRON
+ha	VERB
+un	DET
+capitale	NOUN
+investito	ADJ
+di	ADP
+un	DET
+massimo	NOUN
+di	ADP
+10	NUM
+mila	NUM
+dollari	NOUN
+e	CCONJ
+,	PUNCT
+infine	ADV
+,	PUNCT
+tra	ADP
+i	DET
+10	NUM
+e	CCONJ
+i	DET
+20	NUM
+mila	NUM
+dollari	NOUN
+.	PUNCT
+
+Sentence ID: 219
+Sentence: Riesplode la questione albanese.
+POS:
+Riesplode	VERB
+la	DET
+questione	NOUN
+albanese	ADJ
+.	PUNCT
+
+Sentence ID: 220
+Sentence: Mentre Tirana si risveglia recriminando con rabbia dal sogno drogato delle 'piramidi finanziarie', in uno dei cento caffè del boulevard principale della capitale albanese Mehemet, nome di battaglia di un rappresentante dell'Esercito di liberazione del Kosovo (Uck), ripete le stesse parole minacciose e le accompagna mostrando il giornale clandestino Clirimi (Liberazione) e i bollettini di rivendicazione di alcune recenti sanguinose azioni terroristiche.
+POS:
+Mentre	SCONJ
+Tirana	PROPN
+si	PRON
+risveglia	VERB
+recriminando	VERB
+con	ADP
+rabbia	NOUN
+dal	_
+da	ADP
+il	DET
+sogno	NOUN
+drogato	VERB
+delle	_
+di	ADP
+le	DET
+'	PUNCT
+piramidi	NOUN
+finanziarie	ADJ
+'	PUNCT
+,	PUNCT
+in	ADP
+uno	PRON
+dei	_
+di	ADP
+i	DET
+cento	NUM
+caffè	NOUN
+del	_
+di	ADP
+il	DET
+boulevard	NOUN
+principale	ADJ
+della	_
+di	ADP
+la	DET
+capitale	NOUN
+albanese	ADJ
+Mehemet	PROPN
+,	PUNCT
+nome	NOUN
+di	ADP
+battaglia	NOUN
+di	ADP
+un	DET
+rappresentante	NOUN
+dell'	_
+di	ADP
+l'	DET
+Esercito	PROPN
+di	ADP
+liberazione	NOUN
+del	_
+di	ADP
+il	DET
+Kosovo	PROPN
+(	PUNCT
+Uck	PROPN
+)	PUNCT
+,	PUNCT
+ripete	VERB
+le	DET
+stesse	ADJ
+parole	NOUN
+minacciose	ADJ
+e	CCONJ
+le	DET
+accompagna	NOUN
+mostrando	VERB
+il	DET
+giornale	NOUN
+clandestino	ADJ
+Clirimi	PROPN
+(	PUNCT
+Liberazione	PROPN
+)	PUNCT
+e	CCONJ
+i	DET
+bollettini	NOUN
+di	ADP
+rivendicazione	NOUN
+di	ADP
+alcune	DET
+recenti	ADJ
+sanguinose	ADJ
+azioni	NOUN
+terroristiche	ADJ
+.	PUNCT
+
+Sentence ID: 221
+Sentence: Gli emigrati versano il 3% dello stipendio in un fondo speciale che va al Governo autoproclamato del Kosovo e anche a noi.
+POS:
+Gli	DET
+emigrati	NOUN
+versano	VERB
+il	DET
+3	NUM
+%	SYM
+dello	_
+di	ADP
+lo	DET
+stipendio	NOUN
+in	ADP
+un	DET
+fondo	NOUN
+speciale	ADJ
+che	PRON
+va	VERB
+al	_
+a	ADP
+il	DET
+Governo	NOUN
+autoproclamato	ADJ
+del	_
+di	ADP
+il	DET
+Kosovo	PROPN
+e	CCONJ
+anche	ADV
+a	ADP
+noi	PRON
+.	PUNCT
+
+Sentence ID: 222
+Sentence: Liri Avdekie, Libertà o Morte, è il motto in albanese dell'esercito kosovaro ma in Serbia i nazionalisti di Milosevic e anche l'opinione pubblica sono concordi.
+POS:
+Liri	PROPN
+Avdekie	PROPN
+,	PUNCT
+Libertà	PROPN
+o	CCONJ
+Morte	PROPN
+,	PUNCT
+è	AUX
+il	DET
+motto	NOUN
+in	ADP
+albanese	NOUN
+dell'	_
+di	ADP
+l'	DET
+esercito	NOUN
+kosovaro	ADJ
+ma	CCONJ
+in	ADP
+Serbia	PROPN
+i	DET
+nazionalisti	NOUN
+di	ADP
+Milosevic	PROPN
+e	CCONJ
+anche	ADV
+l'	DET
+opinione	NOUN
+pubblica	ADJ
+sono	AUX
+concordi	ADJ
+.	PUNCT
+
+Sentence ID: 223
+Sentence: Una decina di morti, 30 feriti, il Sud nell'anarchia isolato dal resto del Paese.
+POS:
+Una	DET
+decina	NOUN
+di	ADP
+morti	NOUN
+,	PUNCT
+30	NUM
+feriti	NOUN
+,	PUNCT
+il	DET
+Sud	PROPN
+nell'	_
+in	ADP
+l'	DET
+anarchia	NOUN
+isolato	VERB
+dal	_
+da	ADP
+il	DET
+resto	NOUN
+del	_
+di	ADP
+il	DET
+Paese	NOUN
+.	PUNCT
+
+Sentence ID: 224
+Sentence: A Scutari c'era la più alta densità di benzinai d'Europa per chilometro quadrato che vendevano alla Federazione di Milosevic carburante quotato 20 marchi al litro sulle strade di Belgrado.
+POS:
+A	ADP
+Scutari	PROPN
+c'	PRON
+era	VERB
+la	DET
+più	ADV
+alta	ADJ
+densità	NOUN
+di	ADP
+benzinai	NOUN
+d'	ADP
+Europa	PROPN
+per	ADP
+chilometro	NOUN
+quadrato	ADJ
+che	PRON
+vendevano	VERB
+alla	_
+a	ADP
+la	DET
+Federazione	PROPN
+di	ADP
+Milosevic	PROPN
+carburante	NOUN
+quotato	VERB
+20	NUM
+marchi	NOUN
+al	_
+a	ADP
+il	DET
+litro	NOUN
+sulle	_
+su	ADP
+le	DET
+strade	NOUN
+di	ADP
+Belgrado	PROPN
+.	PUNCT
+
+Sentence ID: 225
+Sentence: Vi è andata bene, se eravate inglesi o americani sapevamo noi come trattarvi.
+POS:
+Vi	PRON
+è	AUX
+andata	VERB
+bene	ADV
+,	PUNCT
+se	SCONJ
+eravate	AUX
+inglesi	ADJ
+o	CCONJ
+americani	ADJ
+sapevamo	VERB
+noi	PRON
+come	ADP
+trattarvi	_
+trattar	VERB
+vi	PRON
+.	PUNCT
+
+Sentence ID: 226
+Sentence: Valona, Saranda e il Sud sono fuori controllo ma l'operazione militare per riconquistarle è già iniziata, dichiara il ministro degli Esteri Tritan Sheu, che si fa intervistare poco dopo la scontata rielezione alla presidenza di Sali Berisha, confermato per altri cinque anni da un Parlamento freneticamente plaudente e dominato dal Partito democratico, vincitore delle contestate elezioni del maggio scorso.
+POS:
+Valona	PROPN
+,	PUNCT
+Saranda	PROPN
+e	CCONJ
+il	DET
+Sud	PROPN
+sono	AUX
+fuori	ADP
+controllo	NOUN
+ma	CCONJ
+l'	DET
+operazione	NOUN
+militare	ADJ
+per	ADP
+riconquistarle	_
+riconquistar	VERB
+le	PRON
+è	AUX
+già	ADV
+iniziata	VERB
+,	PUNCT
+dichiara	VERB
+il	DET
+ministro	NOUN
+degli	_
+di	ADP
+gli	DET
+Esteri	NOUN
+Tritan	PROPN
+Sheu	PROPN
+,	PUNCT
+che	PRON
+si	PRON
+fa	VERB
+intervistare	VERB
+poco	ADV
+dopo	ADP
+la	DET
+scontata	ADJ
+rielezione	NOUN
+alla	_
+a	ADP
+la	DET
+presidenza	NOUN
+di	ADP
+Sali	PROPN
+Berisha	PROPN
+,	PUNCT
+confermato	VERB
+per	ADP
+altri	ADJ
+cinque	NUM
+anni	NOUN
+da	ADP
+un	DET
+Parlamento	NOUN
+freneticamente	ADV
+plaudente	ADJ
+e	CCONJ
+dominato	VERB
+dal	_
+da	ADP
+il	DET
+Partito	NOUN
+democratico	ADJ
+,	PUNCT
+vincitore	NOUN
+delle	_
+di	ADP
+le	DET
+contestate	ADJ
+elezioni	NOUN
+del	_
+di	ADP
+il	DET
+maggio	NOUN
+scorso	ADJ
+.	PUNCT
+
+Sentence ID: 227
+Sentence: Dopo i calci e i pugni di domenica davanti al Parlamento, la sede del Club della stampa è stata devastata e incendiata.
+POS:
+Dopo	ADP
+i	DET
+calci	NOUN
+e	CCONJ
+i	DET
+pugni	NOUN
+di	ADP
+domenica	NOUN
+davanti	ADV
+al	_
+a	ADP
+il	DET
+Parlamento	PROPN
+,	PUNCT
+la	DET
+sede	NOUN
+del	_
+di	ADP
+il	DET
+Club	NOUN
+della	_
+di	ADP
+la	DET
+stampa	NOUN
+è	AUX
+stata	AUX
+devastata	VERB
+e	CCONJ
+incendiata	VERB
+.	PUNCT
+
+Sentence ID: 228
+Sentence: difficoltà a trovare partner locali affidabili;
+POS:
+difficoltà	NOUN
+a	ADP
+trovare	VERB
+partner	NOUN
+locali	ADJ
+affidabili	ADJ
+;	PUNCT
+
+Sentence ID: 229
+Sentence: L'intera operazione, in pieno accordo con le autorità albanesi, è durata un paio di ore.
+POS:
+L'	DET
+intera	ADJ
+operazione	NOUN
+,	PUNCT
+in	ADP
+pieno	ADJ
+accordo	NOUN
+con	ADP
+le	DET
+autorità	NOUN
+albanesi	ADJ
+,	PUNCT
+è	AUX
+durata	VERB
+un	DET
+paio	NOUN
+di	ADP
+ore	NOUN
+.	PUNCT
+
+Sentence ID: 230
+Sentence: E di fronte al deteriorarsi della situazione in Albania, si apprende che la Farnesina è tornata ieri a ribadire al neo eletto presidente Sali Berisha l'importanza della costituzione, in tempi brevi, di un Governo ampiamente rappresentativo delle forze politiche albanesi.
+POS:
+E	CCONJ
+di	ADP
+fronte	NOUN
+al	_
+a	ADP
+il	DET
+deteriorarsi	_
+deteriorar	VERB
+si	PRON
+della	_
+di	ADP
+la	DET
+situazione	NOUN
+in	ADP
+Albania	PROPN
+,	PUNCT
+si	PRON
+apprende	VERB
+che	SCONJ
+la	DET
+Farnesina	PROPN
+è	AUX
+tornata	VERB
+ieri	ADV
+a	ADP
+ribadire	VERB
+al	_
+a	ADP
+il	DET
+neo	ADJ
+eletto	NOUN
+presidente	NOUN
+Sali	PROPN
+Berisha	PROPN
+l'	DET
+importanza	NOUN
+della	_
+di	ADP
+la	DET
+costituzione	NOUN
+,	PUNCT
+in	ADP
+tempi	NOUN
+brevi	ADJ
+,	PUNCT
+di	ADP
+un	DET
+Governo	NOUN
+ampiamente	ADV
+rappresentativo	ADJ
+delle	_
+di	ADP
+le	DET
+forze	NOUN
+politiche	ADJ
+albanesi	ADJ
+.	PUNCT
+
+Sentence ID: 231
+Sentence: Un altro messaggio è stato inviato al presidente del Consiglio dell'Unione, Hans Van Mierlo, per sollecitare la convocazione straordinaria del Comitato politico, che avrebbe luogo domani a Bruxelles.
+POS:
+Un	DET
+altro	ADJ
+messaggio	NOUN
+è	AUX
+stato	AUX
+inviato	VERB
+al	_
+a	ADP
+il	DET
+presidente	NOUN
+del	_
+di	ADP
+il	DET
+Consiglio	PROPN
+dell'	_
+di	ADP
+l'	DET
+Unione	PROPN
+,	PUNCT
+Hans	PROPN
+Van	PROPN
+Mierlo	_
+Mier	PROPN
+lo	PRON
+,	PUNCT
+per	ADP
+sollecitare	VERB
+la	DET
+convocazione	NOUN
+straordinaria	ADJ
+del	_
+di	ADP
+il	DET
+Comitato	NOUN
+politico	ADJ
+,	PUNCT
+che	PRON
+avrebbe	VERB
+luogo	NOUN
+domani	ADV
+a	ADP
+Bruxelles	PROPN
+.	PUNCT
+
+Sentence ID: 232
+Sentence: 'La causa degli albanesi è la mia'.
+POS:
+'	PUNCT
+La	DET
+causa	NOUN
+degli	_
+di	ADP
+gli	DET
+albanesi	NOUN
+è	AUX
+la	DET
+mia'	NUM
+.	PUNCT
+
+Sentence ID: 233
+Sentence: Tempi duri a Tirana per i partiti che dal maggio scorso contestano la larghissima vittoria elettorale del Centro-destra disertando il Parlamento.
+POS:
+Tempi	NOUN
+duri	ADJ
+a	ADP
+Tirana	PROPN
+per	ADP
+i	DET
+partiti	NOUN
+che	PRON
+dal	_
+da	ADP
+il	DET
+maggio	NOUN
+scorso	ADJ
+contestano	VERB
+la	DET
+larghissima	ADJ
+vittoria	NOUN
+elettorale	ADJ
+del	_
+di	ADP
+il	DET
+Centro	PROPN
+-	PUNCT
+destra	NOUN
+disertando	VERB
+il	DET
+Parlamento	PROPN
+.	PUNCT
+
+Sentence ID: 234
+Sentence: una manifestazione di circa 200 persone, inscenata davanti al vecchio stadio dove domenica scorsa erano cominciati i disordini più violenti, ieri è stata facilmente dispersa dalla polizia, senza ricorrere a metodi pesanti.
+POS:
+una	DET
+manifestazione	NOUN
+di	ADP
+circa	ADV
+200	NUM
+persone	NOUN
+,	PUNCT
+inscenata	VERB
+davanti	ADV
+al	_
+a	ADP
+il	DET
+vecchio	ADJ
+stadio	NOUN
+dove	ADV
+domenica	NOUN
+scorsa	ADJ
+erano	AUX
+cominciati	VERB
+i	DET
+disordini	NOUN
+più	ADV
+violenti	ADJ
+,	PUNCT
+ieri	ADV
+è	AUX
+stata	AUX
+facilmente	ADV
+dispersa	VERB
+dalla	_
+da	ADP
+la	DET
+polizia	NOUN
+,	PUNCT
+senza	ADP
+ricorrere	VERB
+a	ADP
+metodi	NOUN
+pesanti	ADJ
+.	PUNCT
+
+Sentence ID: 235
+Sentence: Alla vox populi Berisha risponde adesso evocando lo spettro della Segurimi, la polizia segreta del defunto regime comunista che al tempo dello stalinismo ferreo di Enver Hoxha aveva al servizio 5.000 delatori su tre milioni di albanesi.
+POS:
+Alla	_
+A	ADP
+la	DET
+vox	ADJ
+populi	NOUN
+Berisha	PROPN
+risponde	VERB
+adesso	ADV
+evocando	VERB
+lo	DET
+spettro	NOUN
+della	_
+di	ADP
+la	DET
+Segurimi	PROPN
+,	PUNCT
+la	DET
+polizia	NOUN
+segreta	ADJ
+del	_
+di	ADP
+il	DET
+defunto	ADJ
+regime	NOUN
+comunista	ADJ
+che	PRON
+al	_
+a	ADP
+il	DET
+tempo	NOUN
+dello	_
+di	ADP
+lo	DET
+stalinismo	NOUN
+ferreo	ADJ
+di	ADP
+Enver	PROPN
+Hoxha	PROPN
+aveva	VERB
+al	_
+a	ADP
+il	DET
+servizio	NOUN
+5.000	NUM
+delatori	NOUN
+su	ADP
+tre	NUM
+milioni	NOUN
+di	ADP
+albanesi	NOUN
+.	PUNCT
+
+Sentence ID: 236
+Sentence: Un crack finanziario scatena l'opposizione.
+POS:
+Un	DET
+crack	NOUN
+finanziario	ADJ
+scatena	VERB
+l'	DET
+opposizione	NOUN
+.	PUNCT
+
+Sentence ID: 237
+Sentence: In 500 mila, un albanese su sette, hanno scommesso su questa pesca miracolosa con la promessa di rendimenti mensili sul capitale versato dal 30% al 50%, in un Paese in cui l'inflazione ufficiale è del 20% l'anno e il reddito medio pro capite non supera i 700 dollari.
+POS:
+In	ADP
+500	NUM
+mila	NUM
+,	PUNCT
+un	DET
+albanese	NOUN
+su	ADP
+sette	NUM
+,	PUNCT
+hanno	AUX
+scommesso	VERB
+su	ADP
+questa	DET
+pesca	NOUN
+miracolosa	ADJ
+con	ADP
+la	DET
+promessa	NOUN
+di	ADP
+rendimenti	NOUN
+mensili	ADJ
+sul	_
+su	ADP
+il	DET
+capitale	NOUN
+versato	VERB
+dal	_
+da	ADP
+il	DET
+30	NUM
+%	SYM
+al	_
+a	ADP
+il	DET
+50	NUM
+%	SYM
+,	PUNCT
+in	ADP
+un	DET
+Paese	NOUN
+in	ADP
+cui	PRON
+l'	DET
+inflazione	NOUN
+ufficiale	ADJ
+è	AUX
+del	_
+di	ADP
+il	DET
+20	NUM
+%	SYM
+l'	DET
+anno	NOUN
+e	CCONJ
+il	DET
+reddito	NOUN
+medio	ADJ
+pro	X
+capite	X
+non	ADV
+supera	VERB
+i	DET
+700	NUM
+dollari	NOUN
+.	PUNCT
+
+Sentence ID: 238
+Sentence: Le indagini, condotte dal Comando carabinieri politiche agricole di Roma e dai Comandi provinciali della Guardia di finanza di Catanzaro e Reggio Calabria sono state coordinate dalla Procura della Repubblica di Palmi.
+POS:
+Le	DET
+indagini	NOUN
+,	PUNCT
+condotte	VERB
+dal	_
+da	ADP
+il	DET
+Comando	NOUN
+carabinieri	NOUN
+politiche	NOUN
+agricole	ADJ
+di	ADP
+Roma	PROPN
+e	CCONJ
+dai	_
+da	ADP
+i	DET
+Comandi	NOUN
+provinciali	ADJ
+della	_
+di	ADP
+la	DET
+Guardia	NOUN
+di	ADP
+finanza	NOUN
+di	ADP
+Catanzaro	PROPN
+e	CCONJ
+Reggio	PROPN
+Calabria	PROPN
+sono	AUX
+state	AUX
+coordinate	VERB
+dalla	_
+da	ADP
+la	DET
+Procura	PROPN
+della	_
+di	ADP
+la	DET
+Repubblica	PROPN
+di	ADP
+Palmi	PROPN
+.	PUNCT
+
+Sentence ID: 239
+Sentence: Ci ha messo freddezza nel realizzare il rigore del 2-1, tirandolo sulla sinistra del portiere Manninger, poi sulla destra, nella ripetizione imposta perché troppa gente era entrata in area.
+POS:
+Ci	PRON
+ha	AUX
+messo	VERB
+freddezza	NOUN
+nel	_
+in	ADP
+il	DET
+realizzare	VERB
+il	DET
+rigore	NOUN
+del	_
+di	ADP
+il	DET
+2-1	NUM
+,	PUNCT
+tirandolo	_
+tirando	VERB
+lo	PRON
+sulla	_
+su	ADP
+la	DET
+sinistra	NOUN
+del	_
+di	ADP
+il	DET
+portiere	NOUN
+Manninger	PROPN
+,	PUNCT
+poi	ADV
+sulla	_
+su	ADP
+la	DET
+destra	NOUN
+,	PUNCT
+nella	_
+in	ADP
+la	DET
+ripetizione	NOUN
+imposta	VERB
+perché	SCONJ
+troppa	DET
+gente	NOUN
+era	AUX
+entrata	VERB
+in	ADP
+area	NOUN
+.	PUNCT
+
+Sentence ID: 240
+Sentence: Ciascuno ne tragga il significato che crede sullo stato del pallone.
+POS:
+Ciascuno	PRON
+ne	PRON
+tragga	VERB
+il	DET
+significato	NOUN
+che	PRON
+crede	VERB
+sullo	_
+su	ADP
+lo	DET
+stato	NOUN
+del	_
+di	ADP
+il	DET
+pallone	NOUN
+.	PUNCT
+
+Sentence ID: 241
+Sentence: Sarebbe stata probabilmente un'altra storia se Negro avesse raddoppiato in avvio di ripresa con un colpo di tacco nell'angolo basso, dove Julio Cesar arrivava miracolosamente col piede come un portiere da calcetto.
+POS:
+Sarebbe	AUX
+stata	AUX
+probabilmente	ADV
+un'	DET
+altra	ADJ
+storia	NOUN
+se	SCONJ
+Negro	PROPN
+avesse	AUX
+raddoppiato	VERB
+in	ADP
+avvio	NOUN
+di	ADP
+ripresa	NOUN
+con	ADP
+un	DET
+colpo	NOUN
+di	ADP
+tacco	NOUN
+nell'	_
+in	ADP
+l'	DET
+angolo	NOUN
+basso	ADJ
+,	PUNCT
+dove	ADV
+Julio	PROPN
+Cesar	PROPN
+arrivava	VERB
+miracolosamente	ADV
+col	_
+con	ADP
+il	DET
+piede	NOUN
+come	ADP
+un	DET
+portiere	NOUN
+da	ADP
+calcetto	NOUN
+.	PUNCT
+
+Sentence ID: 242
+Sentence: Nell'1 si troveranno lo stand del paese ospite, la Lituania, e, oltre alla Sala rossa, un'altra novità creata in occasione delle venti candeline:
+POS:
+Nell'1	PROPN
+si	PRON
+troveranno	VERB
+lo	DET
+stand	NOUN
+del	_
+di	ADP
+il	DET
+paese	NOUN
+ospite	NOUN
+,	PUNCT
+la	DET
+Lituania	PROPN
+,	PUNCT
+e	CCONJ
+,	PUNCT
+oltre	ADV
+alla	_
+a	ADP
+la	DET
+Sala	NOUN
+rossa	ADJ
+,	PUNCT
+un'	DET
+altra	ADJ
+novità	NOUN
+creata	VERB
+in	ADP
+occasione	NOUN
+delle	_
+di	ADP
+le	DET
+venti	NUM
+candeline	NOUN
+:	PUNCT
+
+Sentence ID: 243
+Sentence: Intanto il caso della pantera è diventato un'emergenza.
+POS:
+Intanto	ADV
+il	DET
+caso	NOUN
+della	_
+di	ADP
+la	DET
+pantera	NOUN
+è	AUX
+diventato	VERB
+un'	DET
+emergenza	NOUN
+.	PUNCT
+
+Sentence ID: 244
+Sentence: Il sindaco si è fatto promotore di una mini campagna-stampa sulla pantera, dalla Rai regionale a Telestudio ai giornali.
+POS:
+Il	DET
+sindaco	NOUN
+si	PRON
+è	AUX
+fatto	VERB
+promotore	NOUN
+di	ADP
+una	DET
+mini	ADJ
+campagna	NOUN
+-	PUNCT
+stampa	NOUN
+sulla	_
+su	ADP
+la	DET
+pantera	NOUN
+,	PUNCT
+dalla	_
+da	ADP
+la	DET
+Rai	PROPN
+regionale	ADJ
+a	ADP
+Telestudio	PROPN
+ai	_
+a	ADP
+i	DET
+giornali	NOUN
+.	PUNCT
+
+Sentence ID: 245
+Sentence: Bonino e Pannella in campo per la sfida delle Regionali.
+POS:
+Bonino	PROPN
+e	CCONJ
+Pannella	PROPN
+in	ADP
+campo	NOUN
+per	ADP
+la	DET
+sfida	NOUN
+delle	_
+di	ADP
+le	DET
+Regionali	PROPN
+.	PUNCT
+
+Sentence ID: 246
+Sentence: Ma la novità di ieri sono i radicali, che dopo la rabbia per il taglio della Consulta ai loro referendum sociali, rilanciano con 15 candidature «pesanti», nell'intento di rilanciare anche la battaglia referendaria.
+POS:
+Ma	CCONJ
+la	DET
+novità	NOUN
+di	ADP
+ieri	ADV
+sono	AUX
+i	DET
+radicali	ADJ
+,	PUNCT
+che	PRON
+dopo	ADP
+la	DET
+rabbia	NOUN
+per	ADP
+il	DET
+taglio	NOUN
+della	_
+di	ADP
+la	DET
+Consulta	NOUN
+ai	_
+a	ADP
+i	DET
+loro	DET
+referendum	NOUN
+sociali	ADJ
+,	PUNCT
+rilanciano	VERB
+con	ADP
+15	NUM
+candidature	NOUN
+«	PUNCT
+pesanti	ADJ
+»	PUNCT
+,	PUNCT
+nell'	_
+in	ADP
+l'	DET
+intento	NOUN
+di	ADP
+rilanciare	VERB
+anche	ADV
+la	DET
+battaglia	NOUN
+referendaria	ADJ
+.	PUNCT
+
+Sentence ID: 247
+Sentence: «Non ho preclusioni ideologiche», spiega.
+POS:
+«	PUNCT
+Non	ADV
+ho	VERB
+preclusioni	NOUN
+ideologiche	ADJ
+»	PUNCT
+,	PUNCT
+spiega	VERB
+.	PUNCT
+
+Sentence ID: 248
+Sentence: E chi lo conosce da una vita non si rassegna all'assenza e si aspetta sempre di vederlo così come gli era apparso la prima volta a Bahia, luminoso in una camicia fiorita, circondato dalla sua piccola corte di pittori popolari, di baiane biancoridenti, di cantori di samba e di ieratici negri, padri e madri "de santo" nei terreiros del candomblè.
+POS:
+E	CCONJ
+chi	PRON
+lo	PRON
+conosce	VERB
+da	ADP
+una	DET
+vita	NOUN
+non	ADV
+si	PRON
+rassegna	VERB
+all'	_
+a	ADP
+l'	DET
+assenza	NOUN
+e	CCONJ
+si	PRON
+aspetta	VERB
+sempre	ADV
+di	ADP
+vederlo	_
+veder	VERB
+lo	PRON
+così	ADV
+come	SCONJ
+gli	PRON
+era	AUX
+apparso	VERB
+la	DET
+prima	ADJ
+volta	NOUN
+a	ADP
+Bahia	PROPN
+,	PUNCT
+luminoso	ADJ
+in	ADP
+una	DET
+camicia	NOUN
+fiorita	ADJ
+,	PUNCT
+circondato	VERB
+dalla	_
+da	ADP
+la	DET
+sua	DET
+piccola	ADJ
+corte	NOUN
+di	ADP
+pittori	NOUN
+popolari	ADJ
+,	PUNCT
+di	ADP
+baiane	NOUN
+biancoridenti	ADJ
+,	PUNCT
+di	ADP
+cantori	NOUN
+di	ADP
+samba	NOUN
+e	CCONJ
+di	ADP
+ieratici	ADJ
+negri	NOUN
+,	PUNCT
+padri	NOUN
+e	CCONJ
+madri	NOUN
+"	PUNCT
+de	DET
+santo	NOUN
+"	PUNCT
+nei	_
+in	ADP
+i	DET
+terreiros	NOUN
+del	_
+di	ADP
+il	DET
+candomblè	NOUN
+.	PUNCT
+
+Sentence ID: 249
+Sentence: Durante i lavori si parlerà di riforme economiche, di modifiche per la struttura del partito e del congresso straordinario che il prossimo gennaio dovrà definire i mutamenti da apportare alla Costituzione in vista dell'introduzione di un sistema che rifletta le democrazie occidentali.
+POS:
+Durante	ADP
+i	DET
+lavori	NOUN
+si	PRON
+parlerà	VERB
+di	ADP
+riforme	NOUN
+economiche	ADJ
+,	PUNCT
+di	ADP
+modifiche	NOUN
+per	ADP
+la	DET
+struttura	NOUN
+del	_
+di	ADP
+il	DET
+partito	NOUN
+e	CCONJ
+del	_
+di	ADP
+il	DET
+congresso	NOUN
+straordinario	ADJ
+che	PRON
+il	DET
+prossimo	ADJ
+gennaio	NOUN
+dovrà	AUX
+definire	VERB
+i	DET
+mutamenti	NOUN
+da	ADP
+apportare	VERB
+alla	_
+a	ADP
+la	DET
+Costituzione	PROPN
+in	ADP
+vista	NOUN
+dell'	_
+di	ADP
+l'	DET
+introduzione	NOUN
+di	ADP
+un	DET
+sistema	NOUN
+che	PRON
+rifletta	VERB
+le	DET
+democrazie	NOUN
+occidentali	ADJ
+.	PUNCT
+
+Sentence ID: 250
+Sentence: Oggi a Torino Jackson il puro del rock Ci sono concerti che ti lasciano indifferente, altri che non vedi l'ora che finiscano, altri che quando finiscono si va via senza rimpianti.
+POS:
+Oggi	ADV
+a	ADP
+Torino	PROPN
+Jackson	PROPN
+il	DET
+puro	NOUN
+del	_
+di	ADP
+il	DET
+rock	NOUN
+Ci	PRON
+sono	AUX
+concerti	VERB
+che	SCONJ
+ti	PRON
+lasciano	VERB
+indifferente	ADJ
+,	PUNCT
+altri	PRON
+che	PRON
+non	ADV
+vedi	VERB
+l'	DET
+ora	NOUN
+che	PRON
+finiscano	VERB
+,	PUNCT
+altri	PRON
+che	SCONJ
+quando	SCONJ
+finiscono	VERB
+si	PRON
+va	VERB
+via	ADV
+senza	ADP
+rimpianti	NOUN
+.	PUNCT
+
+Sentence ID: 251
+Sentence: parla del suo nuovo film "Ultima fermata Brooklyn", tratto dal romanzo scandalo di Hubert Selby, come di una creatura vivente, il frutto di un parto lungo e travagliato che oggi ha finalmente visto la luce.
+POS:
+parla	VERB
+del	_
+di	ADP
+il	DET
+suo	DET
+nuovo	ADJ
+film	NOUN
+"	PUNCT
+Ultima	ADJ
+fermata	VERB
+Brooklyn	PROPN
+"	PUNCT
+,	PUNCT
+tratto	VERB
+dal	_
+da	ADP
+il	DET
+romanzo	ADJ
+scandalo	NOUN
+di	ADP
+Hubert	PROPN
+Selby	PROPN
+,	PUNCT
+come	ADP
+di	ADP
+una	DET
+creatura	NOUN
+vivente	ADJ
+,	PUNCT
+il	DET
+frutto	NOUN
+di	ADP
+un	DET
+parto	NOUN
+lungo	ADJ
+e	CCONJ
+travagliato	VERB
+che	SCONJ
+oggi	ADV
+ha	AUX
+finalmente	ADV
+visto	VERB
+la	DET
+luce	NOUN
+.	PUNCT
+
+Sentence ID: 252
+Sentence: E visto che come caratteristiche Bianchi è uomo di fascia ben più di Sordo, cioè nel suo naturale atteggiamento tattico in campo rassomiglia maggiormente a Policano, ecco che la sua candidatura prende quota.
+POS:
+E	CCONJ
+visto	VERB
+che	SCONJ
+come	ADP
+caratteristiche	NOUN
+Bianchi	PROPN
+è	AUX
+uomo	NOUN
+di	ADP
+fascia	NOUN
+ben	ADV
+più	ADV
+di	ADP
+Sordo	PROPN
+,	PUNCT
+cioè	CCONJ
+nel	_
+in	ADP
+il	DET
+suo	DET
+naturale	ADJ
+atteggiamento	NOUN
+tattico	ADJ
+in	ADP
+campo	NOUN
+rassomiglia	VERB
+maggiormente	ADV
+a	ADP
+Policano	PROPN
+,	PUNCT
+ecco	ADV
+che	SCONJ
+la	DET
+sua	DET
+candidatura	NOUN
+prende	VERB
+quota	NOUN
+.	PUNCT
+
+Sentence ID: 253
+Sentence: Vede che strani corsi e ricorsi?
+POS:
+Vede	VERB
+che	SCONJ
+strani	ADJ
+corsi	NOUN
+e	CCONJ
+ricorsi	NOUN
+?	PUNCT
+
+Sentence ID: 254
+Sentence: Record di presenze al Lingotto per la mostra sull'arte russa e sovietica.
+POS:
+Record	NOUN
+di	ADP
+presenze	NOUN
+al	_
+a	ADP
+il	DET
+Lingotto	PROPN
+per	ADP
+la	DET
+mostra	NOUN
+sull'	_
+su	ADP
+l'	DET
+arte	NOUN
+russa	ADJ
+e	CCONJ
+sovietica	ADJ
+.	PUNCT
+
+Sentence ID: 255
+Sentence: All'interno della maggioranza rossoverde c'è una faglia che non si chiama di Sant'Andrea, come quella di Los Angeles, ma Sieroterapico.
+POS:
+All'	_
+A	ADP
+l'	DET
+interno	NOUN
+della	_
+di	ADP
+la	DET
+maggioranza	NOUN
+rossoverde	ADJ
+c'	PRON
+è	VERB
+una	DET
+faglia	NOUN
+che	PRON
+non	ADV
+si	PRON
+chiama	VERB
+di	ADP
+Sant'	PROPN
+Andrea	PROPN
+,	PUNCT
+come	ADP
+quella	PRON
+di	ADP
+Los	PROPN
+Angeles	PROPN
+,	PUNCT
+ma	CCONJ
+Sieroterapico	PROPN
+.	PUNCT
+
+Sentence ID: 256
+Sentence: Fuoristrada con lo smoking di rigore.
+POS:
+Fuoristrada	NOUN
+con	ADP
+lo	DET
+smoking	NOUN
+di	ADP
+rigore	NOUN
+.	PUNCT
+
+Sentence ID: 257
+Sentence: Dopo due settimane di programmazione, però, ha dovuto vedersela con «Lethal Weapon II», sempre della Warner Bros, che aveva totalizzato in 14 giorni 100 miliardi.
+POS:
+Dopo	ADP
+due	NUM
+settimane	NOUN
+di	ADP
+programmazione	NOUN
+,	PUNCT
+però	ADV
+,	PUNCT
+ha	AUX
+dovuto	AUX
+vedersela	_
+veder	VERB
+se	SCONJ
+la	DET
+con	NOUN
+«	PUNCT
+Lethal	PROPN
+Weapon	PROPN
+II	ADJ
+»	PUNCT
+,	PUNCT
+sempre	ADV
+della	_
+di	ADP
+la	DET
+Warner	PROPN
+Bros	PROPN
+,	PUNCT
+che	PRON
+aveva	AUX
+totalizzato	VERB
+in	ADP
+14	NUM
+giorni	NOUN
+100	NUM
+miliardi	NOUN
+.	PUNCT
+
+Sentence ID: 258
+Sentence: Prima di farci vedere gli scaffali di libri preziosi della biblioteca e l'onesta chiara faccia dell'onorevole Tina Anselmi, ci mostra una catasta di legna su un terrazzo romano.
+POS:
+Prima	ADV
+di	ADP
+farci	_
+far	VERB
+ci	PRON
+vedere	VERB
+gli	DET
+scaffali	NOUN
+di	ADP
+libri	NOUN
+preziosi	ADJ
+della	_
+di	ADP
+la	DET
+biblioteca	NOUN
+e	CCONJ
+l'	DET
+onesta	NOUN
+chiara	ADJ
+faccia	NOUN
+dell'	_
+di	ADP
+l'	DET
+onorevole	NOUN
+Tina	PROPN
+Anselmi	PROPN
+,	PUNCT
+ci	PRON
+mostra	VERB
+una	DET
+catasta	NOUN
+di	ADP
+legna	NOUN
+su	ADP
+un	DET
+terrazzo	NOUN
+romano	ADJ
+.	PUNCT
+
+Sentence ID: 259
+Sentence: sicchè un bel giorno si udì la notizia che nella notte erano arrivati i compagni d'arme e ognuno poteva andare a vederli nello stallatico.
+POS:
+sicchè	VERB
+un	DET
+bel	ADJ
+giorno	NOUN
+si	PRON
+udì	VERB
+la	DET
+notizia	NOUN
+che	PRON
+nella	_
+in	ADP
+la	DET
+notte	NOUN
+erano	AUX
+arrivati	VERB
+i	DET
+compagni	NOUN
+d'	ADP
+arme	NOUN
+e	CCONJ
+ognuno	PRON
+poteva	AUX
+andare	VERB
+a	ADP
+vederli	_
+veder	VERB
+li	PRON
+nello	_
+in	ADP
+lo	DET
+stallatico	NOUN
+.	PUNCT
+
+Sentence ID: 260
+Sentence: Il 19 novembre i berlinesi saranno chiamati a manifestare per la libertà di stampa.
+POS:
+Il	DET
+19	NUM
+novembre	NOUN
+i	DET
+berlinesi	NOUN
+saranno	AUX
+chiamati	VERB
+a	ADP
+manifestare	VERB
+per	ADP
+la	DET
+libertà	NOUN
+di	ADP
+stampa	NOUN
+.	PUNCT
+
+Sentence ID: 261
+Sentence: E qui Baudo, chiamato a Raitre dal direttore Angelo Guglielmi non solo per fare ascolto ma anche per convincere i più riottosi tra i teleutenti a comprare l'antenna supplementare indispensabile in alcune zone per ricevere il segnale della rete e lasciarle quindi in eredità un cospicuo patrimonio aggiuntivo di spettatori tecnologicamente attrezzati, spiega la sua teoria.
+POS:
+E	CCONJ
+qui	ADV
+Baudo	ADJ
+,	PUNCT
+chiamato	VERB
+a	ADP
+Raitre	PROPN
+dal	_
+da	ADP
+il	DET
+direttore	NOUN
+Angelo	PROPN
+Guglielmi	PROPN
+non	ADV
+solo	ADV
+per	ADP
+fare	VERB
+ascolto	NOUN
+ma	CCONJ
+anche	ADV
+per	ADP
+convincere	VERB
+i	DET
+più	ADV
+riottosi	ADJ
+tra	ADP
+i	DET
+teleutenti	NOUN
+a	ADP
+comprare	VERB
+l'	DET
+antenna	NOUN
+supplementare	ADJ
+indispensabile	ADJ
+in	ADP
+alcune	DET
+zone	NOUN
+per	ADP
+ricevere	VERB
+il	DET
+segnale	NOUN
+della	_
+di	ADP
+la	DET
+rete	NOUN
+e	CCONJ
+lasciarle	_
+lasciar	VERB
+le	PRON
+quindi	ADV
+in	ADP
+eredità	NOUN
+un	DET
+cospicuo	ADJ
+patrimonio	NOUN
+aggiuntivo	ADJ
+di	ADP
+spettatori	NOUN
+tecnologicamente	ADV
+attrezzati	VERB
+,	PUNCT
+spiega	VERB
+la	DET
+sua	DET
+teoria	NOUN
+.	PUNCT
+
+Sentence ID: 262
+Sentence: Il 7 settembre 1439 è citato come allievo di Domenico Veneziano nella commissione degli affreschi, oggi perduti, per le Storie della Vergine nel coro della chiesa di Sant'Egidio.
+POS:
+Il	DET
+7	NUM
+settembre	NOUN
+1439	NUM
+è	AUX
+citato	VERB
+come	ADP
+allievo	NOUN
+di	ADP
+Domenico	PROPN
+Veneziano	PROPN
+nella	_
+in	ADP
+la	DET
+commissione	NOUN
+degli	_
+di	ADP
+gli	DET
+affreschi	NOUN
+,	PUNCT
+oggi	ADV
+perduti	VERB
+,	PUNCT
+per	ADP
+le	DET
+Storie	PROPN
+della	_
+di	ADP
+la	DET
+Vergine	PROPN
+nel	_
+in	ADP
+il	DET
+coro	NOUN
+della	_
+di	ADP
+la	DET
+chiesa	NOUN
+di	ADP
+Sant'	PROPN
+Egidio	PROPN
+.	PUNCT
+
+Sentence ID: 263
+Sentence: i sei santi laterali e le sette tavolette che costituiscono la predella sono invece opera dello sconosciuto allievo.
+POS:
+i	DET
+sei	NUM
+santi	NOUN
+laterali	ADJ
+e	CCONJ
+le	DET
+sette	NUM
+tavolette	NOUN
+che	PRON
+costituiscono	VERB
+la	DET
+predella	NOUN
+sono	AUX
+invece	ADV
+opera	NOUN
+dello	_
+di	ADP
+lo	DET
+sconosciuto	ADJ
+allievo	NOUN
+.	PUNCT
+
+Sentence ID: 264
+Sentence: Nel 1467 a Perugia eseguì per conto delle suore terziarie del convento di Sant'Antonio un polittico, dove all'impostazione tardogotica voluta dalla committenza, si contrappone nella cimasa, un'annunciazione di chiaro stampo rinascimentale, che evidenzia il sapiente uso dell'arte prospettica nelle strutture architettoniche, palesando una conoscenza delle opere e dei postulati architettonici formulati qualche anno addietro da Filippo Brunelleschi e Leon Battista Alberti.
+POS:
+Nel	_
+In	ADP
+il	DET
+1467	NUM
+a	ADP
+Perugia	PROPN
+eseguì	CCONJ
+per	ADP
+conto	NOUN
+delle	_
+di	ADP
+le	DET
+suore	NOUN
+terziarie	ADJ
+del	_
+di	ADP
+il	DET
+convento	NOUN
+di	ADP
+Sant'	PROPN
+Antonio	PROPN
+un	DET
+polittico	NOUN
+,	PUNCT
+dove	ADV
+all'	_
+a	ADP
+l'	DET
+impostazione	NOUN
+tardogotica	ADJ
+voluta	VERB
+dalla	_
+da	ADP
+la	DET
+committenza	NOUN
+,	PUNCT
+si	PRON
+contrappone	VERB
+nella	_
+in	ADP
+la	DET
+cimasa	NOUN
+,	PUNCT
+un'	DET
+annunciazione	NOUN
+di	ADP
+chiaro	ADJ
+stampo	NOUN
+rinascimentale	ADJ
+,	PUNCT
+che	PRON
+evidenzia	VERB
+il	DET
+sapiente	ADJ
+uso	NOUN
+dell'	_
+di	ADP
+l'	DET
+arte	NOUN
+prospettica	ADJ
+nelle	_
+in	ADP
+le	DET
+strutture	NOUN
+architettoniche	ADJ
+,	PUNCT
+palesando	VERB
+una	DET
+conoscenza	NOUN
+delle	_
+di	ADP
+le	DET
+opere	NOUN
+e	CCONJ
+dei	_
+di	ADP
+i	DET
+postulati	NOUN
+architettonici	ADJ
+formulati	VERB
+qualche	DET
+anno	NOUN
+addietro	ADV
+da	ADP
+Filippo	PROPN
+Brunelleschi	PROPN
+e	CCONJ
+Leon	PROPN
+Battista	PROPN
+Alberti	PROPN
+.	PUNCT
+
+Sentence ID: 265
+Sentence: Si è ispirato alla lezione euclidea per l'ordine logico delle espressioni e per i riferimenti e per l'uso coordinato e complesso dei teoremi, mentre è stato vicino alle esigenze dei tecnici per la determinatezza delle figure trattate, solide e poliedriche, e per l'assenza di dimostrazioni classiche e per l'uso di regole aritmetiche e algebriche applicate ai calcoli.
+POS:
+Si	PRON
+è	AUX
+ispirato	VERB
+alla	_
+a	ADP
+la	DET
+lezione	NOUN
+euclidea	ADJ
+per	ADP
+l'	DET
+ordine	NOUN
+logico	ADJ
+delle	_
+di	ADP
+le	DET
+espressioni	NOUN
+e	CCONJ
+per	ADP
+i	DET
+riferimenti	NOUN
+e	CCONJ
+per	ADP
+l'	DET
+uso	NOUN
+coordinato	ADJ
+e	CCONJ
+complesso	ADJ
+dei	_
+di	ADP
+i	DET
+teoremi	NOUN
+,	PUNCT
+mentre	SCONJ
+è	AUX
+stato	AUX
+vicino	ADV
+alle	_
+a	ADP
+le	DET
+esigenze	NOUN
+dei	_
+di	ADP
+i	DET
+tecnici	NOUN
+per	ADP
+la	DET
+determinatezza	NOUN
+delle	_
+di	ADP
+le	DET
+figure	NOUN
+trattate	ADJ
+,	PUNCT
+solide	ADJ
+e	CCONJ
+poliedriche	ADJ
+,	PUNCT
+e	CCONJ
+per	ADP
+l'	DET
+assenza	NOUN
+di	ADP
+dimostrazioni	NOUN
+classiche	ADJ
+e	CCONJ
+per	ADP
+l'	DET
+uso	NOUN
+di	ADP
+regole	NOUN
+aritmetiche	ADJ
+e	CCONJ
+algebriche	ADJ
+applicate	VERB
+ai	_
+a	ADP
+i	DET
+calcoli	NOUN
+.	PUNCT
+
+Sentence ID: 266
+Sentence: Nel 1999 la band non volendo più essere etichettata come una semplice "melodic death metal band" intraprende la via della sperimentazione.
+POS:
+Nel	_
+In	ADP
+il	DET
+1999	NUM
+la	DET
+band	NOUN
+non	ADV
+volendo	AUX
+più	ADV
+essere	AUX
+etichettata	VERB
+come	ADP
+una	DET
+semplice	ADJ
+"	PUNCT
+melodic	ADJ
+death	NOUN
+metal	NOUN
+band	NOUN
+"	PUNCT
+intraprende	VERB
+la	DET
+via	NOUN
+della	_
+di	ADP
+la	DET
+sperimentazione	NOUN
+.	PUNCT
+
+Sentence ID: 267
+Sentence: Con Projector il gruppo approda a sonorità quasi totalmente melodiche, alternando un metal energico e tagliente a parti più meditate, atmosferiche, con anche vocals in canto pulito.
+POS:
+Con	ADP
+Projector	NOUN
+il	DET
+gruppo	NOUN
+approda	VERB
+a	ADP
+sonorità	NOUN
+quasi	ADV
+totalmente	ADV
+melodiche	ADJ
+,	PUNCT
+alternando	VERB
+un	DET
+metal	NOUN
+energico	ADJ
+e	CCONJ
+tagliente	ADJ
+a	ADP
+parti	NOUN
+più	ADV
+meditate	ADJ
+,	PUNCT
+atmosferiche	ADJ
+,	PUNCT
+con	ADP
+anche	ADV
+vocals	NOUN
+in	ADP
+canto	NOUN
+pulito	ADJ
+.	PUNCT
+
+Sentence ID: 268
+Sentence: L'album riscuote un alto successo, ma divide i fan, fra chi apprezza il nuovo corso e chi li accusa di aver rinnegato le origini.
+POS:
+L'	DET
+album	NOUN
+riscuote	VERB
+un	DET
+alto	ADJ
+successo	NOUN
+,	PUNCT
+ma	CCONJ
+divide	VERB
+i	DET
+fan	NOUN
+,	PUNCT
+fra	ADP
+chi	PRON
+apprezza	VERB
+il	DET
+nuovo	ADJ
+corso	NOUN
+e	CCONJ
+chi	PRON
+li	PRON
+accusa	VERB
+di	ADP
+aver	AUX
+rinnegato	VERB
+le	DET
+origini	NOUN
+.	PUNCT
+
+Sentence ID: 269
+Sentence: una evoluzione di questa tecnica permetteva di far apparire falsi bersagli multipli sugli schermi radar, allineati lungo la radiale.
+POS:
+una	DET
+evoluzione	NOUN
+di	ADP
+questa	DET
+tecnica	NOUN
+permetteva	VERB
+di	ADP
+far	VERB
+apparire	VERB
+falsi	ADJ
+bersagli	NOUN
+multipli	ADJ
+sugli	_
+su	ADP
+gli	DET
+schermi	NOUN
+radar	NOUN
+,	PUNCT
+allineati	VERB
+lungo	ADP
+la	DET
+radiale	NOUN
+.	PUNCT
+
+Sentence ID: 270
+Sentence: Tutti gli altri radar dello scenario continuano a funzionare regolarmente.
+POS:
+Tutti	DET
+gli	DET
+altri	ADJ
+radar	NOUN
+dello	_
+di	ADP
+lo	DET
+scenario	NOUN
+continuano	VERB
+a	ADP
+funzionare	VERB
+regolarmente	ADV
+.	PUNCT
+
+Sentence ID: 271
+Sentence: La maggior parte dei dispositivi commercializzati con il nome di "radar jammer", in realtà non utilizza tecniche di accecamento del radar di misura, ma si limita a disturbare il rilevamento, creando un errore che porta ad una lettura corrispondente ad una velocità minore.
+POS:
+La	DET
+maggior	ADJ
+parte	NOUN
+dei	_
+di	ADP
+i	DET
+dispositivi	NOUN
+commercializzati	VERB
+con	ADP
+il	DET
+nome	NOUN
+di	ADP
+"	PUNCT
+radar	NOUN
+jammer	NOUN
+"	PUNCT
+,	PUNCT
+in	ADP
+realtà	NOUN
+non	ADV
+utilizza	ADP
+tecniche	NOUN
+di	ADP
+accecamento	NOUN
+del	_
+di	ADP
+il	DET
+radar	NOUN
+di	ADP
+misura	NOUN
+,	PUNCT
+ma	CCONJ
+si	PRON
+limita	VERB
+a	ADP
+disturbare	VERB
+il	DET
+rilevamento	NOUN
+,	PUNCT
+creando	VERB
+un	DET
+errore	NOUN
+che	PRON
+porta	VERB
+ad	ADP
+una	DET
+lettura	NOUN
+corrispondente	ADJ
+ad	ADP
+una	DET
+velocità	NOUN
+minore	ADJ
+.	PUNCT
+
+Sentence ID: 272
+Sentence: Specchi progettò la fontana nel 1711, nelle immediate vicinanze del preesistente Santuario della Madonna della Neve, per volere di Livio de Carolis, marchese di Prossedi e Generale delle Poste pontificie.
+POS:
+Specchi	PROPN
+progettò	VERB
+la	DET
+fontana	NOUN
+nel	_
+in	ADP
+il	DET
+1711	NUM
+,	PUNCT
+nelle	_
+in	ADP
+le	DET
+immediate	ADJ
+vicinanze	NOUN
+del	_
+di	ADP
+il	DET
+preesistente	ADJ
+Santuario	PROPN
+della	_
+di	ADP
+la	DET
+Madonna	PROPN
+della	_
+di	ADP
+la	DET
+Neve	NOUN
+,	PUNCT
+per	ADP
+volere	VERB
+di	ADP
+Livio	PROPN
+de	ADP
+Carolis	PROPN
+,	PUNCT
+marchese	NOUN
+di	ADP
+Prossedi	PROPN
+e	CCONJ
+Generale	PROPN
+delle	_
+di	ADP
+le	DET
+Poste	NOUN
+pontificie	ADJ
+.	PUNCT
+
+Sentence ID: 273
+Sentence: La sua prima comparsa viene generalmente identificata in un articolo del 1905, presentato a un convegno sulla salute pubblica.
+POS:
+La	DET
+sua	DET
+prima	ADJ
+comparsa	NOUN
+viene	AUX
+generalmente	ADV
+identificata	VERB
+in	ADP
+un	DET
+articolo	NOUN
+del	_
+di	ADP
+il	DET
+1905	NUM
+,	PUNCT
+presentato	VERB
+a	ADP
+un	DET
+convegno	NOUN
+sulla	_
+su	ADP
+la	DET
+salute	NOUN
+pubblica	ADJ
+.	PUNCT
+
+Sentence ID: 274
+Sentence: Lo smog fotochimico viene anche chiamato smog estivo o smog di Los Angeles perché più comune nei climi caldi e asciutti, come accade tipicamente nella città di Los Angeles (i primi casi di smog fotochimico vennero segnalati intorno al 1940 a Los Angeles).
+POS:
+Lo	DET
+smog	NOUN
+fotochimico	ADJ
+viene	AUX
+anche	ADV
+chiamato	VERB
+smog	NOUN
+estivo	ADJ
+o	CCONJ
+smog	NOUN
+di	ADP
+Los	PROPN
+Angeles	PROPN
+perché	SCONJ
+più	ADV
+comune	ADJ
+nei	_
+in	ADP
+i	DET
+climi	NOUN
+caldi	ADJ
+e	CCONJ
+asciutti	ADJ
+,	PUNCT
+come	SCONJ
+accade	VERB
+tipicamente	ADV
+nella	_
+in	ADP
+la	DET
+città	NOUN
+di	ADP
+Los	PROPN
+Angeles	PROPN
+(	PUNCT
+i	DET
+primi	ADJ
+casi	NOUN
+di	ADP
+smog	NOUN
+fotochimico	ADJ
+vennero	AUX
+segnalati	VERB
+intorno	ADV
+al	_
+a	ADP
+il	DET
+1940	NUM
+a	ADP
+Los	PROPN
+Angeles	PROPN
+)	PUNCT
+.	PUNCT
+
+Sentence ID: 275
+Sentence: Yamanote-sen è scritto ufficialmente senza kana "no" (の o ノ), rendendo la sua pronuncia ambigua.
+POS:
+Yamanote	PROPN
+-	PUNCT
+sen	X
+è	AUX
+scritto	VERB
+ufficialmente	ADV
+senza	ADP
+kana	NOUN
+"	PUNCT
+no	ADV
+"	PUNCT
+(	PUNCT
+の	PROPN
+o	CCONJ
+ノ	PROPN
+)	PUNCT
+,	PUNCT
+rendendo	VERB
+la	DET
+sua	DET
+pronuncia	NOUN
+ambigua	ADJ
+.	PUNCT
+
+Sentence ID: 276
+Sentence: Infatti il tentativo di Broglio di continuare la collaborazione con la NASA per il lancio di altri satelliti dalla base in Kenya si rivelò un successo solo parziale a causa del progressivo affermarsi del programma Space Shuttle e la riduzione d'interesse per il lancio di satelliti di piccole dimensioni.
+POS:
+Infatti	ADV
+il	DET
+tentativo	NOUN
+di	ADP
+Broglio	PROPN
+di	ADP
+continuare	VERB
+la	DET
+collaborazione	NOUN
+con	ADP
+la	DET
+NASA	PROPN
+per	ADP
+il	DET
+lancio	NOUN
+di	ADP
+altri	ADJ
+satelliti	NOUN
+dalla	_
+da	ADP
+la	DET
+base	NOUN
+in	ADP
+Kenya	PROPN
+si	PRON
+rivelò	VERB
+un	DET
+successo	NOUN
+solo	ADV
+parziale	ADJ
+a	ADP
+causa	NOUN
+del	_
+di	ADP
+il	DET
+progressivo	NOUN
+affermarsi	_
+affermar	VERB
+si	PRON
+del	_
+di	ADP
+il	DET
+programma	NOUN
+Space	PROPN
+Shuttle	PROPN
+e	CCONJ
+la	DET
+riduzione	NOUN
+d'	ADP
+interesse	NOUN
+per	ADP
+il	DET
+lancio	NOUN
+di	ADP
+satelliti	NOUN
+di	ADP
+piccole	ADJ
+dimensioni	NOUN
+.	PUNCT
+
+Sentence ID: 277
+Sentence: Le attività incluse nel primo progetto di elaborazione di immagini satellitari sono il Global Monitoring for Security and Sustenaibility (GMOSS), il System for Fire Detection (SFIDE), le Southern Hemisphere Additional Ozonesondes (SHADOZ) e il Central-East Africa Satellite Monitoring (CEASMO).
+POS:
+Le	DET
+attività	NOUN
+incluse	VERB
+nel	_
+in	ADP
+il	DET
+primo	ADJ
+progetto	NOUN
+di	ADP
+elaborazione	NOUN
+di	ADP
+immagini	NOUN
+satellitari	ADJ
+sono	AUX
+il	DET
+Global	PROPN
+Monitoring	PROPN
+for	ADP
+Security	PROPN
+and	CCONJ
+Sustenaibility	PROPN
+(	PUNCT
+GMOSS	PROPN
+)	PUNCT
+,	PUNCT
+il	DET
+System	PROPN
+for	ADP
+Fire	PROPN
+Detection	PROPN
+(	PUNCT
+SFIDE	PROPN
+)	PUNCT
+,	PUNCT
+le	DET
+Southern	PROPN
+Hemisphere	PROPN
+Additional	PROPN
+Ozonesondes	PROPN
+(	PUNCT
+SHADOZ	PROPN
+)	PUNCT
+e	CCONJ
+il	DET
+Central-	PROPN
+East	PROPN
+Africa	PROPN
+Satellite	PROPN
+Monitoring	PROPN
+(	PUNCT
+CEASMO	PROPN
+)	PUNCT
+.	PUNCT
+
+Sentence ID: 278
+Sentence: L'insieme di tutte queste operazioni viene chiamato stigliatura.
+POS:
+L'	DET
+insieme	NOUN
+di	ADP
+tutte	DET
+queste	DET
+operazioni	NOUN
+viene	AUX
+chiamato	VERB
+stigliatura	NOUN
+.	PUNCT
+
+Sentence ID: 279
+Sentence: La lana che si ricava si chiama lana di concia.
+POS:
+La	DET
+lana	NOUN
+che	PRON
+si	PRON
+ricava	VERB
+si	PRON
+chiama	VERB
+lana	NOUN
+di	ADP
+concia	NOUN
+.	PUNCT
+
+Sentence ID: 280
+Sentence: è rivestita esternamente da squame e presenta numerose ondulazioni elastiche, origine della caratteristica arricciatura.
+POS:
+è	AUX
+rivestita	VERB
+esternamente	ADV
+da	ADP
+squame	NOUN
+e	CCONJ
+presenta	VERB
+numerose	DET
+ondulazioni	NOUN
+elastiche	ADJ
+,	PUNCT
+origine	NOUN
+della	_
+di	ADP
+la	DET
+caratteristica	ADJ
+arricciatura	NOUN
+.	PUNCT
+
+Sentence ID: 281
+Sentence: La trasformazione, che comprende filatura, tessitura e le altre operazioni collegate, è stata per secoli prerogativa europea, con Inghilterra e Italia in testa.
+POS:
+La	DET
+trasformazione	NOUN
+,	PUNCT
+che	PRON
+comprende	VERB
+filatura	NOUN
+,	PUNCT
+tessitura	NOUN
+e	CCONJ
+le	DET
+altre	ADJ
+operazioni	NOUN
+collegate	VERB
+,	PUNCT
+è	AUX
+stata	AUX
+per	ADP
+secoli	NOUN
+prerogativa	ADJ
+europea	ADJ
+,	PUNCT
+con	ADP
+Inghilterra	PROPN
+e	CCONJ
+Italia	PROPN
+in	ADP
+testa	NOUN
+.	PUNCT
+
+Sentence ID: 282
+Sentence: Il terzo originale è firmato dal vettore e da questo consegnato al mittente dopo aver preso in consegna la merce.
+POS:
+Il	DET
+terzo	ADJ
+originale	NOUN
+è	AUX
+firmato	VERB
+dal	_
+da	ADP
+il	DET
+vettore	NOUN
+e	CCONJ
+da	ADP
+questo	PRON
+consegnato	VERB
+al	_
+a	ADP
+il	DET
+mittente	NOUN
+dopo	SCONJ
+aver	AUX
+preso	VERB
+in	ADP
+consegna	NOUN
+la	DET
+merce	NOUN
+.	PUNCT
+
+Sentence ID: 283
+Sentence: considerando che un termine di prescrizione uniforme dell'azione di risarcimento è nell'interesse sia del danneggiato sia del produttore;
+POS:
+considerando	VERB
+che	SCONJ
+un	DET
+termine	NOUN
+di	ADP
+prescrizione	NOUN
+uniforme	ADJ
+dell'	_
+di	ADP
+l'	DET
+azione	NOUN
+di	ADP
+risarcimento	NOUN
+è	AUX
+nell'	_
+in	ADP
+l'	DET
+interesse	NOUN
+sia	CCONJ
+del	_
+di	ADP
+il	DET
+danneggiato	NOUN
+sia	CCONJ
+del	_
+di	ADP
+il	DET
+produttore	NOUN
+;	PUNCT
+
+Sentence ID: 284
+Sentence: Quando è stato consegnato il premio Nobel per la pace a Yasser Arafat?
+POS:
+Quando	SCONJ
+è	AUX
+stato	AUX
+consegnato	VERB
+il	DET
+premio	NOUN
+Nobel	PROPN
+per	ADP
+la	DET
+pace	NOUN
+a	ADP
+Yasser	PROPN
+Arafat	PROPN
+?	PUNCT
+
+Sentence ID: 285
+Sentence: Dove si tiene il Motorshow?
+POS:
+Dove	ADV
+si	PRON
+tiene	VERB
+il	DET
+Motorshow	PROPN
+?	PUNCT
+
+Sentence ID: 286
+Sentence: Chi è Jean-Bertrand Aristide?
+POS:
+Chi	PRON
+è	AUX
+Jean	PROPN
+-	PUNCT
+Bertrand	PROPN
+Aristide	PROPN
+?	PUNCT
+
+Sentence ID: 287
+Sentence: Come si forma l'ozono?
+POS:
+Come	ADV
+si	PRON
+forma	VERB
+l'	DET
+ozono	NOUN
+?	PUNCT
+
+Sentence ID: 288
+Sentence: In quale giorno cade il solstizio d'estate?
+POS:
+In	ADP
+quale	DET
+giorno	NOUN
+cade	VERB
+il	DET
+solstizio	NOUN
+d'	ADP
+estate	NOUN
+?	PUNCT
+
+Sentence ID: 289
+Sentence: Come funziona la risonanza magnetica?
+POS:
+Come	ADV
+funziona	VERB
+la	DET
+risonanza	NOUN
+magnetica	ADJ
+?	PUNCT
+
+Sentence ID: 290
+Sentence: Di che cosa sono fatti i cavi in fibra ottica?
+POS:
+Di	ADP
+che	DET
+cosa	PRON
+sono	AUX
+fatti	VERB
+i	DET
+cavi	NOUN
+in	ADP
+fibra	NOUN
+ottica	ADJ
+?	PUNCT
+
+Sentence ID: 291
+Sentence: Chi interpreta il ruolo di una prostituta in "Taxi Driver"?
+POS:
+Chi	PRON
+interpreta	VERB
+il	DET
+ruolo	NOUN
+di	ADP
+una	DET
+prostituta	NOUN
+in	ADP
+"	PUNCT
+Taxi	PROPN
+Driver	PROPN
+"	PUNCT
+?	PUNCT
+
+Sentence ID: 292
+Sentence: Da quale paese viene il tango?
+POS:
+Da	ADP
+quale	DET
+paese	NOUN
+viene	VERB
+il	DET
+tango	NOUN
+?	PUNCT
+
+Sentence ID: 293
+Sentence: Qual è la sigla per Amnesty International?
+POS:
+Qual	PRON
+è	AUX
+la	DET
+sigla	NOUN
+per	ADP
+Amnesty	PROPN
+International	PROPN
+?	PUNCT
+
+Sentence ID: 294
+Sentence: Che cosa ha influenzato l'"effetto Tequila"?
+POS:
+Che	DET
+cosa	PRON
+ha	AUX
+influenzato	VERB
+l'	DET
+"	PUNCT
+effetto	NOUN
+Tequila	PROPN
+"	PUNCT
+?	PUNCT
+
+Sentence ID: 295
+Sentence: Cosa si può trovare al "Chester Beatty"?
+POS:
+Cosa	PRON
+si	PRON
+può	AUX
+trovare	VERB
+al	_
+a	ADP
+il	DET
+"	PUNCT
+Chester	PROPN
+Beatty	PROPN
+"	PUNCT
+?	PUNCT
+
+Sentence ID: 296
+Sentence: Che cosa ha inventato il Barone Marcel Bich?
+POS:
+Che	DET
+cosa	PRON
+ha	AUX
+inventato	VERB
+il	DET
+Barone	PROPN
+Marcel	PROPN
+Bich	PROPN
+?	PUNCT
+
+Sentence ID: 297
+Sentence: Che giorno è l'anniversario della scoperta dell'America?
+POS:
+Che	DET
+giorno	NOUN
+è	AUX
+l'	DET
+anniversario	NOUN
+della	_
+di	ADP
+la	DET
+scoperta	NOUN
+dell'	_
+di	ADP
+l'	DET
+America	PROPN
+?	PUNCT
+
+Sentence ID: 298
+Sentence: Chi era il presidente degli Stati Uniti nel 1994?
+POS:
+Chi	PRON
+era	AUX
+il	DET
+presidente	NOUN
+degli	_
+di	ADP
+gli	DET
+Stati	PROPN
+Uniti	PROPN
+nel	_
+in	ADP
+il	DET
+1994	NUM
+?	PUNCT
+
+Sentence ID: 299
+Sentence: In quale città italiana si trova la fontana di Trevi?
+POS:
+In	ADP
+quale	DET
+città	NOUN
+italiana	ADJ
+si	PRON
+trova	VERB
+la	DET
+fontana	NOUN
+di	ADP
+Trevi	PROPN
+?	PUNCT
+
+Sentence ID: 300
+Sentence: Chi è il fondatore del canale di notizie CNN?
+POS:
+Chi	PRON
+è	AUX
+il	DET
+fondatore	NOUN
+del	_
+di	ADP
+il	DET
+canale	NOUN
+di	ADP
+notizie	NOUN
+CNN	PROPN
+?	PUNCT
+
+Sentence ID: 301
+Sentence: Qual è il titolo dell'autobiografia di Nelson Mandela?
+POS:
+Qual	PRON
+è	AUX
+il	DET
+titolo	NOUN
+dell'	_
+di	ADP
+l'	DET
+autobiografia	NOUN
+di	ADP
+Nelson	PROPN
+Mandela	PROPN
+?	PUNCT
+
+Sentence ID: 302
+Sentence: Come si chiama la vedova di Samora Machel, il defunto presidente del Mozambico?
+POS:
+Come	ADV
+si	PRON
+chiama	VERB
+la	DET
+vedova	NOUN
+di	ADP
+Samora	PROPN
+Machel	PROPN
+,	PUNCT
+il	DET
+defunto	ADJ
+presidente	NOUN
+del	_
+di	ADP
+il	DET
+Mozambico	PROPN
+?	PUNCT
+
+Sentence ID: 303
+Sentence: Dimmi il nome di uno dei fondatori di Greenpeace.
+POS:
+Dimmi	VERB
+il	DET
+nome	NOUN
+di	ADP
+uno	PRON
+dei	_
+di	ADP
+i	DET
+fondatori	NOUN
+di	ADP
+Greenpeace	PROPN
+.	PUNCT
+
+Sentence ID: 304
+Sentence: Chi è Joao Havelange?
+POS:
+Chi	PRON
+è	AUX
+Joao	PROPN
+Havelange	PROPN
+?	PUNCT
+
+Sentence ID: 305
+Sentence: Che cosa ha ritirato la Saab?
+POS:
+Che	DET
+cosa	PRON
+ha	AUX
+ritirato	VERB
+la	DET
+Saab	PROPN
+?	PUNCT
+
+Sentence ID: 306
+Sentence: Quale porzione del fatturato della HP viene realizzato in Europa?
+POS:
+Quale	DET
+porzione	NOUN
+del	_
+di	ADP
+il	DET
+fatturato	NOUN
+della	_
+di	ADP
+la	DET
+HP	PROPN
+viene	AUX
+realizzato	VERB
+in	ADP
+Europa	PROPN
+?	PUNCT
+
+Sentence ID: 307
+Sentence: Come si sono leggermente ferite 22 persone nell'Empire State Building?
+POS:
+Come	SCONJ
+si	PRON
+sono	AUX
+leggermente	ADV
+ferite	ADJ
+22	NUM
+persone	NOUN
+nell'	_
+in	ADP
+l'	DET
+Empire	PROPN
+State	PROPN
+Building	PROPN
+?	PUNCT
+
+Sentence ID: 308
+Sentence: Chi è l'architetto del museo Guggenheim di Bilbao?
+POS:
+Chi	PRON
+è	AUX
+l'	DET
+architetto	NOUN
+del	_
+di	ADP
+il	DET
+museo	NOUN
+Guggenheim	PROPN
+di	ADP
+Bilbao	PROPN
+?	PUNCT
+
+Sentence ID: 309
+Sentence: Come si chiama il partito di Silvio Berlusconi?
+POS:
+Come	ADV
+si	PRON
+chiama	VERB
+il	DET
+partito	NOUN
+di	ADP
+Silvio	PROPN
+Berlusconi	PROPN
+?	PUNCT
+
+Sentence ID: 310
+Sentence: Di quale paese Egor Gadar è stato primo ministro?
+POS:
+Di	ADP
+quale	DET
+paese	NOUN
+Egor	PROPN
+Gadar	PROPN
+è	AUX
+stato	AUX
+primo	ADJ
+ministro	NOUN
+?	PUNCT
+
+Sentence ID: 311
+Sentence: Quanti film sono stati presentati al Festival mondiale del cinema di Montreal?
+POS:
+Quanti	DET
+film	NOUN
+sono	AUX
+stati	AUX
+presentati	VERB
+al	_
+a	ADP
+il	DET
+Festival	PROPN
+mondiale	ADJ
+del	_
+di	ADP
+il	DET
+cinema	NOUN
+di	ADP
+Montreal	PROPN
+?	PUNCT
+
+Sentence ID: 312
+Sentence: Che lavoro faceva Danny Barker?
+POS:
+Che	DET
+lavoro	NOUN
+faceva	VERB
+Danny	PROPN
+Barker	PROPN
+?	PUNCT
+
+Sentence ID: 313
+Sentence: Di quale squadra automobilistica è direttore Flavio Briatore?
+POS:
+Di	ADP
+quale	DET
+squadra	NOUN
+automobilistica	ADJ
+è	AUX
+direttore	NOUN
+Flavio	PROPN
+Briatore	PROPN
+?	PUNCT
+
+Sentence ID: 314
+Sentence: Chi era il marito di Vieira da Silva?
+POS:
+Chi	PRON
+era	AUX
+il	DET
+marito	NOUN
+di	ADP
+Vieira	PROPN
+da	ADP
+Silva	PROPN
+?	PUNCT
+
+Sentence ID: 315
+Sentence: Chi è il ministro dell'ambiente svedese?
+POS:
+Chi	PRON
+è	AUX
+il	DET
+ministro	NOUN
+dell'	_
+di	ADP
+l'	DET
+ambiente	NOUN
+svedese	ADJ
+?	PUNCT
+
+Sentence ID: 316
+Sentence: Quando morì Simon Bolivar?
+POS:
+Quando	SCONJ
+morì	VERB
+Simon	PROPN
+Bolivar	PROPN
+?	PUNCT
+
+Sentence ID: 317
+Sentence: Quale importante fenomeno del Sud Pacifico influenza il clima mondiale?
+POS:
+Quale	DET
+importante	ADJ
+fenomeno	NOUN
+del	_
+di	ADP
+il	DET
+Sud	PROPN
+Pacifico	PROPN
+influenza	ADP
+il	DET
+clima	NOUN
+mondiale	ADJ
+?	PUNCT
+
+Sentence ID: 318
+Sentence: Quante persone, in tutta la UE, hanno diritto di voto per eleggere il nuovo Parlamento Europeo?
+POS:
+Quante	DET
+persone	NOUN
+,	PUNCT
+in	ADP
+tutta	DET
+la	DET
+UE	PROPN
+,	PUNCT
+hanno	VERB
+diritto	NOUN
+di	ADP
+voto	NOUN
+per	ADP
+eleggere	VERB
+il	DET
+nuovo	ADJ
+Parlamento	PROPN
+Europeo	PROPN
+?	PUNCT
+
+Sentence ID: 319
+Sentence: Chi è il capo del Sinn Fein?
+POS:
+Chi	PRON
+è	AUX
+il	DET
+capo	NOUN
+del	_
+di	ADP
+il	DET
+Sinn	PROPN
+Fein	PROPN
+?	PUNCT
+
+Sentence ID: 320
+Sentence: Chi è il fondatore dell'Ordine del Tempio Solare?
+POS:
+Chi	PRON
+è	AUX
+il	DET
+fondatore	NOUN
+dell'	_
+di	ADP
+l'	DET
+Ordine	PROPN
+del	_
+di	ADP
+il	DET
+Tempio	PROPN
+Solare	PROPN
+?	PUNCT
+
+Sentence ID: 321
+Sentence: Quando avvenne il disastro di Chernobyl?
+POS:
+Quando	SCONJ
+avvenne	VERB
+il	DET
+disastro	NOUN
+di	ADP
+Chernobyl	PROPN
+?	PUNCT
+
+Sentence ID: 322
+Sentence: Chi è il Ministro degli Esteri italiano?
+POS:
+Chi	PRON
+è	AUX
+il	DET
+Ministro	NOUN
+degli	_
+di	ADP
+gli	DET
+Esteri	NOUN
+italiano	ADJ
+?	PUNCT
+
+Sentence ID: 323
+Sentence: Quando Hong Kong passerà alla Cina?
+POS:
+Quando	SCONJ
+Hong	PROPN
+Kong	PROPN
+passerà	VERB
+alla	_
+a	ADP
+la	DET
+Cina	PROPN
+?	PUNCT
+
+Sentence ID: 324
+Sentence: Quale Primo Ministro francese si suicidò negli anni 90?
+POS:
+Quale	DET
+Primo	ADJ
+Ministro	NOUN
+francese	ADJ
+si	PRON
+suicidò	VERB
+negli	_
+in	ADP
+gli	DET
+anni	NOUN
+90	NUM
+?	PUNCT
+
+Sentence ID: 325
+Sentence: Dove vennero utilizzati i caccia Strike Eagles nel 1990?
+POS:
+Dove	ADV
+vennero	AUX
+utilizzati	VERB
+i	DET
+caccia	NOUN
+Strike	PROPN
+Eagles	PROPN
+nel	_
+in	ADP
+il	DET
+1990	NUM
+?	PUNCT
+
+Sentence ID: 326
+Sentence: Quando è stato girato il film "Giochi di Guerra" ("WarGames")?
+POS:
+Quando	SCONJ
+è	AUX
+stato	AUX
+girato	VERB
+il	DET
+film	NOUN
+"	PUNCT
+Giochi	VERB
+di	ADP
+Guerra	NOUN
+"	PUNCT
+(	PUNCT
+"	PUNCT
+WarGames	PROPN
+"	PUNCT
+)	PUNCT
+?	PUNCT
+
+Sentence ID: 327
+Sentence: Nomina una canzone dei Nirvana.
+POS:
+Nomina	VERB
+una	DET
+canzone	NOUN
+dei	_
+di	ADP
+i	DET
+Nirvana	PROPN
+.	PUNCT
+
+Sentence ID: 328
+Sentence: Quante persone morirono nell'incidente aereo del 1972 nelle Everglades?
+POS:
+Quante	DET
+persone	NOUN
+morirono	VERB
+nell'	_
+in	ADP
+l'	DET
+incidente	NOUN
+aereo	ADJ
+del	_
+di	ADP
+il	DET
+1972	NUM
+nelle	_
+in	ADP
+le	DET
+Everglades	PROPN
+?	PUNCT
+
+Sentence ID: 329
+Sentence: Quando l'Unione Sovietica invase l'Afghanistan?
+POS:
+Quando	SCONJ
+l'	DET
+Unione	PROPN
+Sovietica	ADJ
+invase	VERB
+l'	DET
+Afghanistan	PROPN
+?	PUNCT
+
+Sentence ID: 330
+Sentence: Quanto è lungo il fiume Okavango?
+POS:
+Quanto	PRON
+è	AUX
+lungo	ADJ
+il	DET
+fiume	NOUN
+Okavango	PROPN
+?	PUNCT
+
+Sentence ID: 331
+Sentence: Quando ci fu la sparatoria a Columbine?
+POS:
+Quando	SCONJ
+ci	PRON
+fu	VERB
+la	DET
+sparatoria	NOUN
+a	ADP
+Columbine	PROPN
+?	PUNCT
+
+Sentence ID: 332
+Sentence: Quanti stati erano ancora uniti dopo la secessione degli stati del sud?
+POS:
+Quanti	DET
+stati	NOUN
+erano	AUX
+ancora	ADV
+uniti	VERB
+dopo	ADP
+la	DET
+secessione	NOUN
+degli	_
+di	ADP
+gli	DET
+stati	NOUN
+del	_
+di	ADP
+il	DET
+sud	NOUN
+?	PUNCT
+
+Sentence ID: 333
+Sentence: Dove venne costruito il primo Mcdonalds?
+POS:
+Dove	ADV
+venne	AUX
+costruito	VERB
+il	DET
+primo	ADJ
+Mcdonalds	PROPN
+?	PUNCT
+
+Sentence ID: 334
+Sentence: Il disastro di Hindenburg avvenne nel 1937 in quale città del New Jersey?
+POS:
+Il	DET
+disastro	NOUN
+di	ADP
+Hindenburg	PROPN
+avvenne	VERB
+nel	_
+in	ADP
+il	DET
+1937	NUM
+in	ADP
+quale	DET
+città	NOUN
+del	_
+di	ADP
+il	DET
+New	PROPN
+Jersey	PROPN
+?	PUNCT
+
+Sentence ID: 335
+Sentence: Dove si trova il punto più elevato della Terra?
+POS:
+Dove	ADV
+si	PRON
+trova	VERB
+il	DET
+punto	NOUN
+più	ADV
+elevato	ADJ
+della	_
+di	ADP
+la	DET
+Terra	PROPN
+?	PUNCT
+
+Sentence ID: 336
+Sentence: Qual è l'inno nazionale in Inghilterra?
+POS:
+Qual	PRON
+è	AUX
+l'	DET
+inno	NOUN
+nazionale	ADJ
+in	ADP
+Inghilterra	PROPN
+?	PUNCT
+
+Sentence ID: 337
+Sentence: Quanto era alta Judy Garland?
+POS:
+Quanto	PRON
+era	AUX
+alta	ADJ
+Judy	PROPN
+Garland	PROPN
+?	PUNCT
+
+Sentence ID: 338
+Sentence: Qual è il paese col più alto numero di abitanti al mondo?
+POS:
+Qual	PRON
+è	AUX
+il	DET
+paese	NOUN
+col	_
+con	ADP
+il	DET
+più	ADV
+alto	ADJ
+numero	NOUN
+di	ADP
+abitanti	NOUN
+al	_
+a	ADP
+il	DET
+mondo	NOUN
+?	PUNCT
+
+Sentence ID: 339
+Sentence: In che anno venne inventato il PC?
+POS:
+In	ADP
+che	DET
+anno	NOUN
+venne	AUX
+inventato	VERB
+il	DET
+PC	PROPN
+?	PUNCT
+
+Sentence ID: 340
+Sentence: Chi diede inizio alla Riforma Protestante?
+POS:
+Chi	PRON
+diede	VERB
+inizio	NOUN
+alla	_
+a	ADP
+la	DET
+Riforma	PROPN
+Protestante	PROPN
+?	PUNCT
+
+Sentence ID: 341
+Sentence: Qual è la percentuale della popolazione mancina?
+POS:
+Qual	PRON
+è	AUX
+la	DET
+percentuale	NOUN
+della	_
+di	ADP
+la	DET
+popolazione	NOUN
+mancina	ADJ
+?	PUNCT
+
+Sentence ID: 342
+Sentence: Come si chiama la moneta usata in Bolivia?
+POS:
+Come	ADV
+si	PRON
+chiama	VERB
+la	DET
+moneta	NOUN
+usata	VERB
+in	ADP
+Bolivia	PROPN
+?	PUNCT
+
+Sentence ID: 343
+Sentence: Quando ci fu l'invasione statunitense di Haiti?
+POS:
+Quando	SCONJ
+ci	PRON
+fu	VERB
+l'	DET
+invasione	NOUN
+statunitense	ADJ
+di	ADP
+Haiti	PROPN
+?	PUNCT
+
+Sentence ID: 344
+Sentence: Qual è l'ingrediente attivo nel tilenolo?
+POS:
+Qual	PRON
+è	AUX
+l'	DET
+ingrediente	NOUN
+attivo	ADJ
+nel	_
+in	ADP
+il	DET
+tilenolo	NOUN
+?	PUNCT
+
+Sentence ID: 345
+Sentence: Come si chiama la famosa competizione di slitta trainata da cani che si tiene ogni anno in Alaska?
+POS:
+Come	ADV
+si	PRON
+chiama	VERB
+la	DET
+famosa	ADJ
+competizione	NOUN
+di	ADP
+slitta	NOUN
+trainata	VERB
+da	ADP
+cani	NOUN
+che	PRON
+si	PRON
+tiene	VERB
+ogni	DET
+anno	NOUN
+in	ADP
+Alaska	PROPN
+?	PUNCT
+
+Sentence ID: 346
+Sentence: Quanto si stima che costeranno le stazioni spaziali internazionali?
+POS:
+Quanto	ADV
+si	PRON
+stima	VERB
+che	SCONJ
+costeranno	VERB
+le	DET
+stazioni	NOUN
+spaziali	ADJ
+internazionali	ADJ
+?	PUNCT
+
+Sentence ID: 347
+Sentence: Come dici "patatine fritte" in francese?
+POS:
+Come	ADV
+dici	VERB
+"	PUNCT
+patatine	NOUN
+fritte	ADJ
+"	PUNCT
+in	ADP
+francese	NOUN
+?	PUNCT
+
+Sentence ID: 348
+Sentence: Che premio vinse nel 1963 il libro di Sterling North "Rascal"?
+POS:
+Che	DET
+premio	NOUN
+vinse	VERB
+nel	_
+in	ADP
+il	DET
+1963	NUM
+il	DET
+libro	NOUN
+di	ADP
+Sterling	PROPN
+North	PROPN
+"	PUNCT
+Rascal	PROPN
+"	PUNCT
+?	PUNCT
+
+Sentence ID: 349
+Sentence: Come si dice "maiale" in spagnolo?
+POS:
+Come	ADV
+si	PRON
+dice	VERB
+"	PUNCT
+maiale	NOUN
+"	PUNCT
+in	ADP
+spagnolo	ADJ
+?	PUNCT
+
+Sentence ID: 350
+Sentence: Quanto è vecchio l'universo?
+POS:
+Quanto	PRON
+è	AUX
+vecchio	ADJ
+l'	DET
+universo	NOUN
+?	PUNCT
+
+Sentence ID: 351
+Sentence: Come viene chiamato un gruppo di antilopi?
+POS:
+Come	ADV
+viene	AUX
+chiamato	VERB
+un	DET
+gruppo	NOUN
+di	ADP
+antilopi	NOUN
+?	PUNCT
+
+Sentence ID: 352
+Sentence: In quale anno venne costruito Ebbets Field, la sede dei Brooklin Dodgers?
+POS:
+In	ADP
+quale	DET
+anno	NOUN
+venne	AUX
+costruito	VERB
+Ebbets	PROPN
+Field	PROPN
+,	PUNCT
+la	DET
+sede	NOUN
+dei	_
+di	ADP
+i	DET
+Brooklin	PROPN
+Dodgers	PROPN
+?	PUNCT
+
+Sentence ID: 353
+Sentence: Quale stato venne istituito nel 1948?
+POS:
+Quale	DET
+stato	NOUN
+venne	AUX
+istituito	VERB
+nel	_
+in	ADP
+il	DET
+1948	NUM
+?	PUNCT
+
+Sentence ID: 354
+Sentence: Qual è il soprannome dell'Oklahoma?
+POS:
+Qual	PRON
+è	AUX
+il	DET
+soprannome	NOUN
+dell'	_
+di	ADP
+l'	DET
+Oklahoma	PROPN
+?	PUNCT
+
+Sentence ID: 355
+Sentence: Dimmi dove si trova la compagnia DuPont.
+POS:
+Dimmi	VERB
+dove	ADV
+si	PRON
+trova	VERB
+la	DET
+compagnia	NOUN
+DuPont	PROPN
+.	PUNCT
+
+Sentence ID: 356
+Sentence: Chi è Alberto Tomba?
+POS:
+Chi	PRON
+è	AUX
+Alberto	PROPN
+Tomba	PROPN
+?	PUNCT
+
+Sentence ID: 357
+Sentence: Qual è la popolazione dell'Islanda?
+POS:
+Qual	PRON
+è	AUX
+la	DET
+popolazione	NOUN
+dell'	_
+di	ADP
+l'	DET
+Islanda	PROPN
+?	PUNCT
+
+Sentence ID: 358
+Sentence: Quale velocità può raggiungere un sottomarino nucleare?
+POS:
+Quale	DET
+velocità	NOUN
+può	AUX
+raggiungere	VERB
+un	DET
+sottomarino	NOUN
+nucleare	ADJ
+?	PUNCT
+
+Sentence ID: 359
+Sentence: Quale membrana controlla la quantità di luce che entra nell'occhio?
+POS:
+Quale	DET
+membrana	NOUN
+controlla	VERB
+la	DET
+quantità	NOUN
+di	ADP
+luce	NOUN
+che	PRON
+entra	VERB
+nell'	_
+in	ADP
+l'	DET
+occhio	NOUN
+?	PUNCT
+
+Sentence ID: 360
+Sentence: Come vengono chiamate le persone nate dal 1965 al 1980?
+POS:
+Come	ADV
+vengono	AUX
+chiamate	VERB
+le	DET
+persone	NOUN
+nate	VERB
+dal	_
+da	ADP
+il	DET
+1965	NUM
+al	_
+a	ADP
+il	DET
+1980	NUM
+?	PUNCT
+
+Sentence ID: 361
+Sentence: Qual è il nome dello stadio dei Cav?
+POS:
+Qual	PRON
+è	AUX
+il	DET
+nome	NOUN
+dello	_
+di	ADP
+lo	DET
+stadio	NOUN
+dei	_
+di	ADP
+i	DET
+Cav	PROPN
+?	PUNCT
+
+Sentence ID: 362
+Sentence: Qual è lo stato con la minore popolazione?
+POS:
+Qual	PRON
+è	AUX
+lo	DET
+stato	NOUN
+con	ADP
+la	DET
+minore	ADJ
+popolazione	NOUN
+?	PUNCT
+
+Sentence ID: 363
+Sentence: Elenca delle cantanti che hanno recitato la parte di Donna Elvira in messe in scena del "Don Giovanni" di Mozart.
+POS:
+Elenca	VERB
+delle	_
+di	ADP
+le	DET
+cantanti	NOUN
+che	PRON
+hanno	AUX
+recitato	VERB
+la	DET
+parte	NOUN
+di	ADP
+Donna	PROPN
+Elvira	PROPN
+in	ADP
+messe	NOUN
+in	ADP
+scena	NOUN
+del	_
+di	ADP
+il	DET
+"	PUNCT
+Don	PROPN
+Giovanni	PROPN
+"	PUNCT
+di	ADP
+Mozart	PROPN
+.	PUNCT
+
+Sentence ID: 364
+Sentence: Quale animale ha le impronte digitali simili a quelle umane?
+POS:
+Quale	DET
+animale	NOUN
+ha	VERB
+le	DET
+impronte	NOUN
+digitali	ADJ
+simili	ADJ
+a	ADP
+quelle	PRON
+umane	ADJ
+?	PUNCT
+
+Sentence ID: 365
+Sentence: Qual è il motto del "New York Times"?
+POS:
+Qual	PRON
+è	AUX
+il	DET
+motto	NOUN
+del	_
+di	ADP
+il	DET
+"	PUNCT
+New	PROPN
+York	PROPN
+Times	PROPN
+"	PUNCT
+?	PUNCT
+
+Sentence ID: 366
+Sentence: A quale azienda appartiene il marchio di bevande non alcoliche "Gatorade"?
+POS:
+A	ADP
+quale	DET
+azienda	NOUN
+appartiene	VERB
+il	DET
+marchio	NOUN
+di	ADP
+bevande	NOUN
+non	ADV
+alcoliche	ADJ
+"	PUNCT
+Gatorade	PROPN
+"	PUNCT
+?	PUNCT
+
+Sentence ID: 367
+Sentence: Quali paesi ha visitato la first lady Hillary Clinton?
+POS:
+Quali	DET
+paesi	NOUN
+ha	AUX
+visitato	VERB
+la	DET
+first	NOUN
+lady	NOUN
+Hillary	PROPN
+Clinton	PROPN
+?	PUNCT
+
+Sentence ID: 368
+Sentence: In quale provincia canadese si trova il maggior numero di persone di origine francese?
+POS:
+In	ADP
+quale	DET
+provincia	NOUN
+canadese	ADJ
+si	PRON
+trova	VERB
+il	DET
+maggior	ADJ
+numero	NOUN
+di	ADP
+persone	NOUN
+di	ADP
+origine	NOUN
+francese	ADJ
+?	PUNCT
+
+Sentence ID: 369
+Sentence: Da quale gas è composto il 78 percento dell'atmosfera terrestre?
+POS:
+Da	ADP
+quale	DET
+gas	NOUN
+è	AUX
+composto	VERB
+il	DET
+78	NUM
+percento	NOUN
+dell'	_
+di	ADP
+l'	DET
+atmosfera	NOUN
+terrestre	ADJ
+?	PUNCT
+
+Sentence ID: 370
+Sentence: In quale giorno affondò il Lusitania?
+POS:
+In	ADP
+quale	DET
+giorno	NOUN
+affondò	VERB
+il	DET
+Lusitania	PROPN
+?	PUNCT
+
+Sentence ID: 371
+Sentence: Che cos'è L'A?
+POS:
+Che	DET
+cos'	PRON
+è	AUX
+L'A	PROPN
+?	PUNCT
+
+Sentence ID: 372
+Sentence: In quale giorno avvenne l'attacco a Pearl Harbor?
+POS:
+In	ADP
+quale	DET
+giorno	NOUN
+avvenne	VERB
+l'	DET
+attacco	NOUN
+a	ADP
+Pearl	PROPN
+Harbor	PROPN
+?	PUNCT
+
+Sentence ID: 373
+Sentence: Quando Panama si vide restituire il Canale di Panama?
+POS:
+Quando	SCONJ
+Panama	PROPN
+si	PRON
+vide	VERB
+restituire	VERB
+il	DET
+Canale	PROPN
+di	ADP
+Panama	PROPN
+?	PUNCT
+
+Sentence ID: 374
+Sentence: In che modo le Hawaii divennero uno stato?
+POS:
+In	ADP
+che	DET
+modo	NOUN
+le	DET
+Hawaii	PROPN
+divennero	VERB
+uno	DET
+stato	NOUN
+?	PUNCT
+
+Sentence ID: 375
+Sentence: Da quale animale si ricava il "veal"?
+POS:
+Da	ADP
+quale	DET
+animale	NOUN
+si	PRON
+ricava	VERB
+il	DET
+"	PUNCT
+veal	NOUN
+"	PUNCT
+?	PUNCT
+
+Sentence ID: 376
+Sentence: Quante fossette ha una pallina regolamentare da golf?
+POS:
+Quante	DET
+fossette	NOUN
+ha	VERB
+una	DET
+pallina	NOUN
+regolamentare	ADJ
+da	ADP
+golf	NOUN
+?	PUNCT
+
+Sentence ID: 377
+Sentence: Da quale paese proveniva Marco Polo?
+POS:
+Da	ADP
+quale	DET
+paese	NOUN
+proveniva	VERB
+Marco	PROPN
+Polo	PROPN
+?	PUNCT
+
+Sentence ID: 378
+Sentence: Chi è Niels Bohr?
+POS:
+Chi	PRON
+è	AUX
+Niels	PROPN
+Bohr	PROPN
+?	PUNCT
+
+Sentence ID: 379
+Sentence: Da quante repubbliche era composta l'Unione Sovietica?
+POS:
+Da	ADP
+quante	DET
+repubbliche	NOUN
+era	AUX
+composta	VERB
+l'	DET
+Unione	PROPN
+Sovietica	ADJ
+?	PUNCT
+
+Sentence ID: 380
+Sentence: A quanto corrisponde uno "stone" inglese?
+POS:
+A	ADP
+quanto	PRON
+corrisponde	VERB
+uno	DET
+"	PUNCT
+stone	NOUN
+"	PUNCT
+inglese	ADJ
+?	PUNCT
+
+Sentence ID: 381
+Sentence: Dove si trova il Monte Olimpo?
+POS:
+Dove	ADV
+si	PRON
+trova	VERB
+il	DET
+Monte	NOUN
+Olimpo	PROPN
+?	PUNCT
+
+Sentence ID: 382
+Sentence: Quale ingegnere progettò il Canale Erie?
+POS:
+Quale	DET
+ingegnere	NOUN
+progettò	VERB
+il	DET
+Canale	PROPN
+Erie	PROPN
+?	PUNCT
+
+Sentence ID: 383
+Sentence: Quale attrice recitava il ruolo di Betsy nel "Matrimonio di Betsy"?
+POS:
+Quale	DET
+attrice	NOUN
+recitava	VERB
+il	DET
+ruolo	NOUN
+di	ADP
+Betsy	PROPN
+nel	_
+in	ADP
+il	DET
+"	PUNCT
+Matrimonio	PROPN
+di	ADP
+Betsy	PROPN
+"	PUNCT
+?	PUNCT
+
+Sentence ID: 384
+Sentence: Chi hanno incontrato i Rossi?
+POS:
+Chi	PRON
+hanno	AUX
+incontrato	VERB
+i	DET
+Rossi	PROPN
+?	PUNCT
+
+Sentence ID: 385
+Sentence: Su chi puntano i Repubblicani per vincere?
+POS:
+Su	ADP
+chi	PRON
+puntano	VERB
+i	DET
+Repubblicani	PROPN
+per	ADP
+vincere	VERB
+?	PUNCT
+
+Sentence ID: 386
+Sentence: Che cosa ha colpito la città?
+POS:
+Che	DET
+cosa	PRON
+ha	AUX
+colpito	VERB
+la	DET
+città	NOUN
+?	PUNCT
+
+Sentence ID: 387
+Sentence: Cosa ha travolto gli alberi?
+POS:
+Cosa	PRON
+ha	AUX
+travolto	VERB
+gli	DET
+alberi	NOUN
+?	PUNCT
+
+Sentence ID: 388
+Sentence: Cosa viene prodotto dalla Oracle?
+POS:
+Cosa	PRON
+viene	AUX
+prodotto	VERB
+dalla	_
+da	ADP
+la	DET
+Oracle	PROPN
+?	PUNCT
+
+Sentence ID: 389
+Sentence: Che cosa fanno gli antiossidanti?
+POS:
+Che	DET
+cosa	NOUN
+fanno	VERB
+gli	DET
+antiossidanti	NOUN
+?	PUNCT
+
+Sentence ID: 390
+Sentence: In quanti hanno risposto?
+POS:
+In	ADP
+quanti	PRON
+hanno	AUX
+risposto	VERB
+?	PUNCT
+
+Sentence ID: 391
+Sentence: Quando l'Austria ha firmato il trattato?
+POS:
+Quando	SCONJ
+l'	DET
+Austria	PROPN
+ha	AUX
+firmato	VERB
+il	DET
+trattato	NOUN
+?	PUNCT
+
+Sentence ID: 392
+Sentence: Con le accuse di peculato e abuso d'ufficio, il procuratore capo di Cassino, Mario Mercone, ha chiesto il rinvio a giudizio dell'ex consigliere regionale del Pdl Angelo D'Ovidio, sindaco di Pastena per oltre venti anni, in relazione all'incarico di commissario del Consorzio per il patrimonio speleologico delle grotte di Pastena e Collepardo, costituito tra i due Comuni della Ciociaria.
+POS:
+Con	ADP
+le	DET
+accuse	NOUN
+di	ADP
+peculato	NOUN
+e	CCONJ
+abuso	NOUN
+d'	ADP
+ufficio	NOUN
+,	PUNCT
+il	DET
+procuratore	NOUN
+capo	NOUN
+di	ADP
+Cassino	PROPN
+,	PUNCT
+Mario	PROPN
+Mercone	PROPN
+,	PUNCT
+ha	AUX
+chiesto	VERB
+il	DET
+rinvio	NOUN
+a	ADP
+giudizio	NOUN
+dell'	_
+di	ADP
+l'	DET
+ex	ADJ
+consigliere	NOUN
+regionale	ADJ
+del	_
+di	ADP
+il	DET
+Pdl	PROPN
+Angelo	PROPN
+D'	PROPN
+Ovidio	PROPN
+,	PUNCT
+sindaco	NOUN
+di	ADP
+Pastena	PROPN
+per	ADP
+oltre	ADV
+venti	NUM
+anni	NOUN
+,	PUNCT
+in	ADP
+relazione	NOUN
+all'	_
+a	ADP
+l'	DET
+incarico	NOUN
+di	ADP
+commissario	NOUN
+del	_
+di	ADP
+il	DET
+Consorzio	NOUN
+per	ADP
+il	DET
+patrimonio	NOUN
+speleologico	ADJ
+delle	_
+di	ADP
+le	DET
+grotte	NOUN
+di	ADP
+Pastena	PROPN
+e	CCONJ
+Collepardo	PROPN
+,	PUNCT
+costituito	VERB
+tra	ADP
+i	DET
+due	NUM
+Comuni	NOUN
+della	_
+di	ADP
+la	DET
+Ciociaria	PROPN
+.	PUNCT
+
+Sentence ID: 393
+Sentence: Tra gli indagati Francesco Rossi e Paolo Bianchi.
+POS:
+Tra	ADP
+gli	DET
+indagati	NOUN
+Francesco	PROPN
+Rossi	PROPN
+e	CCONJ
+Paolo	PROPN
+Bianchi	PROPN
+.	PUNCT
+
+Sentence ID: 394
+Sentence: Ma quei soldi, per i pm di Palermo, sono frutto di un reato, ed è per questo che Miranda Ratti, la moglie del politico siciliano, è stata iscritta nel registro degli indagati dalla procura di Palermo per riciclaggio aggravato nell'ambito dell'inchiesta sulla presunta estorsione che il fondatore di Forza Italia avrebbe fatto all'ex premier.
+POS:
+Ma	CCONJ
+quei	DET
+soldi	NOUN
+,	PUNCT
+per	ADP
+i	DET
+pm	NOUN
+di	ADP
+Palermo	PROPN
+,	PUNCT
+sono	AUX
+frutto	NOUN
+di	ADP
+un	DET
+reato	NOUN
+,	PUNCT
+ed	CCONJ
+è	AUX
+per	ADP
+questo	PRON
+che	PRON
+Miranda	PROPN
+Ratti	PROPN
+,	PUNCT
+la	DET
+moglie	NOUN
+del	_
+di	ADP
+il	DET
+politico	ADJ
+siciliano	NOUN
+,	PUNCT
+è	AUX
+stata	AUX
+iscritta	VERB
+nel	_
+in	ADP
+il	DET
+registro	NOUN
+degli	_
+di	ADP
+gli	DET
+indagati	NOUN
+dalla	_
+da	ADP
+la	DET
+procura	NOUN
+di	ADP
+Palermo	PROPN
+per	ADP
+riciclaggio	NOUN
+aggravato	VERB
+nell'	_
+in	ADP
+l'	DET
+ambito	NOUN
+dell'	_
+di	ADP
+l'	DET
+inchiesta	NOUN
+sulla	_
+su	ADP
+la	DET
+presunta	ADJ
+estorsione	NOUN
+che	PRON
+il	DET
+fondatore	NOUN
+di	ADP
+Forza	PROPN
+Italia	PROPN
+avrebbe	AUX
+fatto	VERB
+all'	_
+a	ADP
+l'	DET
+ex	ADJ
+premier	NOUN
+.	PUNCT
+
+Sentence ID: 395
+Sentence: Per l'ex ministro Scajola i pm napoletani ipotizzano il reato di corruzione internazionale.
+POS:
+Per	ADP
+l'	DET
+ex	ADJ
+ministro	NOUN
+Scajola	VERB
+i	DET
+pm	NOUN
+napoletani	ADJ
+ipotizzano	VERB
+il	DET
+reato	NOUN
+di	ADP
+corruzione	NOUN
+internazionale	ADJ
+.	PUNCT
+
+Sentence ID: 396
+Sentence: è già avvenuto in Lombardia, dove la crisi ha spinto la Regione a liberalizzare le promozioni non solo a dicembre ma tutto l'anno.
+POS:
+è	AUX
+già	ADV
+avvenuto	VERB
+in	ADP
+Lombardia	PROPN
+,	PUNCT
+dove	ADV
+la	DET
+crisi	NOUN
+ha	AUX
+spinto	VERB
+la	DET
+Regione	PROPN
+a	ADP
+liberalizzare	VERB
+le	DET
+promozioni	NOUN
+non	ADV
+solo	ADV
+a	ADP
+dicembre	NOUN
+ma	CCONJ
+tutto	PRON
+l'	DET
+anno	NOUN
+.	PUNCT
+
+Sentence ID: 397
+Sentence: prima che l'inchiesta colpisse addirittura il vertice di Finmeccanica, Giuseppe Orsi, indagato nell'ambito di un altro filone, poi trasferito da Napoli a Busto Arstizio.
+POS:
+prima	ADV
+che	SCONJ
+l'	DET
+inchiesta	NOUN
+colpisse	VERB
+addirittura	ADV
+il	DET
+vertice	NOUN
+di	ADP
+Finmeccanica	PROPN
+,	PUNCT
+Giuseppe	PROPN
+Orsi	PROPN
+,	PUNCT
+indagato	VERB
+nell'	_
+in	ADP
+l'	DET
+ambito	NOUN
+di	ADP
+un	DET
+altro	ADJ
+filone	NOUN
+,	PUNCT
+poi	ADV
+trasferito	VERB
+da	ADP
+Napoli	PROPN
+a	ADP
+Busto	PROPN
+Arstizio	PROPN
+.	PUNCT
+
+Sentence ID: 398
+Sentence: E non dimentichiamo che secondo Borgogni è stata assunta anche la figlia di Massimo Ponzellini.
+POS:
+E	CCONJ
+non	ADV
+dimentichiamo	VERB
+che	SCONJ
+secondo	ADP
+Borgogni	PROPN
+è	AUX
+stata	AUX
+assunta	VERB
+anche	ADV
+la	DET
+figlia	NOUN
+di	ADP
+Massimo	PROPN
+Ponzellini	PROPN
+.	PUNCT
+
+Sentence ID: 399
+Sentence: Altre tre persone, tra cui Marco Tornatore, figlio di Gianfranco, sono indagate a piede libero.
+POS:
+Altre	DET
+tre	NUM
+persone	NOUN
+,	PUNCT
+tra	ADP
+cui	PRON
+Marco	PROPN
+Tornatore	PROPN
+,	PUNCT
+figlio	NOUN
+di	ADP
+Gianfranco	PROPN
+,	PUNCT
+sono	AUX
+indagate	VERB
+a	ADP
+piede	NOUN
+libero	ADJ
+.	PUNCT
+
+Sentence ID: 400
+Sentence: Emergono intercettazioni in cui il manager Pozzessere al telefono con una delle consulenti di Finmeccanica, Debbie Castaneda, parla con disinvoltura di accordi e di quote.
+POS:
+Emergono	VERB
+intercettazioni	NOUN
+in	ADP
+cui	PRON
+il	DET
+manager	NOUN
+Pozzessere	PROPN
+al	_
+a	ADP
+il	DET
+telefono	NOUN
+con	ADP
+una	PRON
+delle	_
+di	ADP
+le	DET
+consulenti	NOUN
+di	ADP
+Finmeccanica	PROPN
+,	PUNCT
+Debbie	PROPN
+Castaneda	PROPN
+,	PUNCT
+parla	VERB
+con	ADP
+disinvoltura	NOUN
+di	ADP
+accordi	NOUN
+e	CCONJ
+di	ADP
+quote	NOUN
+.	PUNCT
+
+Sentence ID: 401
+Sentence: “Nell’incidente ha sbattuto la parte destra della testa.
+POS:
+“	PUNCT
+Nell’	_
+In	ADP
+l’	DET
+incidente	NOUN
+ha	AUX
+sbattuto	VERB
+la	DET
+parte	NOUN
+destra	ADJ
+della	_
+di	ADP
+la	DET
+testa	NOUN
+.	PUNCT
+
+Sentence ID: 402
+Sentence: Non possiamo però speculare su eventuali lesioni permanenti o sulle sue chance di sopravvivenza.
+POS:
+Non	ADV
+possiamo	AUX
+però	ADV
+speculare	VERB
+su	ADP
+eventuali	ADJ
+lesioni	NOUN
+permanenti	ADJ
+o	CCONJ
+sulle	_
+su	ADP
+le	DET
+sue	DET
+chance	NOUN
+di	ADP
+sopravvivenza	NOUN
+.	PUNCT
+
+Sentence ID: 403
+Sentence: Certo, – ha sottolineato Bergoglio – chi è investito di autorità ha maggiore responsabilità, ma ciascuno è corresponsabile, nel bene e nel male”.
+POS:
+Certo	ADV
+,	PUNCT
+–	PUNCT
+ha	AUX
+sottolineato	VERB
+Bergoglio	PROPN
+–	PUNCT
+chi	PRON
+è	AUX
+investito	VERB
+di	ADP
+autorità	NOUN
+ha	VERB
+maggiore	ADJ
+responsabilità	NOUN
+,	PUNCT
+ma	CCONJ
+ciascuno	PRON
+è	AUX
+corresponsabile	ADJ
+,	PUNCT
+nel	_
+in	ADP
+il	DET
+bene	NOUN
+e	CCONJ
+nel	_
+in	ADP
+il	DET
+male	NOUN
+”	PUNCT
+.	PUNCT
+
+Sentence ID: 404
+Sentence: Le ricerche dei bambini, quindi, sono proseguite tutta la notte e, oltre ai cani molecolari, sono stati utilizzati anche un elicottero della forestale e uno della Guardia di finanza che hanno pattugliato la zona dall’alto.
+POS:
+Le	DET
+ricerche	NOUN
+dei	_
+di	ADP
+i	DET
+bambini	NOUN
+,	PUNCT
+quindi	ADV
+,	PUNCT
+sono	AUX
+proseguite	VERB
+tutta	DET
+la	DET
+notte	NOUN
+e	CCONJ
+,	PUNCT
+oltre	ADV
+ai	_
+a	ADP
+i	DET
+cani	NOUN
+molecolari	ADJ
+,	PUNCT
+sono	AUX
+stati	AUX
+utilizzati	VERB
+anche	ADV
+un	DET
+elicottero	NOUN
+della	_
+di	ADP
+la	DET
+forestale	NOUN
+e	CCONJ
+uno	PRON
+della	_
+di	ADP
+la	DET
+Guardia	NOUN
+di	ADP
+finanza	NOUN
+che	PRON
+hanno	AUX
+pattugliato	VERB
+la	DET
+zona	NOUN
+dall’	_
+da	ADP
+l’	DET
+alto	ADJ
+.	PUNCT
+
+Sentence ID: 405
+Sentence: Fiat acquisirà restante 41,46% di Chrysler per 3,6 miliardi.
+POS:
+Fiat	PROPN
+acquisirà	VERB
+restante	VERB
+41,46	NUM
+%	SYM
+di	ADP
+Chrysler	PROPN
+per	ADP
+3,6	NUM
+miliardi	NOUN
+.	PUNCT
+
+Sentence ID: 406
+Sentence: Dello stesso tenore il commento del sindaco di Torino Piero Fassino:
+POS:
+Dello	_
+Di	ADP
+lo	DET
+stesso	ADJ
+tenore	NOUN
+il	DET
+commento	NOUN
+del	_
+di	ADP
+il	DET
+sindaco	NOUN
+di	ADP
+Torino	PROPN
+Piero	PROPN
+Fassino	PROPN
+:	PUNCT
+
+Sentence ID: 407
+Sentence: Francamente vorrei cose più serie per iniziare il 2014 ″, aggiunge.
+POS:
+Francamente	ADV
+vorrei	AUX
+cose	NOUN
+più	ADV
+serie	ADJ
+per	ADP
+iniziare	VERB
+il	DET
+2014	NUM
+″	PUNCT
+,	PUNCT
+aggiunge	VERB
+.	PUNCT
+
+Sentence ID: 408
+Sentence: Altri utenti, invece, si sono profusi in una serie di apprezzamenti all’iniziativa di Grillo.
+POS:
+Altri	ADJ
+utenti	NOUN
+,	PUNCT
+invece	ADV
+,	PUNCT
+si	PRON
+sono	AUX
+profusi	VERB
+in	ADP
+una	DET
+serie	NOUN
+di	ADP
+apprezzamenti	NOUN
+all’	_
+a	ADP
+l’	DET
+iniziativa	NOUN
+di	ADP
+Grillo	PROPN
+.	PUNCT
+
+Sentence ID: 409
+Sentence: Attribuzione - Condividi allo stesso modo 2.0 (Italia).
+POS:
+Attribuzione	NOUN
+-	PUNCT
+Condividi	NOUN
+allo	_
+a	ADP
+lo	DET
+stesso	ADJ
+modo	NOUN
+2.0	NUM
+(	PUNCT
+Italia	PROPN
+)	PUNCT
+.	PUNCT
+
+Sentence ID: 410
+Sentence: Ogni utilizzazione dell'opera che non sia autorizzata ai sensi della presente licenza o del diritto d'autore è proibita.
+POS:
+Ogni	DET
+utilizzazione	NOUN
+dell'	_
+di	ADP
+l'	DET
+opera	NOUN
+che	PRON
+non	ADV
+sia	AUX
+autorizzata	VERB
+ai	_
+a	ADP
+i	DET
+sensi	NOUN
+della	_
+di	ADP
+la	DET
+presente	ADJ
+licenza	NOUN
+o	CCONJ
+del	_
+di	ADP
+il	DET
+diritto	NOUN
+d'	ADP
+autore	NOUN
+è	AUX
+proibita	VERB
+.	PUNCT
+
+Sentence ID: 411
+Sentence: Compensi per la comunicazione al pubblico dell'opera mediante fonogrammi.
+POS:
+Compensi	NOUN
+per	ADP
+la	DET
+comunicazione	NOUN
+al	_
+a	ADP
+il	DET
+pubblico	NOUN
+dell'	_
+di	ADP
+l'	DET
+opera	NOUN
+mediante	ADP
+fonogrammi	NOUN
+.	PUNCT
+
+Sentence ID: 412
+Sentence: Salvo che sia espressamente convenuto altrimenti per iscritto fra le parti, il Licenziante offre l'opera in licenza "così com'è" e non fornisce alcuna dichiarazione o garanzia di qualsiasi tipo con riguardo all'opera, sia essa espressa od implicita, di fonte legale o di altro tipo, essendo quindi escluse, fra le altre, le garanzie relative al titolo, alla commerciabilità, all'idoneità per un fine specifico e alla non violazione di diritti di terzi o alla mancanza di difetti latenti o di altro tipo, all'esattezza od alla presenza di errori, siano essi accertabili o meno.
+POS:
+Salvo	VERB
+che	SCONJ
+sia	AUX
+espressamente	ADV
+convenuto	VERB
+altrimenti	ADV
+per	ADP
+iscritto	NOUN
+fra	ADP
+le	DET
+parti	NOUN
+,	PUNCT
+il	DET
+Licenziante	PROPN
+offre	VERB
+l'	DET
+opera	NOUN
+in	ADP
+licenza	NOUN
+"	PUNCT
+così	ADV
+com'	SCONJ
+è	AUX
+"	PUNCT
+e	CCONJ
+non	ADV
+fornisce	VERB
+alcuna	DET
+dichiarazione	NOUN
+o	CCONJ
+garanzia	NOUN
+di	ADP
+qualsiasi	DET
+tipo	NOUN
+con	ADP
+riguardo	NOUN
+all'	_
+a	ADP
+l'	DET
+opera	NOUN
+,	PUNCT
+sia	AUX
+essa	PRON
+espressa	VERB
+od	CCONJ
+implicita	VERB
+,	PUNCT
+di	ADP
+fonte	NOUN
+legale	ADJ
+o	CCONJ
+di	ADP
+altro	ADJ
+tipo	NOUN
+,	PUNCT
+essendo	AUX
+quindi	ADV
+escluse	VERB
+,	PUNCT
+fra	ADP
+le	DET
+altre	PRON
+,	PUNCT
+le	DET
+garanzie	NOUN
+relative	ADJ
+al	_
+a	ADP
+il	DET
+titolo	NOUN
+,	PUNCT
+alla	_
+a	ADP
+la	DET
+commerciabilità	NOUN
+,	PUNCT
+all'	_
+a	ADP
+l'	DET
+idoneità	NOUN
+per	ADP
+un	DET
+fine	NOUN
+specifico	ADJ
+e	CCONJ
+alla	_
+a	ADP
+la	DET
+non	ADV
+violazione	NOUN
+di	ADP
+diritti	NOUN
+di	ADP
+terzi	NOUN
+o	CCONJ
+alla	_
+a	ADP
+la	DET
+mancanza	NOUN
+di	ADP
+difetti	NOUN
+latenti	ADJ
+o	CCONJ
+di	ADP
+altro	ADJ
+tipo	NOUN
+,	PUNCT
+all'	_
+a	ADP
+l'	DET
+esattezza	NOUN
+od	CCONJ
+alla	_
+a	ADP
+la	DET
+presenza	NOUN
+di	ADP
+errori	NOUN
+,	PUNCT
+siano	AUX
+essi	PRON
+accertabili	VERB
+o	CCONJ
+meno	ADV
+.	PUNCT
+
+Sentence ID: 413
+Sentence: Creative Commons non è parte della presente licenza e non dà alcuna garanzia connessa all'opera.
+POS:
+Creative	ADJ
+Commons	PROPN
+non	ADV
+è	AUX
+parte	NOUN
+della	_
+di	ADP
+la	DET
+presente	ADJ
+licenza	NOUN
+e	CCONJ
+non	ADV
+dà	VERB
+alcuna	DET
+garanzia	NOUN
+connessa	VERB
+all'	_
+a	ADP
+l'	DET
+opera	NOUN
+.	PUNCT
+
+Sentence ID: 414
+Sentence: Secondo me, questa seconda ipotesi significherebbe rinunciare alle nostre responsabilità di parlamento, oltre a introdurre una tesi originale, un metodo finora sconosciuto che consiste nel distribuire per iscritto ai gruppi politici il discorso programmatico della commissione una settimana prima - e non il giorno prima, come era stato concordato.
+POS:
+Secondo	ADP
+me	PRON
+,	PUNCT
+questa	DET
+seconda	ADJ
+ipotesi	NOUN
+significherebbe	VERB
+rinunciare	VERB
+alle	_
+a	ADP
+le	DET
+nostre	DET
+responsabilità	NOUN
+di	ADP
+parlamento	NOUN
+,	PUNCT
+oltre	ADV
+a	ADP
+introdurre	VERB
+una	DET
+tesi	NOUN
+originale	ADJ
+,	PUNCT
+un	DET
+metodo	NOUN
+finora	ADV
+sconosciuto	ADJ
+che	PRON
+consiste	VERB
+nel	_
+in	ADP
+il	DET
+distribuire	VERB
+per	ADP
+iscritto	NOUN
+ai	_
+a	ADP
+i	DET
+gruppi	NOUN
+politici	ADJ
+il	DET
+discorso	NOUN
+programmatico	ADJ
+della	_
+di	ADP
+la	DET
+commissione	NOUN
+una	DET
+settimana	NOUN
+prima	ADV
+-	PUNCT
+e	CCONJ
+non	ADV
+il	DET
+giorno	NOUN
+prima	ADV
+,	PUNCT
+come	SCONJ
+era	AUX
+stato	AUX
+concordato	VERB
+.	PUNCT
+
+Sentence ID: 415
+Sentence: Come è noto, ciascun presidente dispone di un numero di voti pari al numero dei deputati iscritti al proprio gruppo politico.
+POS:
+Come	SCONJ
+è	AUX
+noto	ADJ
+,	PUNCT
+ciascun	DET
+presidente	NOUN
+dispone	VERB
+di	ADP
+un	DET
+numero	NOUN
+di	ADP
+voti	NOUN
+pari	ADJ
+al	_
+a	ADP
+il	DET
+numero	NOUN
+dei	_
+di	ADP
+i	DET
+deputati	NOUN
+iscritti	VERB
+al	_
+a	ADP
+il	DET
+proprio	DET
+gruppo	NOUN
+politico	ADJ
+.	PUNCT
+
+Sentence ID: 416
+Sentence: Ciò significa che tutti i gruppi politici, ad eccezione dei non iscritti - che però non costituiscono un gruppo politico -, erano concordi e che un solo gruppo era del parere di procedere come proposto dal collega in questa sede.
+POS:
+Ciò	PRON
+significa	VERB
+che	SCONJ
+tutti	DET
+i	DET
+gruppi	NOUN
+politici	ADJ
+,	PUNCT
+ad	ADP
+eccezione	NOUN
+dei	_
+di	ADP
+i	DET
+non	ADV
+iscritti	ADJ
+-	PUNCT
+che	PRON
+però	ADV
+non	ADV
+costituiscono	VERB
+un	DET
+gruppo	NOUN
+politico	ADJ
+-	PUNCT
+,	PUNCT
+erano	AUX
+concordi	ADJ
+e	CCONJ
+che	PRON
+un	DET
+solo	ADJ
+gruppo	NOUN
+era	AUX
+del	_
+di	ADP
+il	DET
+parere	NOUN
+di	ADP
+procedere	VERB
+come	SCONJ
+proposto	VERB
+dal	_
+da	ADP
+il	DET
+collega	NOUN
+in	ADP
+questa	DET
+sede	NOUN
+.	PUNCT
+
+Sentence ID: 417
+Sentence: Di recente il tema della sicurezza dei trasporti è stato tristemente al centro dell'attenzione dei mass media con l'incidente ferroviario alla stazione di Paddington a Londra, il terribile incidente ferroviario in Norvegia, i due incidenti aerei in cui hanno perso la vita alcuni cittadini dell'unione e il disastro ecologico provocato dalla petroliera Erika al largo della costa bretone.
+POS:
+Di	ADP
+recente	ADJ
+il	DET
+tema	NOUN
+della	_
+di	ADP
+la	DET
+sicurezza	NOUN
+dei	_
+di	ADP
+i	DET
+trasporti	NOUN
+è	AUX
+stato	AUX
+tristemente	ADV
+al	_
+a	ADP
+il	DET
+centro	NOUN
+dell'	_
+di	ADP
+l'	DET
+attenzione	NOUN
+dei	_
+di	ADP
+i	DET
+mass	NOUN
+media	ADJ
+con	ADP
+l'	DET
+incidente	NOUN
+ferroviario	ADJ
+alla	_
+a	ADP
+la	DET
+stazione	NOUN
+di	ADP
+Paddington	PROPN
+a	ADP
+Londra	PROPN
+,	PUNCT
+il	DET
+terribile	ADJ
+incidente	NOUN
+ferroviario	ADJ
+in	ADP
+Norvegia	PROPN
+,	PUNCT
+i	DET
+due	NUM
+incidenti	NOUN
+aerei	AUX
+in	ADP
+cui	PRON
+hanno	AUX
+perso	VERB
+la	DET
+vita	NOUN
+alcuni	DET
+cittadini	NOUN
+dell'	_
+di	ADP
+l'	DET
+unione	NOUN
+e	CCONJ
+il	DET
+disastro	NOUN
+ecologico	ADJ
+provocato	VERB
+dalla	_
+da	ADP
+la	DET
+petroliera	NOUN
+Erika	PROPN
+al	_
+a	ADP
+il	DET
+largo	NOUN
+della	_
+di	ADP
+la	DET
+costa	NOUN
+bretone	ADJ
+.	PUNCT
+
+Sentence ID: 418
+Sentence: Credo tuttavia che occorra fare tutto ciò che rientra nelle nostre possibilità per limitare il più possibile il trasporto di merci pericolose in tutti i paesi, siano essi di transito o meno.
+POS:
+Credo	VERB
+tuttavia	ADV
+che	SCONJ
+occorra	VERB
+fare	VERB
+tutto	DET
+ciò	PRON
+che	PRON
+rientra	VERB
+nelle	_
+in	ADP
+le	DET
+nostre	DET
+possibilità	NOUN
+per	ADP
+limitare	VERB
+il	DET
+più	ADV
+possibile	ADJ
+il	DET
+trasporto	NOUN
+di	ADP
+merci	NOUN
+pericolose	ADJ
+in	ADP
+tutti	DET
+i	DET
+paesi	NOUN
+,	PUNCT
+siano	AUX
+essi	PRON
+di	ADP
+transito	NOUN
+o	CCONJ
+meno	ADV
+.	PUNCT
+
+Sentence ID: 419
+Sentence: Spero che la mia proposta venga presa in considerazione nel corso della votazione di domani.
+POS:
+Spero	VERB
+che	SCONJ
+la	DET
+mia	DET
+proposta	NOUN
+venga	AUX
+presa	VERB
+in	ADP
+considerazione	NOUN
+nel	_
+in	ADP
+il	DET
+corso	NOUN
+della	_
+di	ADP
+la	DET
+votazione	NOUN
+di	ADP
+domani	ADV
+.	PUNCT
+
+Sentence ID: 420
+Sentence: Vorrei chiedere alla vicepresidente se oggi è in grado di dirci qualcosa sullo stato di avanzamento degli sforzi di armonizzazione da parte delle due organizzazioni summenzionate e se l'Unione Europea ha la possibilità di accelerare l'armonizzazione adottando principi il più possibile semplici.
+POS:
+Vorrei	AUX
+chiedere	VERB
+alla	_
+a	ADP
+la	DET
+vicepresidente	NOUN
+se	SCONJ
+oggi	ADV
+è	AUX
+in	ADP
+grado	NOUN
+di	ADP
+dirci	_
+dir	VERB
+ci	PRON
+qualcosa	PRON
+sullo	_
+su	ADP
+lo	DET
+stato	NOUN
+di	ADP
+avanzamento	NOUN
+degli	_
+di	ADP
+gli	DET
+sforzi	NOUN
+di	ADP
+armonizzazione	NOUN
+da	ADP
+parte	NOUN
+delle	_
+di	ADP
+le	DET
+due	NUM
+organizzazioni	NOUN
+summenzionate	ADJ
+e	CCONJ
+se	SCONJ
+l'	DET
+Unione	PROPN
+Europea	PROPN
+ha	VERB
+la	DET
+possibilità	NOUN
+di	ADP
+accelerare	VERB
+l'	DET
+armonizzazione	NOUN
+adottando	VERB
+principi	NOUN
+il	DET
+più	ADV
+possibile	ADJ
+semplici	ADJ
+.	PUNCT
+
+Sentence ID: 421
+Sentence: Sono stati inseriti numerosissimi dettagli, che erano emersi già nelle relazioni precedenti.
+POS:
+Sono	AUX
+stati	AUX
+inseriti	VERB
+numerosissimi	DET
+dettagli	NOUN
+,	PUNCT
+che	PRON
+erano	AUX
+emersi	VERB
+già	ADV
+nelle	_
+in	ADP
+le	DET
+relazioni	NOUN
+precedenti	ADJ
+.	PUNCT
+
+Sentence ID: 422
+Sentence: si tratta di una lunga storia, che si trascina almeno da quando sono stato eletto al parlamento, cinque anni fa, tant ' è vero che ho già trattato questo argomento a più riprese.
+POS:
+si	PRON
+tratta	VERB
+di	ADP
+una	DET
+lunga	ADJ
+storia	NOUN
+,	PUNCT
+che	PRON
+si	PRON
+trascina	VERB
+almeno	ADV
+da	ADP
+quando	SCONJ
+sono	AUX
+stato	AUX
+eletto	VERB
+al	_
+a	ADP
+il	DET
+parlamento	NOUN
+,	PUNCT
+cinque	NUM
+anni	NOUN
+fa	ADV
+,	PUNCT
+tant	PROPN
+'	PUNCT
+è	AUX
+vero	ADJ
+che	SCONJ
+ho	AUX
+già	ADV
+trattato	VERB
+questo	DET
+argomento	NOUN
+a	ADP
+più	ADV
+riprese	VERB
+.	PUNCT
+
+Sentence ID: 423
+Sentence: Signor presidente, anch'io mi voglio complimentare con il relatore per l'ottimo lavoro svolto.
+POS:
+Signor	NOUN
+presidente	NOUN
+,	PUNCT
+anch'	ADV
+io	PRON
+mi	PRON
+voglio	AUX
+complimentare	VERB
+con	ADP
+il	DET
+relatore	NOUN
+per	ADP
+l'	DET
+ottimo	ADJ
+lavoro	NOUN
+svolto	VERB
+.	PUNCT
+
+Sentence ID: 424
+Sentence: Ogni individuo ha diritto di lasciare qualsiasi paese, incluso il proprio, e di ritornare nel proprio paese.
+POS:
+Ogni	DET
+individuo	NOUN
+ha	VERB
+diritto	NOUN
+di	ADP
+lasciare	VERB
+qualsiasi	DET
+paese	NOUN
+,	PUNCT
+incluso	VERB
+il	DET
+proprio	NOUN
+,	PUNCT
+e	CCONJ
+di	ADP
+ritornare	VERB
+nel	_
+in	ADP
+il	DET
+proprio	DET
+paese	NOUN
+.	PUNCT
+
+Sentence ID: 425
+Sentence: Uomini e donne in età adatta hanno il diritto di sposarsi e di fondare una famiglia, senza alcuna limitazione di razza, cittadinanza o religione.
+POS:
+Uomini	NOUN
+e	CCONJ
+donne	NOUN
+in	ADP
+età	NOUN
+adatta	ADJ
+hanno	VERB
+il	DET
+diritto	NOUN
+di	ADP
+sposarsi	_
+sposar	VERB
+si	PRON
+e	CCONJ
+di	ADP
+fondare	VERB
+una	DET
+famiglia	NOUN
+,	PUNCT
+senza	ADP
+alcuna	DET
+limitazione	NOUN
+di	ADP
+razza	NOUN
+,	PUNCT
+cittadinanza	NOUN
+o	CCONJ
+religione	NOUN
+.	PUNCT
+
+Sentence ID: 426
+Sentence: In questo modo sono aumentate le opportunità di diffusione e l'azienda ha sviluppato una campagna pubblicitaria vincente.
+POS:
+In	ADP
+questo	DET
+modo	NOUN
+sono	AUX
+aumentate	VERB
+le	DET
+opportunità	NOUN
+di	ADP
+diffusione	NOUN
+e	CCONJ
+l'	DET
+azienda	NOUN
+ha	AUX
+sviluppato	VERB
+una	DET
+campagna	NOUN
+pubblicitaria	ADJ
+vincente	VERB
+.	PUNCT
+
+Sentence ID: 427
+Sentence: Per rivolgersi ai destinatari interessati, Ana ha usato un insieme di parole chiave che si rivolgeva agli amanti dei viaggi e della cultura giapponese, sviluppando poi contenuti creativi adatti a catturare l'attenzione dei destinatari.
+POS:
+Per	ADP
+rivolgersi	_
+rivolger	VERB
+si	PRON
+ai	_
+a	ADP
+i	DET
+destinatari	NOUN
+interessati	ADJ
+,	PUNCT
+Ana	PROPN
+ha	AUX
+usato	VERB
+un	DET
+insieme	NOUN
+di	ADP
+parole	NOUN
+chiave	ADJ
+che	PRON
+si	PRON
+rivolgeva	VERB
+agli	_
+a	ADP
+gli	DET
+amanti	NOUN
+dei	_
+di	ADP
+i	DET
+viaggi	NOUN
+e	CCONJ
+della	_
+di	ADP
+la	DET
+cultura	NOUN
+giapponese	ADJ
+,	PUNCT
+sviluppando	VERB
+poi	ADV
+contenuti	NOUN
+creativi	ADJ
+adatti	ADJ
+a	ADP
+catturare	VERB
+l'	DET
+attenzione	NOUN
+dei	_
+di	ADP
+i	DET
+destinatari	NOUN
+.	PUNCT
+
+Sentence ID: 428
+Sentence: Se non vedi il pulsante, non puoi attivare la ricezione degli aggiornamenti.
+POS:
+Se	SCONJ
+non	ADV
+vedi	VERB
+il	DET
+pulsante	NOUN
+,	PUNCT
+non	ADV
+puoi	AUX
+attivare	VERB
+la	DET
+ricezione	NOUN
+degli	_
+di	ADP
+gli	DET
+aggiornamenti	NOUN
+.	PUNCT
+
+Sentence ID: 429
+Sentence: Hai già una Pagina Facebook?
+POS:
+Hai	VERB
+già	ADV
+una	DET
+Pagina	PROPN
+Facebook	PROPN
+?	PUNCT
+
+Sentence ID: 430
+Sentence: " era sicuramente consapevole in modo distaccato di essere stata data a un vecchio marito come ricompensa per i servizi professionali di quest'ultimo a un amico della sua famiglia e che il capitale proveniva dalla sua parte.
+POS:
+"	PUNCT
+era	AUX
+sicuramente	ADV
+consapevole	ADJ
+in	ADP
+modo	NOUN
+distaccato	VERB
+di	ADP
+essere	AUX
+stata	AUX
+data	VERB
+a	ADP
+un	DET
+vecchio	ADJ
+marito	NOUN
+come	ADP
+ricompensa	NOUN
+per	ADP
+i	DET
+servizi	NOUN
+professionali	ADJ
+di	ADP
+quest'	DET
+ultimo	NOUN
+a	ADP
+un	DET
+amico	NOUN
+della	_
+di	ADP
+la	DET
+sua	DET
+famiglia	NOUN
+e	CCONJ
+che	SCONJ
+il	DET
+capitale	NOUN
+proveniva	VERB
+dalla	_
+da	ADP
+la	DET
+sua	DET
+parte	NOUN
+.	PUNCT
+
+Sentence ID: 431
+Sentence: Pianificò di divenire lui stesso questo candidato, facendo appello soprattutto alle classi più elevate di Chinon.
+POS:
+Pianificò	VERB
+di	ADP
+divenire	VERB
+lui	PRON
+stesso	ADJ
+questo	DET
+candidato	NOUN
+,	PUNCT
+facendo	VERB
+appello	NOUN
+soprattutto	ADV
+alle	_
+a	ADP
+le	DET
+classi	NOUN
+più	ADV
+elevate	ADJ
+di	ADP
+Chinon	PROPN
+.	PUNCT
+
+Sentence ID: 432
+Sentence: Nonostante Balzac fosse " talvolta un eremita e un girovago ", ha sempre provato a rimanere in contatto con la società che forniva materiale per il suo lavoro.
+POS:
+Nonostante	ADP
+Balzac	PROPN
+fosse	AUX
+"	PUNCT
+talvolta	ADV
+un	DET
+eremita	NOUN
+e	CCONJ
+un	DET
+girovago	NOUN
+"	PUNCT
+,	PUNCT
+ha	AUX
+sempre	ADV
+provato	VERB
+a	ADP
+rimanere	VERB
+in	ADP
+contatto	NOUN
+con	ADP
+la	DET
+società	NOUN
+che	PRON
+forniva	VERB
+materiale	NOUN
+per	ADP
+il	DET
+suo	DET
+lavoro	NOUN
+.	PUNCT
+
+Sentence ID: 433
+Sentence: La salute di lui peggiorò lungo il cammino, e Ewelina scrisse a sua figlia che Balzac era " in uno stato di estrema debolezza " e " sudava copiosamente ".
+POS:
+La	DET
+salute	NOUN
+di	ADP
+lui	PRON
+peggiorò	VERB
+lungo	ADP
+il	DET
+cammino	NOUN
+,	PUNCT
+e	CCONJ
+Ewelina	PROPN
+scrisse	VERB
+a	ADP
+sua	DET
+figlia	NOUN
+che	PRON
+Balzac	PROPN
+era	AUX
+"	PUNCT
+in	ADP
+uno	DET
+stato	NOUN
+di	ADP
+estrema	ADJ
+debolezza	NOUN
+"	PUNCT
+e	CCONJ
+"	PUNCT
+sudava	VERB
+copiosamente	ADV
+"	PUNCT
+.	PUNCT
+
+Sentence ID: 434
+Sentence: Sua madre era la sola persona presente quando egli spirò;
+POS:
+Sua	DET
+madre	NOUN
+era	AUX
+la	DET
+sola	ADJ
+persona	NOUN
+presente	ADJ
+quando	SCONJ
+egli	PRON
+spirò	VERB
+;	PUNCT
+
+Sentence ID: 435
+Sentence: Come fece con la gente attorno a sè, Balzac studiò in profondità quei luoghi, viaggiando in luoghi remoti e prendendo nota di ciò che aveva fatto nelle visite precedenti.
+POS:
+Come	ADV
+fece	VERB
+con	ADP
+la	DET
+gente	NOUN
+attorno	ADV
+a	ADP
+sè	PRON
+,	PUNCT
+Balzac	PROPN
+studiò	VERB
+in	ADP
+profondità	NOUN
+quei	DET
+luoghi	NOUN
+,	PUNCT
+viaggiando	VERB
+in	ADP
+luoghi	NOUN
+remoti	ADJ
+e	CCONJ
+prendendo	VERB
+nota	NOUN
+di	ADP
+ciò	PRON
+che	PRON
+aveva	AUX
+fatto	VERB
+nelle	_
+in	ADP
+le	DET
+visite	NOUN
+precedenti	ADJ
+.	PUNCT
+
+Sentence ID: 436
+Sentence: " l'artista della Comédie Humaine ", egli scrisse, " è semi-sommerso dallo storico.
+POS:
+"	PUNCT
+l'	DET
+artista	NOUN
+della	_
+di	ADP
+la	DET
+Comédie	PROPN
+Humaine	PROPN
+"	PUNCT
+,	PUNCT
+egli	PRON
+scrisse	VERB
+,	PUNCT
+"	PUNCT
+è	AUX
+semi	ADJ
+-	PUNCT
+sommerso	VERB
+dallo	_
+da	ADP
+lo	DET
+storico	NOUN
+.	PUNCT
+
+Sentence ID: 437
+Sentence: " Balzac ricevette alti elogi da critici così diversi come Walter Benjamin e Camille Paglia.
+POS:
+"	PUNCT
+Balzac	PROPN
+ricevette	VERB
+alti	ADJ
+elogi	NOUN
+da	ADP
+critici	NOUN
+così	ADV
+diversi	ADJ
+come	ADP
+Walter	PROPN
+Benjamin	PROPN
+e	CCONJ
+Camille	PROPN
+Paglia	PROPN
+.	PUNCT
+
+Sentence ID: 438
+Sentence: L'epitaffio inciso sulla lastra di roccia che copre la tomba racchiude una maledizione su chiunque oserà spostare le sue ossa, cosa che venne accuratamente evitata durante i lavori di restauro della chiesa nel 2008.
+POS:
+L'	DET
+epitaffio	NOUN
+inciso	VERB
+sulla	_
+su	ADP
+la	DET
+lastra	NOUN
+di	ADP
+roccia	NOUN
+che	PRON
+copre	VERB
+la	DET
+tomba	NOUN
+racchiude	VERB
+una	DET
+maledizione	NOUN
+su	ADP
+chiunque	PRON
+oserà	AUX
+spostare	VERB
+le	DET
+sue	DET
+ossa	NOUN
+,	PUNCT
+cosa	PRON
+che	PRON
+venne	AUX
+accuratamente	ADV
+evitata	VERB
+durante	ADP
+i	DET
+lavori	NOUN
+di	ADP
+restauro	NOUN
+della	_
+di	ADP
+la	DET
+chiesa	NOUN
+nel	_
+in	ADP
+il	DET
+2008	NUM
+.	PUNCT
+
+Sentence ID: 439
+Sentence: Shakespeare collaborò ad altre due opere ancora oggi conosciute, Enrico VIII e i due nobili congiunti, probabilmente con John Fletcher.
+POS:
+Shakespeare	PROPN
+collaborò	VERB
+ad	ADP
+altre	DET
+due	NUM
+opere	NOUN
+ancora	ADV
+oggi	ADV
+conosciute	VERB
+,	PUNCT
+Enrico	PROPN
+VIII	ADJ
+e	CCONJ
+i	DET
+due	NUM
+nobili	ADJ
+congiunti	NOUN
+,	PUNCT
+probabilmente	ADV
+con	ADP
+John	PROPN
+Fletcher.	PROPN
+
+Sentence ID: 440
+Sentence: mamma infelice, tutti infelici.
+POS:
+mamma	NOUN
+infelice	ADJ
+,	PUNCT
+tutti	PRON
+infelici	ADJ
+.	PUNCT
+
+Sentence ID: 441
+Sentence: Queste aziende introducono infatti nuove importazioni tecnologicamente avanzate e nuove tecniche gestionali che incoraggiano la crescita delle aziende nazionali, esortando dall'altra parte il processo di modernizzazione industriale.
+POS:
+Queste	DET
+aziende	NOUN
+introducono	VERB
+infatti	ADV
+nuove	ADJ
+importazioni	NOUN
+tecnologicamente	ADV
+avanzate	ADJ
+e	CCONJ
+nuove	ADJ
+tecniche	NOUN
+gestionali	ADJ
+che	PRON
+incoraggiano	VERB
+la	DET
+crescita	NOUN
+delle	_
+di	ADP
+le	DET
+aziende	NOUN
+nazionali	ADJ
+,	PUNCT
+esortando	VERB
+dall'	_
+da	ADP
+l'	DET
+altra	ADJ
+parte	NOUN
+il	DET
+processo	NOUN
+di	ADP
+modernizzazione	NOUN
+industriale	ADJ
+.	PUNCT
+
+Sentence ID: 442
+Sentence: I farmaci, per quanto accessibili, non hanno alcun valore se non c'è nessuno a prescriverli o a somministrarli.
+POS:
+I	DET
+farmaci	NOUN
+,	PUNCT
+per	ADP
+quanto	ADV
+accessibili	ADJ
+,	PUNCT
+non	ADV
+hanno	VERB
+alcun	DET
+valore	NOUN
+se	SCONJ
+non	ADV
+c'	PRON
+è	VERB
+nessuno	PRON
+a	ADP
+prescriverli	_
+prescriver	VERB
+li	PRON
+o	CCONJ
+a	ADP
+somministrarli	_
+somministrar	VERB
+li	PRON
+.	PUNCT
+
+Sentence ID: 443
+Sentence: Feb 26, 2014.
+POS:
+Feb	PROPN
+26	NUM
+,	PUNCT
+2014	NUM
+.	PUNCT
+
+Sentence ID: 444
+Sentence: Anche in questo caso, la Germania dovrebbe prendere il comando.
+POS:
+Anche	ADV
+in	ADP
+questo	DET
+caso	NOUN
+,	PUNCT
+la	DET
+Germania	PROPN
+dovrebbe	AUX
+prendere	VERB
+il	DET
+comando	NOUN
+.	PUNCT
+
+Sentence ID: 445
+Sentence: restando impantanata nella carenza di risparmio ma ritrovandosi senza prodotti né capitali cinesi, l'America rischia di andare incontro a un aumento dell'inflazione e dei tassi di interesse, e a un indebolimento del dollaro.
+POS:
+restando	VERB
+impantanata	VERB
+nella	_
+in	ADP
+la	DET
+carenza	NOUN
+di	ADP
+risparmio	NOUN
+ma	CCONJ
+ritrovandosi	_
+ritrovando	VERB
+si	PRON
+senza	ADP
+prodotti	NOUN
+né	CCONJ
+capitali	NOUN
+cinesi	ADJ
+,	PUNCT
+l'	DET
+America	PROPN
+rischia	VERB
+di	ADP
+andare	VERB
+incontro	ADP
+a	ADP
+un	DET
+aumento	NOUN
+dell'	_
+di	ADP
+l'	DET
+inflazione	NOUN
+e	CCONJ
+dei	_
+di	ADP
+i	DET
+tassi	NOUN
+di	ADP
+interesse	NOUN
+,	PUNCT
+e	CCONJ
+a	ADP
+un	DET
+indebolimento	NOUN
+del	_
+di	ADP
+il	DET
+dollaro	NOUN
+.	PUNCT
+
+Sentence ID: 446
+Sentence: È alquanto esplicativo che la maggior parte dei 47 partecipanti al simposio - influenti figure del settore pubblico e privato di tutto il mondo - non erano a conoscenza del grado in cui l'alimentazione di una madre influenza il benessere della sua prole.
+POS:
+È	AUX
+alquanto	ADV
+esplicativo	ADJ
+che	SCONJ
+la	DET
+maggior	ADJ
+parte	NOUN
+dei	_
+di	ADP
+i	DET
+47	NUM
+partecipanti	NOUN
+al	_
+a	ADP
+il	DET
+simposio	NOUN
+-	PUNCT
+influenti	ADJ
+figure	NOUN
+del	_
+di	ADP
+il	DET
+settore	NOUN
+pubblico	ADJ
+e	CCONJ
+privato	ADJ
+di	ADP
+tutto	DET
+il	DET
+mondo	NOUN
+-	PUNCT
+non	ADV
+erano	AUX
+a	ADP
+conoscenza	NOUN
+del	_
+di	ADP
+il	DET
+grado	NOUN
+in	ADP
+cui	PRON
+l'	DET
+alimentazione	NOUN
+di	ADP
+una	DET
+madre	NOUN
+influenza	ADP
+il	DET
+benessere	NOUN
+della	_
+di	ADP
+la	DET
+sua	DET
+prole	NOUN
+.	PUNCT
+
+Sentence ID: 447
+Sentence: La sua è una storia di successo che può, e anzi deve, essere replicata in tutto il continente.
+POS:
+La	DET
+sua	PRON
+è	AUX
+una	DET
+storia	NOUN
+di	ADP
+successo	NOUN
+che	PRON
+può	AUX
+,	PUNCT
+e	CCONJ
+anzi	ADV
+deve	AUX
+,	PUNCT
+essere	AUX
+replicata	VERB
+in	ADP
+tutto	DET
+il	DET
+continente	NOUN
+.	PUNCT
+
+Sentence ID: 448
+Sentence: In realtà, l'amministrazione ha cercato di rendere il Fmi più interessante, soprattutto per incoraggiare i repubblicani della Camera dei rappresentanti a sostenere le riforme.
+POS:
+In	ADP
+realtà	NOUN
+,	PUNCT
+l'	DET
+amministrazione	NOUN
+ha	AUX
+cercato	VERB
+di	ADP
+rendere	VERB
+il	DET
+Fmi	PROPN
+più	ADV
+interessante	ADJ
+,	PUNCT
+soprattutto	ADV
+per	ADP
+incoraggiare	VERB
+i	DET
+repubblicani	NOUN
+della	_
+di	ADP
+la	DET
+Camera	PROPN
+dei	_
+di	ADP
+i	DET
+rappresentanti	NOUN
+a	ADP
+sostenere	VERB
+le	DET
+riforme	NOUN
+.	PUNCT
+
+Sentence ID: 449
+Sentence: La Germania apprezza questo ruolo, ma non è in grado di esercitarlo.
+POS:
+La	DET
+Germania	PROPN
+apprezza	VERB
+questo	DET
+ruolo	NOUN
+,	PUNCT
+ma	CCONJ
+non	ADV
+è	AUX
+in	ADP
+grado	NOUN
+di	ADP
+esercitarlo	_
+esercitar	VERB
+lo	PRON
+.	PUNCT
+
+Sentence ID: 450
+Sentence: La repubblica di Bulgaria e la Romania diventano membri dell'Unione Europea.
+POS:
+La	DET
+repubblica	NOUN
+di	ADP
+Bulgaria	PROPN
+e	CCONJ
+la	DET
+Romania	PROPN
+diventano	VERB
+membri	NOUN
+dell'	_
+di	ADP
+l'	DET
+Unione	PROPN
+Europea	PROPN
+.	PUNCT
+
+Sentence ID: 451
+Sentence: Le disposizioni di tale atto costituiscono parte integrante del presente trattato.
+POS:
+Le	DET
+disposizioni	NOUN
+di	ADP
+tale	DET
+atto	NOUN
+costituiscono	VERB
+parte	NOUN
+integrante	ADJ
+del	_
+di	ADP
+il	DET
+presente	ADJ
+trattato	NOUN
+.	PUNCT
+
+Sentence ID: 452
+Sentence: Il presente trattato è ratificato dalle Alte parti contraenti secondo le rispettive norme costituzionali.
+POS:
+Il	DET
+presente	ADJ
+trattato	NOUN
+è	AUX
+ratificato	VERB
+dalle	_
+da	ADP
+le	DET
+Alte	ADJ
+parti	NOUN
+contraenti	VERB
+secondo	ADP
+le	DET
+rispettive	ADJ
+norme	NOUN
+costituzionali	ADJ
+.	PUNCT
+
+Sentence ID: 453
+Sentence: Gli strumenti di ratifica sono depositati presso il governo della Repubblica italiana al più tardi il 31 dicembre 2006.
+POS:
+Gli	DET
+strumenti	NOUN
+di	ADP
+ratifica	NOUN
+sono	AUX
+depositati	VERB
+presso	ADP
+il	DET
+governo	NOUN
+della	_
+di	ADP
+la	DET
+Repubblica	NOUN
+italiana	ADJ
+al	_
+a	ADP
+il	DET
+più	ADV
+tardi	ADV
+il	DET
+31	NUM
+dicembre	NOUN
+2006	NUM
+.	PUNCT
+
+Sentence ID: 454
+Sentence: Se tale decisione è adottata nei confronti di uno solo degli stati aderenti il presente trattato entra in vigore per tale stato il 1° gennaio 2008.
+POS:
+Se	SCONJ
+tale	DET
+decisione	NOUN
+è	AUX
+adottata	VERB
+nei	_
+in	ADP
+i	DET
+confronti	NOUN
+di	ADP
+uno	PRON
+solo	ADJ
+degli	_
+di	ADP
+gli	DET
+stati	NOUN
+aderenti	ADJ
+il	DET
+presente	ADJ
+trattato	NOUN
+entra	VERB
+in	ADP
+vigore	NOUN
+per	ADP
+tale	DET
+stato	NOUN
+il	DET
+1°	ADJ
+gennaio	NOUN
+2008	NUM
+.	PUNCT
+
+Sentence ID: 455
+Sentence: Il testo del trattato che adotta una costituzione per l'Europa, redatto in lingua bulgara e rumena, è accluso al presente trattato.
+POS:
+Il	DET
+testo	NOUN
+del	_
+di	ADP
+il	DET
+trattato	NOUN
+che	PRON
+adotta	VERB
+una	DET
+costituzione	NOUN
+per	ADP
+l'	DET
+Europa	PROPN
+,	PUNCT
+redatto	VERB
+in	ADP
+lingua	NOUN
+bulgara	ADJ
+e	CCONJ
+rumena	ADJ
+,	PUNCT
+è	AUX
+accluso	VERB
+al	_
+a	ADP
+il	DET
+presente	ADJ
+trattato	NOUN
+.	PUNCT
+
+Sentence ID: 456
+Sentence: Essa presenta un progetto dei protocolli al consiglio per la conclusione.
+POS:
+Essa	PRON
+presenta	VERB
+un	DET
+progetto	NOUN
+dei	_
+di	ADP
+i	DET
+protocolli	NOUN
+al	_
+a	ADP
+il	DET
+consiglio	NOUN
+per	ADP
+la	DET
+conclusione	NOUN
+.	PUNCT
+
+Sentence ID: 457
+Sentence: Il consiglio delibera all'unanimità previa consultazione del parlamento europeo.
+POS:
+Il	DET
+consiglio	NOUN
+delibera	VERB
+all'	_
+a	ADP
+l'	DET
+unanimità	NOUN
+previa	ADJ
+consultazione	NOUN
+del	_
+di	ADP
+il	DET
+parlamento	NOUN
+europeo	ADJ
+.	PUNCT
+
+Sentence ID: 458
+Sentence: I contratti relativi alle azioni a titolo di tali programmi dovranno essere assegnati entro i due anni successivi.
+POS:
+I	DET
+contratti	NOUN
+relativi	ADJ
+alle	_
+a	ADP
+le	DET
+azioni	NOUN
+a	ADP
+titolo	NOUN
+di	ADP
+tali	DET
+programmi	NOUN
+dovranno	AUX
+essere	AUX
+assegnati	VERB
+entro	ADP
+i	DET
+due	NUM
+anni	NOUN
+successivi	ADJ
+.	PUNCT
+
+Sentence ID: 459
+Sentence: Non è concessa alcuna proroga del periodo per l'assegnazione dei contratti.
+POS:
+Non	ADV
+è	AUX
+concessa	VERB
+alcuna	DET
+proroga	NOUN
+del	_
+di	ADP
+il	DET
+periodo	NOUN
+per	ADP
+l'	DET
+assegnazione	NOUN
+dei	_
+di	ADP
+i	DET
+contratti	NOUN
+.	PUNCT
+
+Sentence ID: 460
+Sentence: Proroghe limitate della durata possono essere concesse per l'esecuzione dei contratti, in via eccezionale e in casi debitamente giustificati.
+POS:
+Proroghe	NOUN
+limitate	ADJ
+della	_
+di	ADP
+la	DET
+durata	NOUN
+possono	AUX
+essere	AUX
+concesse	VERB
+per	ADP
+l'	DET
+esecuzione	NOUN
+dei	_
+di	ADP
+i	DET
+contratti	NOUN
+,	PUNCT
+in	ADP
+via	NOUN
+eccezionale	ADJ
+e	CCONJ
+in	ADP
+casi	NOUN
+debitamente	ADV
+giustificati	ADJ
+.	PUNCT
+
+Sentence ID: 461
+Sentence: Non si applicano tuttavia le disposizioni previste all'articolo 165 del regolamento finanziario applicabile al bilancio generale delle comunità europee.
+POS:
+Non	ADV
+si	PRON
+applicano	VERB
+tuttavia	ADV
+le	DET
+disposizioni	NOUN
+previste	VERB
+all'	_
+a	ADP
+l'	DET
+articolo	NOUN
+165	NUM
+del	_
+di	ADP
+il	DET
+regolamento	NOUN
+finanziario	ADJ
+applicabile	ADJ
+al	_
+a	ADP
+il	DET
+bilancio	NOUN
+generale	ADJ
+delle	_
+di	ADP
+le	DET
+comunità	NOUN
+europee	ADJ
+.	PUNCT
+
+Sentence ID: 462
+Sentence: Il comitato adotta il proprio regolamento interno.
+POS:
+Il	DET
+comitato	NOUN
+adotta	VERB
+il	DET
+proprio	DET
+regolamento	NOUN
+interno	ADJ
+.	PUNCT
+
+Sentence ID: 463
+Sentence: Il primo giorno lavorativo di ciascun mese del corrispondente anno viene corrisposto alla Bulgaria e alla Romania un dodicesimo di ciascun importo annuale.
+POS:
+Il	DET
+primo	ADJ
+giorno	NOUN
+lavorativo	ADJ
+di	ADP
+ciascun	DET
+mese	NOUN
+del	_
+di	ADP
+il	DET
+corrispondente	ADJ
+anno	NOUN
+viene	AUX
+corrisposto	VERB
+alla	_
+a	ADP
+la	DET
+Bulgaria	PROPN
+e	CCONJ
+alla	_
+a	ADP
+la	DET
+Romania	PROPN
+un	DET
+dodicesimo	ADJ
+di	ADP
+ciascun	DET
+importo	NOUN
+annuale	ADJ
+.	PUNCT
+
+Sentence ID: 464
+Sentence: Tutti i fondi inutilizzati o spesi ingiustificatamente sono recuperati dalla commissione.
+POS:
+Tutti	DET
+i	DET
+fondi	NOUN
+inutilizzati	VERB
+o	CCONJ
+spesi	VERB
+ingiustificatamente	ADV
+sono	AUX
+recuperati	VERB
+dalla	_
+da	ADP
+la	DET
+commissione	NOUN
+.	PUNCT
+
+Sentence ID: 465
+Sentence: La commissione può adottare qualsiasi provvedimento tecnico necessario al funzionamento dello strumento temporaneo per i flussi di tesoreria e strumento Schengen.
+POS:
+La	DET
+commissione	NOUN
+può	AUX
+adottare	VERB
+qualsiasi	DET
+provvedimento	NOUN
+tecnico	ADJ
+necessario	ADJ
+al	_
+a	ADP
+il	DET
+funzionamento	NOUN
+dello	_
+di	ADP
+lo	DET
+strumento	NOUN
+temporaneo	ADJ
+per	ADP
+i	DET
+flussi	NOUN
+di	ADP
+tesoreria	NOUN
+e	CCONJ
+strumento	NOUN
+Schengen	PROPN
+.	PUNCT
+
+Sentence ID: 466
+Sentence: Nella scelta di tali misure si dovrà accordare la precedenza a quelle che turbino il meno possibile il funzionamento del mercato interno.
+POS:
+Nella	_
+In	ADP
+la	DET
+scelta	NOUN
+di	ADP
+tali	DET
+misure	NOUN
+si	PRON
+dovrà	AUX
+accordare	VERB
+la	DET
+precedenza	NOUN
+a	ADP
+quelle	PRON
+che	PRON
+turbino	VERB
+il	DET
+meno	NOUN
+possibile	ADJ
+il	DET
+funzionamento	NOUN
+del	_
+di	ADP
+il	DET
+mercato	NOUN
+interno	ADJ
+.	PUNCT
+
+Sentence ID: 467
+Sentence: Le misure non sono mantenute oltre il tempo strettamente necessario e, in ogni caso, cessano di essere applicate una volta attuato l'impegno pertinente.
+POS:
+Le	DET
+misure	NOUN
+non	ADV
+sono	AUX
+mantenute	VERB
+oltre	ADP
+il	DET
+tempo	NOUN
+strettamente	ADV
+necessario	ADJ
+e	CCONJ
+,	PUNCT
+in	ADP
+ogni	DET
+caso	NOUN
+,	PUNCT
+cessano	VERB
+di	ADP
+essere	AUX
+applicate	VERB
+una	DET
+volta	NOUN
+attuato	VERB
+l'	DET
+impegno	NOUN
+pertinente	ADJ
+.	PUNCT
+
+Sentence ID: 468
+Sentence: Esse possono tuttavia essere applicate oltre il periodo specificato nel primo comma fino a che non siano adempiuti i pertinenti impegni.
+POS:
+Esse	PRON
+possono	AUX
+tuttavia	ADV
+essere	AUX
+applicate	VERB
+oltre	ADP
+il	DET
+periodo	NOUN
+specificato	ADJ
+nel	_
+in	ADP
+il	DET
+primo	ADJ
+comma	NOUN
+fino	ADV
+a	ADP
+che	SCONJ
+non	ADV
+siano	AUX
+adempiuti	VERB
+i	DET
+pertinenti	ADJ
+impegni	NOUN
+.	PUNCT
+
+Sentence ID: 469
+Sentence: Esse possono tuttavia essere applicate oltre il periodo specificato nel primo comma finché tali carenze persistono.
+POS:
+Esse	PRON
+possono	AUX
+tuttavia	ADV
+essere	AUX
+applicate	VERB
+oltre	ADP
+il	DET
+periodo	NOUN
+specificato	ADJ
+nel	_
+in	ADP
+il	DET
+primo	ADJ
+comma	NOUN
+finché	SCONJ
+tali	DET
+carenze	NOUN
+persistono	VERB
+.	PUNCT
+
+Sentence ID: 470
+Sentence: Il parlamento europeo apporta al suo regolamento interno gli adattamenti resi necessari dall'adesione.
+POS:
+Il	DET
+parlamento	NOUN
+europeo	ADJ
+apporta	VERB
+al	_
+a	ADP
+il	DET
+suo	DET
+regolamento	NOUN
+interno	ADP
+gli	DET
+adattamenti	NOUN
+resi	VERB
+necessari	ADJ
+dall'	_
+da	ADP
+l'	DET
+adesione	NOUN
+.	PUNCT
+
+Sentence ID: 471
+Sentence: Un cittadino di ogni nuovo stato membro è nominato membro della commissione a partire dalla data dell'adesione.
+POS:
+Un	DET
+cittadino	NOUN
+di	ADP
+ogni	DET
+nuovo	ADJ
+stato	NOUN
+membro	NOUN
+è	AUX
+nominato	VERB
+membro	NOUN
+della	_
+di	ADP
+la	DET
+commissione	NOUN
+a	ADP
+partire	VERB
+dalla	_
+da	ADP
+la	DET
+data	NOUN
+dell'	_
+di	ADP
+l'	DET
+adesione	NOUN
+.	PUNCT
+
+Sentence ID: 472
+Sentence: Questo giudice è estratto a sorte.
+POS:
+Questo	DET
+giudice	NOUN
+è	AUX
+estratto	VERB
+a	ADP
+sorte	NOUN
+.	PUNCT
+
+Sentence ID: 473
+Sentence: Il mandato dell'altro giudice scade il 6 ottobre 2012.
+POS:
+Il	DET
+mandato	NOUN
+dell'	_
+di	ADP
+l'	DET
+altro	ADJ
+giudice	NOUN
+scade	VERB
+il	DET
+6	NUM
+ottobre	NOUN
+2012	NUM
+.	PUNCT
+
+Sentence ID: 474
+Sentence: Il mandato dell'altro giudice scade il 31 agosto 2010.
+POS:
+Il	DET
+mandato	NOUN
+dell'	_
+di	ADP
+l'	DET
+altro	ADJ
+giudice	NOUN
+scade	VERB
+il	DET
+31	NUM
+agosto	NOUN
+2010	NUM
+.	PUNCT
+
+Sentence ID: 475
+Sentence: Il tribunale, di concerto con la corte di giustizia, apporta al suo regolamento di procedura gli adattamenti resi necessari dall'adesione.
+POS:
+Il	DET
+tribunale	NOUN
+,	PUNCT
+di	ADP
+concerto	NOUN
+con	ADP
+la	DET
+corte	NOUN
+di	ADP
+giustizia	NOUN
+,	PUNCT
+apporta	VERB
+al	_
+a	ADP
+il	DET
+suo	DET
+regolamento	NOUN
+di	ADP
+procedura	NOUN
+gli	DET
+adattamenti	NOUN
+resi	VERB
+necessari	ADJ
+dall'	_
+da	ADP
+l'	DET
+adesione	NOUN
+.	PUNCT
+
+Sentence ID: 476
+Sentence: I regolamenti di procedura così adattati sono sottoposti all'approvazione del consiglio.
+POS:
+I	DET
+regolamenti	NOUN
+di	ADP
+procedura	NOUN
+così	ADV
+adattati	VERB
+sono	AUX
+sottoposti	VERB
+all'	_
+a	ADP
+l'	DET
+approvazione	NOUN
+del	_
+di	ADP
+il	DET
+consiglio	NOUN
+.	PUNCT
+
+Sentence ID: 477
+Sentence: Il mandato dei membri recentemente nominati scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
+POS:
+Il	DET
+mandato	NOUN
+dei	_
+di	ADP
+i	DET
+membri	NOUN
+recentemente	ADV
+nominati	VERB
+scade	VERB
+contemporaneamente	ADV
+a	ADP
+quello	PRON
+dei	_
+di	ADP
+i	DET
+membri	NOUN
+che	PRON
+sono	AUX
+in	ADP
+carica	NOUN
+al	_
+a	ADP
+il	DET
+momento	NOUN
+dell'	_
+di	ADP
+l'	DET
+adesione	NOUN
+.	PUNCT
+
+Sentence ID: 478
+Sentence: Le misure sono adottate in conformità delle regole di voto che disciplinano l'adozione dell'atto rispetto al quale si chiede una deroga temporanea.
+POS:
+Le	DET
+misure	NOUN
+sono	AUX
+adottate	VERB
+in	ADP
+conformità	NOUN
+delle	_
+di	ADP
+le	DET
+regole	NOUN
+di	ADP
+voto	NOUN
+che	PRON
+disciplinano	VERB
+l'	DET
+adozione	NOUN
+dell'	_
+di	ADP
+l'	DET
+atto	NOUN
+rispetto	ADV
+al	_
+a	ADP
+il	DET
+quale	PRON
+si	PRON
+chiede	VERB
+una	DET
+deroga	NOUN
+temporanea	ADJ
+.	PUNCT
+
+Sentence ID: 479
+Sentence: Tali adattamenti, se adottati dopo l'adesione, sono applicabili dalla data di adesione.
+POS:
+Tali	DET
+adattamenti	NOUN
+,	PUNCT
+se	SCONJ
+adottati	VERB
+dopo	ADP
+l'	DET
+adesione	NOUN
+,	PUNCT
+sono	AUX
+applicabili	ADJ
+dalla	_
+da	ADP
+la	DET
+data	NOUN
+di	ADP
+adesione	NOUN
+.	PUNCT
+
+Sentence ID: 480
+Sentence: Il testo del suddetto trattato, redatto in lingua bulgara e rumena, è allegato al presente protocollo.
+POS:
+Il	DET
+testo	NOUN
+del	_
+di	ADP
+il	DET
+suddetto	ADJ
+trattato	NOUN
+,	PUNCT
+redatto	VERB
+in	ADP
+lingua	NOUN
+bulgara	ADJ
+e	CCONJ
+rumena	ADJ
+,	PUNCT
+è	AUX
+allegato	VERB
+al	_
+a	ADP
+il	DET
+presente	ADJ
+protocollo	NOUN
+.	PUNCT
+
+Sentence ID: 481
+Sentence: È istituita una superficie di base nazionale per ciascuno stato membro produttore.
+POS:
+È	AUX
+istituita	VERB
+una	DET
+superficie	NOUN
+di	ADP
+base	NOUN
+nazionale	ADJ
+per	ADP
+ciascuno	DET
+stato	NOUN
+membro	NOUN
+produttore	NOUN
+.	PUNCT
+
+Sentence ID: 482
+Sentence: Tuttavia, per la Francia sono istituite due superfici di base.
+POS:
+Tuttavia	ADV
+,	PUNCT
+per	ADP
+la	DET
+Francia	PROPN
+sono	AUX
+istituite	VERB
+due	NUM
+superfici	NOUN
+di	ADP
+base	NOUN
+.	PUNCT
+
+Sentence ID: 483
+Sentence: È fissata una superficie massima garantita, pari a 829229 ettari.
+POS:
+È	AUX
+fissata	VERB
+una	DET
+superficie	NOUN
+massima	ADJ
+garantita	VERB
+,	PUNCT
+pari	ADJ
+a	ADP
+829229	NUM
+ettari	NOUN
+.	PUNCT
+
+Sentence ID: 484
+Sentence: Se tale decisione è presa anteriormente alla data di adesione, essa entra in vigore solo dalla data di adesione.
+POS:
+Se	SCONJ
+tale	DET
+decisione	NOUN
+è	AUX
+presa	VERB
+anteriormente	ADV
+alla	_
+a	ADP
+la	DET
+data	NOUN
+di	ADP
+adesione	NOUN
+,	PUNCT
+essa	PRON
+entra	VERB
+in	ADP
+vigore	NOUN
+solo	ADV
+dalla	_
+da	ADP
+la	DET
+data	NOUN
+di	ADP
+adesione	NOUN
+.	PUNCT
+
